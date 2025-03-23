@@ -1,0 +1,837 @@
+{
+  "input": "it, Betrag, Terminalstandort) werden zur Prüfung und Ab-\nWicklung meiner Zahlung an InterCard übermittelt.\nBei einer RQcklastschrift wird die Karte bl \ndas Konto bis zur Forderungs-\nbegleichung in einer InteÆard-Sperrdatei gopeichert, sofern nicht Rechte\naus dem Grundgeschaft (Ζ.Β. wg. Sachmangels) geltend gemadit wrrrden.\nDie Sperrdatei sowie die Zahlungsdaten werden zur Verhinderung von\nKartenmissbrauch und Begrenzung des Zahlungsausfallrisikos von\nInterCard gespeichert und genuttt. Interta^ e",
+  "output": "The text discusses the transmission of payment details to InterCard for verification and processing. In case of a chargeback, the card and the account are stored in an InterCard blocking file until the claim is settled, unless rights are asserted from the basic business (e.g., due to a defect). The blocking file and payment data are stored by InterCard to prevent card misuse and limit the risk of payment default.",
+  "summary_type": "receipts"
+}{
+  "input": "Bal l indamm ،1ü\n20095 Hambury\n.ịíţíf.■^4Uịị4ฬţ■ịịrịţ.f■ĄiịJf^.ị.■^:■ịήf:ií.ặ■Ą:ị■ịịţ\nUst.-Id.\n 2ا0حÖ231Í124\nا٢ا|ا١ا!ا\n*nt\n****\nRechnungsnummer; 185229\nRechnungsdatum: 24.04.2019 19:04:59\nňusrutnummer:\n452\n3\nI'\nEs bediente Sie BL 2\n#\n 12\n1   حLachs Avocado Bowl\n11(45\nRechfiui١gsbetf-ay\nMaster\nEUR\n11 ,45\n11 ,45\nSteuersatz\n19» Mwst\nMetto \nMwSt\n9,62 \n1 ,83\nBrutto\n11 ,45\nWir danken für ït١ren Besuch!\n،1\n4ййаЗ؛؛с91)аФ1е؛10،1а611аб7؛С'4،;34Ы\n\n--------------------------------------------------",
+  "output": "The text appears to be a receipt from a business located at Ballindamm, 20095 Hamburg. The invoice number is 185229 and the date is 24.04.2019 19:04:59. The purchased item is a Lachs Avocado Bowl, priced at 11.45 EUR. The net amount is 9.62 EUR, VAT is 1.83 EUR, and the gross amount is 11.45 EUR. The payment method is Master.",
+  "summary_type": "receipts"
+}{
+  "input": "ise\nDer Online Fanshop von Jim Block.\nBekenne dich zu deinen Leidenschaften,\nwww.lb-fanshop.de\n\n--------------------------------------------------",
+  "output": "Jim Block's online fan shop is available at www.lb-fanshop.de, where you can express your passions.",
+  "summary_type": "receipts"
+}{
+  "input": "Rücklastschrift), wird dies in eine Sperrdatei\neingetragen. Solange ein Sperreintrag besteht, ist eine Zahlung mit\ngirocard und Unterschrift nicht möglich. Der Eintrag in der Sperrdatei wird\nRechte aus dem getätigten Kauf geltend machen (z.B. bei Sachmangel oder\nRückgabe der Ware).\nUm die Lesbarkeit des Bondrucks langfristig zu gewährleisten, sind bei der\nund Kontakt mit\nlen zu vermeiden.\nLagerung direktes Sonnenlicht, feuchte Umgebụng\nWeichmachernDlen/Fetten^AlkohGl^aggressivenChemikali\nSEPA -",
+  "output": "The text discusses a system where if a direct debit is returned, it is entered into a block file. As long as there is a block entry, payment with a girocard and signature is not possible. The entry in the block file does not affect the rights from the purchase made. To ensure the long-term readability of the bond print, it is necessary to avoid direct sunlight, humid environment, and contact with plasticizers, oils/fats, alcohol, and aggressive chemicals during storage.",
+  "summary_type": "receipts"
+}{
+  "input": "Online-Ticket\nICE Fahrkarte\nFahrtantritt am 28.07.2018\nFlexpreis (Einfache Fahrt)\nNE 565\nKlasse:\n1\nErw:\n1, mit 1 BC50\nHinfahrt:\nFrankfurt(M)Flugh. \n Bonn(TG 2600), mit ICE\nÜber:\nVIA: LM*MT*Siegburg/Bonn\nUmtausch/Erstattung kostenlos bis 1 Tag vor Reiseantritt (Hinfahrt).\nZahlungspositionen und Preis\nPositionen\nPreis\nMwSt (D) 19%\nMwSt (D) 7%\nICE Fahrkarte\n1\n56,10€\n52,50€\n8,38€\n3,60€\n0,24€\nReservierung\n1\n0,00€\nSumme\n56,10€\n52,50€\n8,38€\n3,60€\n0,24€\nKreditkartenzahlung\nBetrag\n56,10€\nVU-Nr\n4556695619",
+  "output": "This is an online ticket for a single journey on the ICE train NE 565, from Frankfurt Airport to Bonn, via Siegburg/Bonn, on the 28th of July, 2018. The ticket is for one adult in the first class with a BC50 card. The ticket can be exchanged or refunded for free until one day before the journey. The ticket price is 56.10€, including VAT. The payment was made by credit card.",
+  "summary_type": "receipts"
+}{
+  "input": "das kartenausgebende Kreditinstitut die\nOrt, Unternehmen und Filiale) werden zur\n\n--------------------------------------------------",
+  "output": "<NULL>",
+  "summary_type": "receipts"
+}{
+  "input": "2 80\n4,50\nTotal\n51)90 Euro\nNettoumsatz\nVerkaufe 19 ةinkl\nMwst 19%\nVerkäufe 7% inkl .\nMwst 7%\n46)69 Euro\n19,20 Euro\n3,07 Euro\n32)70 Euro\n2)14 Euro\n51\n9٠\nا Eura\nЕС\nDatum und Zeit; 06.10.2021 20:36:50'\nUmsatz Bruttoumsatz\nSe.٩-Nr. : 42146 ị ร/Ν: 2691712\nBeginn/Ende; 6.10.2021 18:58 i 6.10.2021\n20:37\nTransaktion: 40760 i Signaturzähler;\n107145\nRR9r+-HFuAh-o3xZX-KRtZC-Vt44k-8tŨjR-QŨ1n1-\nVEeWE-C8V9B-13.xHq-VtGXx-2MX+a-/HnJlEAAKpe-\nT5D5v-XFHJ0-3qu'١٠lp-I4zzF-7VaGA-ltg/0-mzeqY-\nK15DR-t6TDJ-s/bQy-spIRX-",
+  "output": "<CENSORED>",
+  "summary_type": "receipts"
+}{
+  "input": "sit Applied\nRoom Rate\nRoom Tax\nResort Fee\nResort Fee Tax\nGuest Overnight Parking Fee\nRoom Rate\nRoom Tax\nResort Fee\nResort Fee Tax\nGuest Overnight Parking Fee\nRoom Rate\nRoom Tax\nResort Fee\nResort Fee Tax\nGuest Overnight Parking Fee\nRoom Rate\nRoom Tax\nResort Fee\nResort Fee Tax\nGuest Overnigtit Parking Fee\nMastercard\nx.mxxxxx-m.ồ!)؟؛؟\n209.75\n1,222.32\n185.00\n24.75\n39.00\n5.22\n15.00\n225.00\n30.11\n39.00\n5.22\n15.00\n138.75\n18.56\n39.00\n5.22\n15.00\n329.00\n44.02\n39.00\n5.22\n15.00\n-200.00\nMASTERCARD ΧΧΧΧΧΧΧΧΧΧΧ",
+  "output": "<CENSORED>",
+  "summary_type": "receipts"
+}{
+  "input": "atten sie\n5 Punkte erhalten؛\nGleich hier am REWE Service-Punkt Im Markt\nanmelden oder auf www.rewe.de/payback\nVielen Dank für Ihren Einkauf\nWir sind für Sie da:\nSa. 07:00 bis 22:00 Uhr\nMo.\nSie haben Fragen?\nAntwoi'ten gibt es unter www.rewe.de\n\n--------------------------------------------------",
+  "output": "The text mentions that you can receive 5 points at the REWE service point in the market or by registering at www.rewe.de/payback. It thanks you for your shopping and informs that they are available on Saturdays from 07:00 to 22:00. If you have any questions, you can find answers at www.rewe.de.",
+  "summary_type": "receipts"
+}{
+  "input": "och kelne PAYBACK Karte?\nFür diesen Einkauf hatten Sie\n7 Punkte erhalten.\nGleich hier am REWE Servlce-Punkt \n1  اااMarkt\nanmelden otler auf www.rewe.de/payback\nVielen Dank für Itiren Einkauf\nWir sind für Sie da:\nMo. - Sa. 07:00 bis 22:00 Uhr\nSie haben Fragen?\nAntworten gllit es unter www.rewe.de\n\n--------------------------------------------------",
+  "output": "For the purchase, 7 PAYBACK points were received. You can register at the REWE service point in the market or at www.rewe.de/payback. The service is available from Monday to Saturday, 7:00 to 22:00. For any questions, answers can be found at www.rewe.de.",
+  "summary_type": "receipts"
+}{
+  "input": "Online-Ticket\nIC/EC Fahrkarte\nFahrtantritt am 09.03.2018\nFlexpreis (Einfache Fahrt)\nKlasse:\n1\nErw:\n1, mit 1 BC50\nHinfahrt:\nHamburg+City \n Bonn+City, mit IC/EC\nÜber:\nVIA: HAR*(H*BI*HA/HB*MS*DU)*K\nUmtausch/Erstattung kostenlos bis 1 Tag vor Reiseantritt (Hinfahrt).\nZahlungspositionen und Preis\nPositionen\nPreis\nMwSt (D) 19%\nMwSt D: 7%\nIC/EC Fahrkarte\n1\n79,50€\n79,50€\n12,69€\nReservierung\n1\n0,00€\nSumme\n79,50€\n79,50€\n12,69€\nKreditkartenzahlung\nBetrag\n79,50€\nVU-Nr\n4556695619\nTransaktions-Nr\n827416\nDatum",
+  "output": "This is an online ticket for an IC/EC train journey from Hamburg+City to Bonn+City, scheduled for 09.03.2018. The ticket is for one adult in the first class, with a BC50 card. The ticket is exchangeable/refundable for free until one day before the journey. The ticket price is 79.50€, including a 19% VAT and a 7% VAT. The payment was made by credit card. The VU number is 4556695619 and the transaction number is 827416.",
+  "summary_type": "receipts"
+}{
+  "input": "cn\ncn cn\nCO\nao\nCD\nQ_\n<r CO\nCO\nLD\n■M\"\nCD\nT—\nCD\nm-\nCD\nT—\nCD\nCM\nCM\nCD\nCD\ny\nt\nr---\nO\n• -\nCO\nQC\ni_n\nCM\nCD\ncn\nCO\nCD\nCD\nCM\nCD cn\nCD\nl—\nCM\nTO\n■sr\n+-»\nCJ\nCO\nT—\nTO\nCD\nTO it\n31\ncn\n>»\nCJ\ncn\nJ>\nCD\n<—\nh—\nCD\nLU\n•Γ\nQ.\ncn\nCO\nO\nΙ\nCL u\nCD\ncn\nL. Ο-\n<XL\n■—\nD\nCD\nTO\nCO\nCJ) ΓΜ XI\nc CO\n£Z\nCJ\no\nCO\n<C\nCD\nc\n•\nTD\n■^r\nCD\n03\nCD\nCJ\n1\n>s a\n1\n-f—'\nQC\n+-·\nCJ Li-\na\n<C\nCD\n31 -C\n—\n1\nCJ\nCD\nLU\nCD 31\n31\nTO\ny\n1—\n•r—\n+-*\nCZ\nř—\nCD\ncn\n1—1 31\n*—\ny\na\n1—1\n1—t\nCD\nit\n-ł-*\n1\nCD\n£=\nit\n>-\nJO\n1\nLU\nTO\nCO\n1—\n=5\nCO\nto\nQC XI\nCO\nCD\nCO\nCD LU\nCJ\nCJ\na\nII\n1",
+  "output": "<NULL>",
+  "summary_type": "receipts"
+}{
+  "input": "m:\nDo, 22.02.2024\nTe!efon:\n0341/\nMob!!:\n.49 171 7803957\nTelefax:\n0341/\nE-Mail:\nJs.walter@gmx.net\nKundennr.:\n44124\nRechnung Nummer 437.3\nMenge\nBezeichnung\nWert EUR\nArtikelnr.\nPreis EUR\nArbeitsbeschreibunq:\n15\nBremsscheibe erneuern vorn zzgl. Material\n203mm\n28,50\n217.00\n1,90\n15 Bremsscheibe erneuern hinten zzgl. Material\n218.00\n1,90\n28,50\nHydraulische Bremsanlage montieren vorn&hinten zzgl.Mat\n40\n230.00\n76,00\n1,90\n20\nKette & Kassette wechseln zzgl. Material\n10.00\n1,90\n38,00\nKlein- und Reinigungsma",
+  "output": "On 22.02.2024, a bill with invoice number 437.3 was issued to customer number 44124. The services provided include the renewal of front and rear brake discs, the installation of a hydraulic brake system, and the replacement of a chain and cassette. The costs for these services are €217.00, €218.00, €230.00, and €10.00 respectively, all excluding material costs. Contact information for the issuer includes a phone number, mobile number, fax number, and email (Js.walter@gmx.net).",
+  "summary_type": "receipts"
+}{
+  "input": "rนร๒د\nSo niacht №ทน s,5tiß.\nnema Β.ν\n ا۶irỏĨ  G\n آآلآاا,لاGreater\n-\n  2 Lübeck\n 2ةة؛؛\n -\n 9\nMühleiibrilcke\nLeipzig GineStar\n ]ا6لا1؛)ة1أ1)ا؛لا1\n '\nLeterssti. ،14 - MỈ09 Leipzig\n222\n \n66 \n33\n \n0341\n \n:\n.\nLm \n -٠Tel . : 0341 33 60 300\nUSlIO^r. : ot 288 270 772\n20اا0233\n \n/:ة5\n6:1أةه\nArtikel\n0002 i Lrw 30 Lege\n0002 X 30 Brtlle Erw. (Zedt.alar\n32,00 EOk\nGesamtbetrag\n01\n56أ3ًا\nا-ا\n 'wOescht ihnen viel spali und gute LInterlialtung\nArbeltsstatlen: 1.-Τ03\nا\nI\n3ه4\n9وة\nه\nOies ist kei!؛e Rechnung i i»\nnne",
+  "output": "<NULL>",
+  "summary_type": "receipts"
+}{
+  "input": "叩\n司珊Ｕ\n山Ｎ、叩\n鐸ｈ\n！Ⅲ《０\n‐ｈ\n８\n３\n３\nＩ\nｒ\n‐\n巾，４・ｊＪ．\nｖ八\n（山\nｒｌ\nｐ幹\n・４\n４．町Ⅱ\nＸ\n脚Ⅲ\n４斗\nｌｊ\nいけ，\nｑＪ\n星\nｐ』\n日脚\nＤ\nｈＵ\nＤ\nＢ\n０\nｑ\nＤ\nＴＩＤ！\n暁イＪ\n、『，\n恥じ隼６Ｊ肘\nｎｂ\n二\nｒⅢⅡ\nⅡ\n目\nⅡ\nｒ\n←ｂ\n６\nｑ\nｌ\n－\n呵Ｊ\n〆Ｉ\n且Ｕ\n◆Ｌ\nＭⅧ\nｌⅡ\n。■Ｉ\n鉗剴\n抗し\n畠\n３\n３\n２\n１\nＫ\n八ＨＭ\nＦＭ\n帥ⅢⅧ\n副叩叩\n凸凸０\n、’】\n恥Ⅱ咽\n、〆〕\n山一Ｒ、\n《鼬》\nＭ叩\n■\n４\nロ\n日\n狐ＭＭＷ\n”Ⅱ恥\nＲｈＭⅧ\n雁Ⅳ．’\nⅢＭ川\n鍔ロザ■Ⅱ\n、し‐\n“副ｍｕ\n。ｈⅡ叩\n脚軍叩》\n（Ｍｗ\nＬ【Ⅱ叩\nハ０】\n皿ｕ\n勺〆士\n《７』\n毎口１９\nｒ，\nｎ戸１\n．日Ⅱ４\n拝●、ｖ\n叩Ｖマ\nＭＵ\n‐・何凹\n弩Ｊ』\nⅢ】\n巾Ⅷ可\n・し\n損ｕ\n負》\nｒ\n‐\n１\nり\n０\n９\n６\n｝ャＫ\nｐＩ\n９\n川\n日\n崎\nＳ\nｒ\nｔ\nｎ\nＴＩ\n平１１\nＪＪ\nｆＩ\nｎＵ\n、Ⅱ\n、Ⅱ\n侭』\n７Ｌ\n１１\nｆＩ\n＋卜\n和ヨ\n＋Ｌ\n州ｕ\n价川\n↑\nｎＪ\n曾剖\n》１４\nＴｌ\nＶ～\n八Ｈ\n．。Ｉ\n碓凹\nｆＵ\nｆＪ\nＬｕ\n川叩\nⅢｕ\n１１",
+  "output": "<NULL>",
+  "summary_type": "receipts"
+}{
+  "input": "Haymarket\nEdinburgh\nΕΗ12 5DS\nZA179639-POS-٥4\n2Ẽ Aug 2019 20.16\nGary\nTable: 26 \nc: 2\nAcc No; 2747\n4\nGuinness Keg\nSteak Ale Pie\nChicken Mush Pie\n17.00\n1\n11 .00\n11 .00\n1\nProduct Group Summary\nFood And Grink\n39.00\n20% VAT Net\n20% VAT\n20% VAT Total\n32.50\n6.50\n39.00\nTota\n£39.๐0\nNicholson's Gift Car^'. - ti.v \nrf؟c^\ngift for pub lovers ؛jJSt \na member\nof our team today c: g اfn;\n,nicholscnspuos.co. ؛\n ,iftcards\nTel 0131 223 2(\nVAT 21 \n153\n .ثم\n\n--------------------------------------------------",
+  "output": "On 2nd August 2019, at Haymarket, Edinburgh, a customer named Gary at table 26, with account number 2747, ordered 4 Guinness Kegs, a Steak Ale Pie, and a Chicken Mush Pie. The total cost of the food and drink was £39.00, including 20% VAT. The net amount before VAT was £32.50, and the VAT amount was £6.50.",
+  "summary_type": "receipts"
+}{
+  "input": "2.06.2019\nZangenabdruck\nHerr  Jens walter\nAuftragsnummer:\nZHKBHV\nIhre Reiseverbindung und Reservierung Hinfahrt am 02.06.2019\nHalt\nDatum\nZeit\nGleis\nProdukte\nReservierung\nLeipzig Hbf\n02.06.\nab 18:16 11\nHamburg Hbf\n02.06.\nan 22:21 6\nICE 504\n1 Sitzplatz, Wg. 14, Pl. 51, 1 Fenster, Großraum,\nNichtraucher,\nRuhebereich, Res.Nr. 8039 7012 2619 27\nWichtige Nutzungshinweise:\n- Ihre Fahrkarte gilt nur zusammen mit einem amtlichen Lichtbildausweis (z.B. Personalausweis) oder Ihrer BahnCard.\n- Mit Ihrer Fah",
+  "output": "On 2.06.2019, Jens Walter has a reservation for a trip from Leipzig Hbf, departing at 18:16 from platform 11, to Hamburg Hbf, arriving at 22:21 on platform 6, on ICE 504. His seat is in carriage 14, place 51, by a window in a non-smoking, quiet area. The reservation number is 8039 7012 2619 27. The ticket is only valid with an official photo ID or BahnCard.",
+  "summary_type": "receipts"
+}{
+  "input": "、\nⅡ\nⅡ\nⅡ\nⅡ\nＷ\n▲\nｑ\n日\nⅡ\n〔\nＨ\nＵ\nⅢ\nⅡ\nい\n】\n肥\n弓\nＪ\n，\n、\n〃\n』\n、\nβ\n』\n０\n１\n０\n』\n企\n、\nｕ\n帝\nⅡ\nⅡ\n今\n、\nｌ\n〕\n。\n■\nⅡ\n０\n出\n川\n〕\nで\n〃\n仁\nワ\nグ\n』\n（\n辻\nⅧ\n画\n‐\nⅢ\nＫ\n伽\nｎ\nⅡ\n雪\n二\nＮ\n幹\n解\nⅡ\n０\n■\n垣\n《\nｍ\nＷ\nｖ\nＡ\nｍ\nⅡ\n〕\n穴\nⅢ\nリ\n、\nク\nグ\n』\nＬ\nⅡ\n〕\n晶\n穴\n〕\n八\nⅡ\nＵ\n齢\nⅡ\nⅡ\n穴\n’\nＭ\nｆ\nｎ\nＨ\n川\n叩\nⅡ\nＶ\nｎ\nⅢ\n画\n一\n０\n０\n，\n０\n（\n吟\n７\nＬ\n叩\n脚\nⅣ\n里\n川\n＋\nｌ\nや\nｎ\n叩\n叩\n一\n。\nＬ\nⅧ\n坪\nｎ\nＪ\nＬ\n恥\nク\nク\n』\n皿\nⅡ\n咄\n卯\n・\nも\n■\nＩ\nＭ\n百\n尺\nハ\n０\n‐\n鮎\n，\nⅡ\nⅡ\n叩\n（\nＭ\n】\nｎ\n、\n図\nｎ\n叩\n０\n〃\nＲ\nい\nＦ\nレ\nー\n４\nＢ\nＩ\nｌ\n、\nⅢ\n叩\n心\n、\nＪ\n〔\n料\n耳\n殉\nＨ\n】\nⅡ\nⅡ\n》\n『\nⅡ\nⅡ\nＩ\n１\n１\nⅡ\nｇ\n〕\n《\n】\n』\n八\n路\n﹈\n〆\nＨ\n卸\n↑\n、\nＨ\n』\n巳\nⅡ\n０\n１\n．\nり\nｌ\n□\n１\n１\n１\n１\nⅡ\nＸ\nⅡ\nｎ\nＧ\n口\nロ\n０\nⅡ\nＬ\n●\nｐ\n０\n１\n日\n０\nｔ\n“",
+  "output": "<NULL>",
+  "summary_type": "receipts"
+}{
+  "input": "emier Inn GmbH:\nFriedrich-Ebert-Anlege 49, \n60308 Frenkfurt am Mein.\nGeschäftsführer: Merk Anderson, Merk Sommer, Inge Vsn Ooteghem, Netelie Susch\nHRB 99153. Umsetzsteuer-Identifiketionsnummer DE 297308020.\nSeite 1\n\n--------------------------------------------------",
+  "output": "Premier Inn GmbH is located at Friedrich-Ebert-Anlege 49, 60308 Frankfurt am Main. The managing directors are Mark Anderson, Mark Sommer, Inge Van Ooteghem, and Natalie Susch. The company's commercial register number is HRB 99153 and its VAT identification number is DE 297308020.",
+  "summary_type": "receipts"
+}{
+  "input": "schrift (Rücklastschrift)\n- kann die Forderung an IrtterCard abgetreten werden;\n- ermächtige Ich l^rCard. den Betrag zzgl. entrtandener Korten Inner-\nhalb von 45 Tagen per Lastschrift erneirt einzuziehen und weise mein\nKreditinrtitut an, diese lartschrift einzulbsen;\n- weise Ich mein Kredttlrtstltut an, InterCard meinen Namen und\nmeine Anschrift zur Gtítendmachung der Forterung mitzuteilen؛\n- verpflichte ich mich, die entstandenen Kosten (Ζ.Β. Bearbeitungs- und\nAnschriftermittlungskorten) zu ers",
+  "output": "The text authorizes IrtterCard to collect a certain amount plus any incurred costs via direct debit within 45 days. The author instructs their credit institution to redeem this direct debit and to provide IrtterCard with their name and address for the assertion of the claim. The author also commits to cover any costs incurred, such as processing and address determination costs.",
+  "summary_type": "receipts"
+}{
+  "input": "InterCard übermittelt.\nBei einer Rücklastschrift wird die Karte bzw. das Konto bis zur Forderungs-\nbegleicfiung in einer InterCard-Sperrdatei gespeicfiert, sofern nicht Rechte\naus dem Grundgeschaft (z.B. wg. Sactimangels) geltend gemactit wurden.\nDie Bperrdatei sowie die Zahlungsdaten werden zur Verhinderung von\nKartenmissbrauch und Begrenzung des Zahlungsausfallrisikos von\nInterCard gespeichert und genuM. InterCard erteilt dabei ifir angescfilos-\nsenen Unternehmen Empfehlungen, ob eine ec-tast",
+  "output": "InterCard stores card or account information in a blocking file in case of a chargeback until the claim is settled, unless rights have been asserted due to lack of cause. The blocking file and payment data are stored and used by InterCard to prevent card misuse and limit the risk of payment default. InterCard provides recommendations to affiliated companies on whether to use an EC card.",
+  "summary_type": "receipts"
+}{
+  "input": "MADISON Hotel GmbH\nSchaarsteinweg 4\n20459 Hamburg\nGermany\nT +49.40.37 666-0\nF +49.40.37 666-137\ninfo@madisonhotel.de\nmadisonhotel.de\nGeschäftsführer:\nMarlies Head, Thomas Kleinertz\nAG Hamburg HRB 47881\nVAT: DE118 696 407\nHypoVereinsbank\nBLZ 200 300 00, Konto-Nr. 360 27 11\nIBAN: DE48 2003 0000 0003 6027 11\nBIC: HYVEDEMM300\n09.08.19\nDatum:\nRechnungs.-Nr. 508189 / \nGastname \nHerr Jens Walter\nAPImeister Consulting GmbH  \nFriedrichstr. 123\n10117 Berlin\n:\nRECHNUNG\nBeschreibung\nDatum\nBelastung\nEntlastu",
+  "output": "MADISON Hotel GmbH, located in Hamburg, Germany, is managed by Marlies Head and Thomas Kleinertz. The company's contact details include a phone number, fax number, and email address. The company's bank details with HypoVereinsbank are also provided. A document dated 09.08.19, possibly an invoice, is addressed to a Mr. Jens Walter of APImeister Consulting GmbH in Berlin.",
+  "summary_type": "receipts"
+}{
+  "input": "Online-Ticket\nICE Fahrkarte\nFahrtantritt am 21.07.2019\nFlexpreis (Einfache Fahrt)\nKlasse:\n1\nErw:\n1, mit 1 BC50\nHinfahrt:\nLeipzig+City \n Hamburg+City, mit ICE\nÜber:\nVIA: (KOET*P/WB)*BSP*(SDL*UE/WBE*LWL)\nStorno kostenfrei bis 1 Tag vor 1. Geltungstag.\nZahlungspositionen und Preis\nPositionen\nPreis\nMwSt (D) 19%\nMwSt D: 7%\nICE Fahrkarte\n1\n99,25€\n99,25€\n15,85€\nReservierung\n1\n0,00€\nSumme\n99,25€\n99,25€\n15,85€\nKreditkartenzahlung\nBetrag\n99,25€\nVU-Nr\n4556695619\nTransaktions-Nr\n433482\nDatum\n21.07.2019\nGen-",
+  "output": "The text is a receipt for an online ticket for a train journey on ICE (InterCity Express) from Leipzig to Hamburg on 21.07.2019. The ticket is first class, for one adult, with a BC50 card. The ticket is flexible and can be cancelled free of charge until one day before the first day of validity. The total cost of the ticket is 99.25€, which includes 19% VAT. The ticket was paid for by credit card. The reservation number is 4556695619 and the transaction number is 433482.",
+  "summary_type": "receipts"
+}{
+  "input": "Online-Ticket\nIC/EC Fahrkarte\nFahrtantritt am 11.03.2018\nFlexpreis (Einfache Fahrt)\nKlasse:\n1\nErw:\n1, mit 1 BC50\nHinfahrt:\nBonn+City \n Hamburg+City, mit IC/EC\nÜber:\nVIA: K*(DU*MS*HB/HA*BI*H)*HAR\nUmtausch/Erstattung kostenlos bis 1 Tag vor Reiseantritt (Hinfahrt).\nZahlungspositionen und Preis\nPositionen\nPreis\nMwSt (D) 19%\nMwSt D: 7%\nIC/EC Fahrkarte\n1\n79,50€\n79,50€\n12,69€\nReservierung\n1\n0,00€\nSumme\n79,50€\n79,50€\n12,69€\nKreditkartenzahlung\nBetrag\n79,50€\nVU-Nr\n4556695619\nTransaktions-Nr\n833221\nDatum",
+  "output": "An online ticket for a single journey on an IC/EC train from Bonn+City to Hamburg+City was purchased for a trip on 11.03.2018. The ticket is for one adult in the first class, with a BC50 card. The ticket can be exchanged or refunded for free until one day before the journey. The ticket cost 79.50€, including a 19% VAT and a 7% VAT. The payment was made by credit card. The transaction number is 833221 and the VU number is 4556695619.",
+  "summary_type": "receipts"
+}{
+  "input": "heddar-Jalapeno-Sosse؛\n4,60\n \nIx Frezen Joghurt m. 2 \nfi\nTopping Kirschkompott؛\nTopping Schokolinsen؛\nIx Burger\n9,60\n6,60\n4,60\nIx Eisbär\nIx Durstlöscher Apfel-R fi 4,90\nfi 3,90\n3,90\n4,90\nlx Melone-Maracuja Limo fi 4,90\nlx Peters Limonade\nlx Vanilia Pearl\nfi 4.90\nfi 4,90\n4,90\n4,90\n4,90\nMwSt,^ \nNetto \nMwSt. \nBrutto\nA=19,000 \n49,50 \n9,40 \n58,90\nBar Total : \nEUR\n** 58,90 **\nGegeben: \nEUR \n58,90\nRUckgeld; \nEUR \n0,00\nWir ft'euen uns, dass du uns bes:؛cht hasti\nTelle deine Erlebnisse mit uns auf:\nhttp:",
+  "output": "The text appears to be a receipt for various items including Cheddar-Jalapeno-Sauce, frozen yogurt with cherry compote and chocolate lentil toppings, a burger, an Eisbär, a Durstlöscher Apfel-R, a Melone-Maracuja Limo, Peters Lemonade, and a Vanilla Pearl. The total cost, including tax, is 58,90 Euros. The customer paid 58,90 Euros and received no change.",
+  "summary_type": "receipts"
+}{
+  "input": "rderliche Fahrplananpassungen ändern.\nBitte informieren Sie sich kurz vor Ihrer Reise über mögliche Änderungen Ihrer Reisedaten unter www.bahn.de/reiseplan oder mobil über die\nApp DB Navigator. Achten Sie auch auf Informationen und Ansagen im Zug und am Bahnhof. Wir danken Ihnen für Ihre Buchung und wünschen\nIhnen eine angenehme Reise!\nUFXWCO\nSeite 1 / 1\n\n--------------------------------------------------",
+  "output": "The text advises passengers to check for possible changes to their travel dates shortly before their journey at www.bahn.de/reiseplan or via the DB Navigator app. It also encourages them to pay attention to information and announcements on the train and at the station. The text ends with a thank you for the booking and wishes for a pleasant journey.",
+  "summary_type": "receipts"
+}{
+  "input": "大\n火\nへ\nｑ\n大\n天\n吟\nＩ\n六\n文\n。\n）\n六\n六\n〔\nⅡ\n六\n六\nＱ\n〉\nｘ\n文\nハ\nロ\n六\n文\n次\n六\nｘ\n火\nwCustoierCopW\nF■■\n\n--------------------------------------------------\n…\nWEFDLOVETOHEAR\nFROMYOU!\n1akeouronlinesurveywithin2days\nafteryourvisitandreceiveaspecial\nofferasatokenofourappreciation.\n｡Seeofferprovidedatcompletionofsurveyfordetai ls\n車力Surveymaynotbeavai lableforsomepurchases\npandaexpress.com/feedback\nYourfeedbackisimportanttousand\nwi l lbesharedwiththisrestaurantteam\nNOWHIRING\nPANDACAREERS･COM\nWE｢DLOVETOHEAR\nFROMYOUI\n1akeouronl",
+  "output": "<CENSORED>",
+  "summary_type": "receipts"
+}{
+  "input": ", Unique taxpayer number DE 254615074. VAT registration number 143/1ร4/10694\nAG Mü ch nHRB 68\nIque\npy\ngi\nI\nDE-ÖKO-037\n\n--------------------------------------------------\nE\nMotel one Hamburg am Michel٠Ludwia-Erhard-StraBe 26 120459 Hamburg\nDavid Rabe\nFran؛Dfflce Agent\nJetet eröffnet:\nMotel One Wurzburg\nund Mote. One DuiWn؛\nWWW.mOTEL-ODE.COm\nwww.moTEL-onE.com\nMolel One Germany Betrtebs GmbH, Motel One Hamburg am Michel, Lurtwig-ErhardStraBe 26, 20459_Hamburg\nFon^+4S 40 3571830-0,\" Fax:+49 40 3ร718",
+  "output": "The text mentions a unique taxpayer number DE 254615074 and a VAT registration number 143/1ร4/10694. It also refers to Motel One Hamburg am Michel located at Ludwig-Erhard-StraBe 26, 20459 Hamburg, and mentions the opening of Motel One Wurzburg and Motel One DuiWn. The contact details provided are Fon^+4S 40 3571830-0 and Fax:+49 40 3ร718.",
+  "summary_type": "receipts"
+}{
+  "input": "nur zusammen mit einem amtlichen Lichtbildausweis (z.B. Personalausweis) oder Ihrer BahnCard.\n- Mit Ihrer Fahrkarte zum Flexpreis können Sie jeden Zug der gewählten Verbindung nutzen: mit einer IC/EC-Fahrkarte alle IC- und EC-Züge, mit\neiner ICE-Fahrkarte auch alle anderen Züge.\n- Das Online-Ticket gilt nur für den unter \"Fahrkarte\" angegebenen Reiseabschnitt. Die Übersicht \"Ihre Reiseverbindung\" enthält gegebenenfalls\nReiseinformationen zu Teilstrecken (z.B. Bus oder Straßenbahn), für die eine",
+  "output": "Ihr Ticket muss zusammen mit einem amtlichen Lichtbildausweis oder Ihrer BahnCard vorgezeigt werden. Mit einem Flexpreis-Ticket können Sie jeden Zug der gewählten Verbindung nutzen, einschließlich IC/EC- und ICE-Züge. Das Online-Ticket gilt nur für den auf der Fahrkarte angegebenen Reiseabschnitt. Die Übersicht \"Ihre Reiseverbindung\" kann zusätzliche Reiseinformationen zu Teilstrecken enthalten.",
+  "summary_type": "receipts"
+}{
+  "input": "Online-Ticket\nICE Fahrkarte\nFahrtantritt am 25.11.2017\nFlexpreis (Einfache Fahrt)\nNE 565\nKlasse:\n1\nErw:\n1, mit 1 BC50\nHinfahrt:\nBonn(TG 2600) \n Frankfurt(Main)+City, mit ICE\nÜber:\nVIA: Siegburg/Bonn*LM*(FH/MZ*FFMF)\nUmtausch/Erstattung kostenlos bis 1 Tag vor Reiseantritt (Hinfahrt).\nZahlungspositionen und Preis\nPositionen\nPreis\nMwSt (D) 19%\nMwSt (D) 7%\nICE Fahrkarte\n1\n58,85€\n55,50€\n8,86€\n3,35€\n0,22€\nReservierung\n1\n0,00€\nZahlungsmittelentgelt 1\n0,50€\n0,50€\n0,08€\nSumme\n59,35€\n56,00€\n8,94€\n3,35€\n0,",
+  "output": "This is an online ticket for a journey on an ICE train, scheduled for November 25, 2017. The ticket is a first-class, flexible fare for one adult, with a BahnCard 50. The journey is from Bonn to Frankfurt (Main)+City, via Siegburg/Bonn. The ticket can be exchanged or refunded for free until one day before the journey. The ticket price is €58.85, with a reservation fee of €0.00 and a payment fee of €0.50, making a total of €59.35.",
+  "summary_type": "receipts"
+}{
+  "input": "DE 133 500 868\nVersendedatum: 03.04.2019 16:19:42\nSeite 4 von 5\n\n--------------------------------------------------\nDurch die Ausstellung eines Steuerersatzbeleges verlieren alle zuvor ausgestellten Passenger Receipts zu dieser Flugbu-\nchung ihre G¨ultigkeit.\nEurowings GmbH | Großenbaumer Weg 6 | 40472 D¨usseldorf\nGesch¨aftsf¨uhrung: Frank Bauer, Michael Knitter, Oliver Wagner\nVorsitzender des Aufsichtsrates: Thorsten Dirks\nSitz der Gesellschaft: 40472 D¨usseldorf | HRB 66807 | Handelsregister",
+  "output": "The text indicates that the issuance of a tax replacement document invalidates all previously issued passenger receipts for this flight booking. The document is from Eurowings GmbH, located at Großenbaumer Weg 6, 40472 Düsseldorf. The management includes Frank Bauer, Michael Knitter, and Oliver Wagner, with Thorsten Dirks as the Chairman of the Supervisory Board. The company is registered in Düsseldorf under HRB 66807 in the commercial register.",
+  "summary_type": "receipts"
+}{
+  "input": "rungen Ihrer Reisedaten unter www.bahn.de/reiseplan oder mobil über die\nApp DB Navigator. Achten Sie auch auf Informationen und Ansagen im Zug und am Bahnhof. Wir danken Ihnen für Ihre Buchung und wünschen\nIhnen eine angenehme Reise!\nDMMGDW\nSeite 1 / 1\n\n--------------------------------------------------",
+  "output": "The text instructs to check travel dates at www.bahn.de/reiseplan or via the DB Navigator app. It also advises to pay attention to information and announcements on the train and at the station. It thanks the reader for their booking and wishes them a pleasant journey.",
+  "summary_type": "receipts"
+}{
+  "input": "0€\n88,50€\n14,13€\nKreditkartenzahlung\nBetrag\n88,50€\nVU-Nr\n4556695619\nTransaktions-Nr\n915142\nDatum\n24.05.2018\nGen-Nr\nN5SJ1F\nIhre Kreditkarte wurde mit dem oben genannten Betrag belastet. Die Buchung Ihres\nOnline-Tickets erfolgte am 24.05.2018 18:08 Uhr. DB Fernverkehr AG/DB Regio AG,\nStephensonstr. 1, 60326 Frankfurt, Steuernummer: 29/001/60002.\nBarcode bitte nicht knicken!               \nHinfahrt:\nGültig ab:\n25.05.2018\nZangenabdruck\nHerr  Jens walter\nAuftragsnummer:\nU622FD\nIhre Reiseverbindung un",
+  "output": "A credit card payment of 88.50€ was made for an online ticket on 24.05.2018 at 18:08. The transaction number is 915142 and the VU number is 4556695619. The ticket is valid from 25.05.2018 for a journey by Mr. Jens Walter, with the order number U622FD. The payment was processed by DB Fernverkehr AG/DB Regio AG, located at Stephensonstr. 1, 60326 Frankfurt, with tax number 29/001/60002.",
+  "summary_type": "receipts"
+}{
+  "input": "n mit einem amtlichen Lichtbildausweis (z.B. Personalausweis) oder Ihrer BahnCard.\n- Mit Ihrer Fahrkarte zum Flexpreis können Sie jeden Zug der gewählten Verbindung nutzen: mit einer IC/EC-Fahrkarte alle IC- und EC-Züge, mit\neiner ICE-Fahrkarte auch alle anderen Züge.\n- Das Online-Ticket gilt nur für den unter \"Fahrkarte\" angegebenen Reiseabschnitt. Die Übersicht \"Ihre Reiseverbindung\" enthält gegebenenfalls\nReiseinformationen zu Teilstrecken (z.B. Bus oder Straßenbahn), für die eine weitere Fah",
+  "output": "Mit einem amtlichen Lichtbildausweis oder BahnCard kann man reisen. Mit einer Flexpreis-Fahrkarte kann man jeden Zug der gewählten Verbindung nutzen, einschließlich IC/EC- und ICE-Zügen. Das Online-Ticket gilt nur für den auf der Fahrkarte angegebenen Reiseabschnitt. Die Übersicht \"Ihre Reiseverbindung\" kann zusätzliche Reiseinformationen zu Teilstrecken enthalten, für die möglicherweise eine weitere Fahrt erforderlich ist.",
+  "summary_type": "receipts"
+}{
+  "input": "Roxanne’s Cafe\n570 Rt)well street\nSan francisco, California\nfel (.1151 089-5555\nClieck 11: 596018\nSei-'/er: mistieel\nfable: 16\n[')afe; 04/13/20,9\nΐίπ)β: \n1 1 :26\nClient: \n1\n1\n GranOe\n1\n Coffee\n15 00\n2.7\nSUB-lOfńt:\nS.F.H.O (0) :\nSales fax 1 :\n17.75\n0.53\n1 .60\ntOlAl: \n19.\nfor General Coiiments About\nYour Olnlns Experletrce\nPlease Contact \nOs\nWe Are ObllgafeO to\nCollect \na Surcharge for'\nthe SF Health Care\nSecurity Ordinance\n\n--------------------------------------------------",
+  "output": "Roxanne's Cafe, located at 570 Rt)well street, San Francisco, California, issued a receipt on 04/13/20. The server was Mistieel at table 16. The client ordered 1 GranOe and 1 Coffee, costing $15.00 and $2.7 respectively. The subtotal was $17.75, with a sales tax of $0.53 and a surcharge of $1.60 for the SF Health Care Security Ordinance, bringing the total to $19.88. The cafe invites customers to share their dining experience and notes that they are obliged to collect a surcharge for the SF Health Care Security Ordinance.",
+  "summary_type": "receipts"
+}{
+  "input": ".¡iHorizonParking\n46:؟1ท\nlt،..؟A٢ea^.D.\n!SS. Daie\nFee\nMach!ne !.D.\nÌ\nDlsp!ay on Dashboard.\nNot transferab!e.\nVAT No.14324746ه\n\n--------------------------------------------------\nSEE NOtICE BOARD FOR\nTERMS & CONDIT.ONS\nThis ticket permits you to park !n accordance with\nthe regulations and must be displayed inside the\nwindscreen of the vehicle.\nFailure to do so may render you liable to a\n'Parking Charge Notice.\nNo responsibility can be taken for loss of or\nany damage to (a) any vehicle (b) anythin",
+  "output": "This is a parking ticket from HorizonParking. The ticket must be displayed on the vehicle's dashboard and is non-transferable. Failure to display the ticket may result in a Parking Charge Notice. The company is not responsible for any loss or damage to any vehicle or belongings. The terms and conditions are displayed on a notice board.",
+  "summary_type": "receipts"
+}{
+  "input": "Ansagen im Zug und am Bahnhof. Wir danken Ihnen für Ihre Buchung und wünschen\nIhnen eine angenehme Reise!\nF681BE\nSeite 1 / 1\n\n--------------------------------------------------",
+  "output": "The text thanks the reader for their booking and wishes them a pleasant journey. It also mentions announcements on the train and at the station.",
+  "summary_type": "receipts"
+}{
+  "input": "49112924\n209.00\n27.96\nة2/٧2/1\n'ا\nدا،د؛،0د4د٧00ي1,937.66\nVE \n33310\nSuite#:\nKV\nType:\nGuests:\nJENS WALTER\n1\nFRIEDRICHSIR. 123\nBERLIN\n432340865678\nRes#:\n10117\n11/25/2018\nArrival:\nDeparture:\ncc*\n12/02/2018\nFolio Type:\nFolio ID:\nPage#:\n5\n'5052\n434280912998\n01\nFOLIOIIP\n\n--------------------------------------------------\nYour Account Statement:\nIt has been our pleasure serving you,\nand we hope you wi l l think of US as your\nhome in las Vegas on a future visit.\nFor reservations cal l: 1.888.283.6423\n\n---",
+  "output": "The text appears to be a hotel account statement for a guest named Jens Walter from Berlin. He stayed at the hotel from November 25, 2018, to December 2, 2018. The document also includes contact information for future reservations.",
+  "summary_type": "receipts"
+}{
+  "input": "-\nUm die Qualität des Ausdruckes zu erhalten, bitten wir Sie,\nden Ausdruck vor direkter Sonneneinstrahlung, großer\nHitze, großem Anpressdruck und Kontakt zu Chemikalien,\nQlen und Fetten sowie weichmacherhaltigen Folien\n(Ζ.Β. PVC-KlarsichthUllen) zu schützen.\nBewahren Sie bitte den Ausdruck bei Raumtemperatur\nund unter llchtabschluss auf.\n4؟\nMIX\nPaplar aue varantwor-\n،Ungevollan Quallen\nFSC. CI 07568\nFSC\n4لس؛»).ا\nALDI Bonrollen werden aus komplett phenolfreiem\nTtiermopapier hergestellt.\nโ1ไ\n\n----",
+  "output": "To maintain the quality of the print, it is requested to protect the print from direct sunlight, high heat, high pressure, and contact with chemicals, oils, and fats, as well as plasticizer-containing films (e.g., PVC clear sleeves). The print should be stored at room temperature and in a light-proof manner. ALDI receipt rolls are made from completely phenol-free thermal paper.",
+  "summary_type": "receipts"
+}{
+  "input": "infahrt:\nGültig ab:\n08.07.2018\nZangenabdruck\nHerr  Jens walter\nAuftragsnummer:\nPTPH2L\nIhre Reiseverbindung und Reservierung Hinfahrt am 08.07.2018\nHalt\nDatum\nZeit\nGleis\nProdukte\nReservierung\nLeipzig Hbf\n08.07.\nab 18:16 11\nHamburg Hbf\n08.07.\nan 21:25 6\nICE 1506\n1 Sitzplatz, Wg. 28, Pl. 36, 1 Fenster, Großraum,\nNichtraucher, Res.Nr. 8006 9007 1404 21\nWichtige Nutzungshinweise:\n- Ihre Fahrkarte gilt nur zusammen mit einem amtlichen Lichtbildausweis (z.B. Personalausweis) oder Ihrer BahnCard.\n- Mit",
+  "output": "Jens Walter has a reservation for a train journey on 08.07.2018. He will depart from Leipzig Hbf at 18:16 and arrive at Hamburg Hbf at 21:25. His seat is in carriage 28, place 36, by a window in a non-smoking area. The ticket is only valid with an official photo ID or BahnCard. The order number is PTPH2L.",
+  "summary_type": "receipts"
+}{
+  "input": "31\n12\nICE 940\n1 Sitzplatz, 1. Klasse, Wg.\n26, Pl. 34, 1 Gang,\nGroßraum, Nichtraucher,\nHandy, Res.Nr. 8042 9008\n7674 81\nBochum Hbf\nan 15:23\n3\nReservation\nSingle journey\n5,90 €\nTotal fare\n5,90 €\nPayment method\nMasterCard\nKartennummer: ***2825\nE-mail\njens@apimeister.com\nOCZBWQ\nPage 1 / 1\n\n--------------------------------------------------",
+  "output": "This is a reservation for a single journey on ICE 940, departing from Bochum Hbf at 15:23. The ticket is for one seat in the first class, wagon 26, place 34, in a non-smoking, large room. The reservation number is 8042 9008 7674 81. The total fare is 5,90 €, paid with a MasterCard ending in 2825. The reservation confirmation was sent to jens@apimeister.com.",
+  "summary_type": "receipts"
+}{
+  "input": "lt 1\n0,50€\n0,50€\n0,08€\nSumme\n66,50€\n66,50€\n10,62€\nKreditkartenzahlung\nBetrag\n66,50€\nVU-Nr\n4556695619\nTransaktions-Nr\n674148\nDatum\n16.10.2017\nGen-Nr\nNVGDA1\nIhre Kreditkarte wurde mit dem oben genannten Betrag belastet. Die Buchung Ihres\nOnline-Tickets erfolgte am 16.10.2017 15:15 Uhr. DB Fernverkehr AG/DB Regio AG,\nStephensonstr. 1, 60326 Frankfurt, Steuernummer: 29/001/60002.\nBarcode bitte nicht knicken!               \nHinfahrt:\nGültig ab:\n16.10.2017\nZangenabdruck\nHerr  Jens walter\nAuftragsnumme",
+  "output": "A credit card payment of 66,50€ was made for an online ticket on 16.10.2017 at 15:15. The transaction was processed by DB Fernverkehr AG/DB Regio AG, located at Stephensonstr. 1, 60326 Frankfurt, with tax number 29/001/60002. The transaction number is 674148 and the VU number is 4556695619. The ticket is valid from 16.10.2017 for a person named Jens Walter.",
+  "summary_type": "receipts"
+}{
+  "input": "me\n126,50€\n126,50€\n20,20€\nKreditkartenzahlung\nBetrag\n126,50€\nVU-Nr\n4556695619\nTransaktions-Nr\n1778\nDatum\n15.08.2018\nGen-Nr\nN6AHU9\nIhre Kreditkarte wurde mit dem oben genannten Betrag belastet. Die Buchung Ihres\nOnline-Tickets erfolgte am 15.08.2018 23:27 Uhr. DB Fernverkehr AG/DB Regio AG,\nStephensonstr. 1, 60326 Frankfurt, Steuernummer: 29/001/60002.\nBarcode bitte nicht knicken!               \nHinfahrt:\nGültig ab:\n17.08.2018\nZangenabdruck\nHerr  Jens walter\nAuftragsnummer:\nY2UERZ\nIhre Reiseverbi",
+  "output": "A credit card payment of 126,50€ was made on 15.08.2018 for an online ticket. The transaction number is 1778 and the VU number is 4556695619. The ticket is valid from 17.08.2018 for a trip booked by Jens Walter, with the order number Y2UERZ. The booking was made with DB Fernverkehr AG/DB Regio AG, located at Stephensonstr. 1, 60326 Frankfurt, tax number: 29/001/60002.",
+  "summary_type": "receipts"
+}{
+  "input": "igatu, ed adr ne\niach\naS\n‘Eee\naor p\nbogeSrh2rPS/\n\n--------------------------------------------------\n3 breuninge\nbreuninger.com\n5} breuninge\nbreuninger.com\n3} breuninge\nbreuninger.com\n5 breuninge\nbreuninger.com\n3} breuninge\nbreuninger.com\n5 breuninge\n\n--------------------------------------------------",
+  "output": "<NULL>",
+  "summary_type": "receipts"
+}{
+  "input": "EUR\n3,65 EUR\nSumme Netto\nNettobetrag\nUmsatzsteuer\nEUR\n19,20 EUR؛19,00% \nau\n22,85 EUR\nGesamtbetrag\nDie Zahlung erfolgte Uber den Dienst www.pa٧pa!.de.\nDie Ware bleibt bis zur vollständigen Bezahlung unser Eigentum.\nÜberzahlungen werden automatisch erstattet.\nCyberport Store leipzig - Neumarkt 29-33, 04109 Leipzig\nÖffnungszeiten: Mo-Sa \n10-20 Uhr\n,،إسل٠ل,إجا;ا»::ي٠؟ه٠يلل»ياي.،٠عسا\n٠٠\nيس٠الللاعل,ء™الGeschäftsführern René Blttner\nRegistergericht: Amtsgericht Dresden HRB 16246  اUst.-ldNr\n680\n \nB:C:",
+  "output": "The total net amount is 3.65 EUR, with a VAT of 19.20 EUR at 19.00%. The total amount is 22.85 EUR. The payment was made through www.pa٧pa!.de. The goods remain the property of the seller until fully paid. Overpayments will be automatically refunded. The transaction was made at Cyberport Store Leipzig, located at Neumarkt 29-33, 04109 Leipzig, open from Monday to Saturday, 10-20 hours. The director is René Blttner. The company is registered at Amtsgericht Dresden HRB 16246.",
+  "summary_type": "receipts"
+}{
+  "input": "ag der Rückfahrt.\n- Es gelten die nationalen und internationalen Beförderungsbedingungen der DB AG. Innerhalb von Verkehrsverbünden und Tarifgemeinschaften\ngelten deren Bedingungen. Alle Bedingungen finden Sie unter: www.bahn.de/agb und www.diebefoerderer.de.\nIhre Reisedaten können sich kurzfristig durch Bauarbeiten oder andere erforderliche Fahrplananpassungen ändern.\nBitte informieren Sie sich kurz vor Ihrer Reise über mögliche Änderungen Ihrer Reisedaten unter www.bahn.de/reiseplan oder mobil",
+  "output": "The national and international transport conditions of DB AG apply. Within transport associations and tariff communities, their conditions apply. All conditions can be found at www.bahn.de/agb and www.diebefoerderer.de. Travel data may change at short notice due to construction work or other necessary schedule adjustments. Travelers are advised to check for possible changes to their travel data shortly before their journey at www.bahn.de/reiseplan or on mobile.",
+  "summary_type": "receipts"
+}{
+  "input": "Ⅱ\n１\n１\nⅡ\nＵ\nＦ\nＩ\n踊\n型\n価\nｕ\n９\nＬ\n勺\n〃\n４\nｖ\n八\nＴ\nｌ\nｑ\nＫ\nｕ\n－\nＬ\nＬ\n令\n回\nｈ\nＵ\n》\nト\nー\n７\nＬ\nＭ\nⅣ\nⅡ\nＵ\nＦ\n１\n釦\n剴\n凹\n』\nｐ\n】\n７\n▲\nｆ\nＩ\nｐ\n〕\n一\n』\n４\n叩\n０\n川\nⅣ\nｎ\nｕ\n且\n』\nや\nＩ\n１\n１\n２\nｊ\nＭ\nｖ\nＩ\nＴ\nｆ\n“\nｕ\n内\n川\n、\n蹄\nｕ\n恥\nⅡ\n？\nも\n１\nｔ\n〃\nＵ\nが\nｂ\n・\n／\n凸\n１\nＪ\nｙ\nｎ\nＵ\nⅢ\nｐ\n○\nか\nｂ\n南\nｌ\nｑ\nざ\n１\n９\nⅢ\n６\n《\n１\n７\n岸\n・\nＬ\nＫ\nⅡ\n北\n０\nｎ\nＵ\n・\n州\nり\nｕ\n，\n小\nｕ\n１\n－\nｉ\nｎ\nⅡ\n局\n』\nⅡ\n司\n判\nｒ\n８\n８\n叩\nｕ\nｒ\nⅡ\n、\n小\nｕ\n６\n竿\n生\nＵ\nｍ\nｍ\n・\n叩\nＭ\nⅢ\nが\n十\n日\n岬\n判\n“\nザ\nⅡ\nⅡ\n０\nＨ\nｕ\nｎ\nⅡ\n〕\nＦ\n令\n０\n１\n出\n川\n牌\nハ\nＭ\nＪ\n『\n同\n酬\nＪ\n﹇\n脚\n吋\nｎ\nⅡ\n‐\n昨\n員\n、\nｌ\n叩\n〕\nＭ\n釉\n叩\n負\nＭ\n』\n唯\n’\n８\n》\nＦ\n１\n■\n８\n０\n４\n且\nⅡ\n０\n、\n■\n■\n０\n■\nい\nい\nＷ\n如\n一\nⅡ\nＦ\n，\nｈ\nⅡ\nｕ\nｖ\n八\n声\n員\n】\n、\n脾\n１\n告\n０\n０\n伊",
+  "output": "<NULL>",
+  "summary_type": "receipts"
+}{
+  "input": "gen,\nobeineKartenzahlungmitUnterschn廿akzeptiertwerdenkann.Soweit\neineKaltenzahiungmitUnterschriftnichtakzeptiertwird,bestehtbei\npositiverAutorisierungdurchdaskartenausgebendeKreditinstitut\ndieM6glichkeit,dieZahlungdurchEingabederPINdurchzufUhlen.\nW厚』Lc!c\nl 1 IIuIuI 'ul,uIic1, findeII Sie imAushangtextundunter\nwww･ingenico.de/payment-seivices.\n｜\n’\n｜\n’\nSE恥･La写鱈ch前代mandat\nlchermachtigedasumseitiggenannteUnternehmensowiedie\nIngenicoPaymentServicesGmbH,Daniel-Goldbach-St[17-19,40880\nRatingen(,,Ingeni",
+  "output": "<CENSORED>",
+  "summary_type": "receipts"
+}{
+  "input": "nal von Euro\nรน93^;٥:٢ะ::؛า9นท9■االقUnd kOnndn außerhalb der EU übermittelt werden. In diesem Fall werden wir angemessene Sicherheitsorkehrungen Ireffen.Sle können Ihre R^.hle\nWiderspruch, \"Übertragbarkeit Ihrer Daten. Löschung und Beschränkung der Daten ausUben. indem Sie sich an dpo@europcar.com wenden. Weitere Inform^ionen Uber\nDatenschutzbestimmungen.\nfinden Sie aut unserer Websiter; www.europcar.de/datenschuterichtlinie\nStation/Datum/Fahrzeug\nAnmietstation\nLEIPZIG VAN N TRUCK CARS IKC\n09.09",
+  "output": "<NULL>",
+  "summary_type": "receipts"
+}{
+  "input": "inzulösen;\n- weise ich mein Kreditinstitut an, InterCard meinen Namen und\n\n--------------------------------------------------",
+  "output": "The text instructs the user's bank to provide InterCard with their name.",
+  "summary_type": "receipts"
+}{
+  "input": "024-06-14 10:36:16\nSignaturzahler;\n319436\nISE Seriennummer: dc34aeba8c9759593b2fe\n88b0c0487cf8ccfb5d69092565cl29db5042e0d\n20ab\nSignatur; 818vBlhXDtNCfuBNyUjVSpsEotfFC\nlewD/vOvPK5DhP42tOsYzfjzwOSi7gqdWlF17Cd\nHGlDcu11kHDs6sWS7g==\nIII\nи\nI\nFrankfurt am Main Airport\nStarbucks Halle\nB\nlei.: +49 (0)69 951150\n0\nSt.\nNr.\n047 243 68921\nVielen Dank für Ihren Besuch\n\n--------------------------------------------------",
+  "output": "The text appears to be a receipt or transaction record from Starbucks Halle at Frankfurt am Main Airport. The receipt includes a series of codes and numbers, possibly related to the transaction or the location. The text ends with a thank you message for the visit.",
+  "summary_type": "receipts"
+}{
+  "input": "Online-Ticket\nICE Fahrkarte\nFahrtantritt am 06.07.2018\nFlexpreis (Einfache Fahrt)\nKlasse:\n1\nErw:\n1, mit 1 BC50\nHinfahrt:\nHamburg+City \n Leipzig+City, mit ICE\nÜber:\nVIA: (LWL*WBE/UE*SDL)*BSP*(WB/P*KOET)\nUmtausch/Erstattung kostenlos bis 1 Tag vor Reiseantritt (Hinfahrt).\nZahlungspositionen und Preis\nPositionen\nPreis\nMwSt (D) 19%\nMwSt D: 7%\nICE Fahrkarte\n1\n92,00€\n92,00€\n14,69€\nReservierung\n1\n0,00€\nSumme\n92,00€\n92,00€\n14,69€\nKreditkartenzahlung\nBetrag\n92,00€\nVU-Nr\n4556695619\nTransaktions-Nr\n960204",
+  "output": "This is an online ticket for a one-way ICE train journey from Hamburg to Leipzig on July 6, 2018. The ticket is for one adult in the first class, with a BahnCard 50. The ticket, priced at €92, can be exchanged or refunded for free until one day before the journey. The payment was made by credit card.",
+  "summary_type": "receipts"
+}{
+  "input": "direktes Sonnenlicht, feuchte Umgebụng\nWeichmachernDlen/Fetten^AlkohGl^aggressivenChemikali\nSEPA - Lastschriftmandat\nIch ermächtige das umseitig genannte Unternehmen mit umseitig\ngenannter Gläubiger-ID, den heute fälligen, umseitig genannten Betrag\nunter umseitig genannter Mandats-Referenz (M-ID) einmalig von meinem\ndurch die verwendete Karte identifizierten Konto per Lastschrift\neinzuziehen. Die Frist zur Ankündigung des Lastschrifteinzugs wird auf\neinen Tag verkürzt. Die Belastung meines Kont",
+  "output": "The text is a SEPA direct debit mandate. The author authorizes the company mentioned on the other side, with the creditor ID also mentioned on the other side, to debit the due amount mentioned on the other side from their account, identified by the used card, once. The notice period for the direct debit is shortened to one day.",
+  "summary_type": "receipts"
+}{
+  "input": "Grünauer Allee 38\n04209 Leipzig / от GrOnau\nUID Nr. : DE8112T4562\nEUR\n1 89\nBAERL KAESE SCH\nHONIGSENF-DRES.\nZITRONE BIO\nSALAT ROMA HERZ\nSALATGURKE\nBACKPULVER\n1,79\n2.59\n0,99\n0,65\n0, 17\nEUR\nSUMME\nEUR\nGeg. Mastercard\nЖЖ \nKundenbeleg \nж ж\n09.09.2021\n18:53:17 Uhr\nDatum:\nUhrzeit:\nBeleg-Nr.\nTrace-Nr.\n5453\n078949\nBezahlung\nContactless\nDebit MasterCard\n0002\n \nHMf#íHf##2825؛iíjí٠Mt\nذ؛؛ةإ45563\n \nvİjİNr b١s\n ؛ه6؛اً؛8؛؛ĩIDاnًاTerm\n09.09. \n18:53 Uhrهاًأةةحةة\n00\n \n075\n \n00 \n =\nAS-Proc-Code\n0000\n \n.=\nCapt.-Reí\nA",
+  "output": "This text appears to be a receipt from a purchase made at a store located at Grünauer Allee 38, 04209 Leipzig. The items purchased include Baerl Kaese Sch, Honigsenf-Dres, Zitrone Bio, Salat Roma Herz, Salatgurke, and Backpulver. The total cost of the items is not specified. The payment was made via a contactless Debit MasterCard on 09.09.2021 at 18:53:17. The receipt also includes some unreadable text and numbers.",
+  "summary_type": "receipts"
+}{
+  "input": "- //r-i/iriÁy/lị/A-\n❖YL.؟\nRestaurant Olymp\nDammstrasse 2\n04223 Leipzig\ntel: 0341 -4807833\nRECHNUNG\nNr,: 10041108\ntisch; 502\n2 0,4 1 Apfelschcrl\n2 0,5 Paul.Dunkel\n1  Ndolmades\n1  Metaxa Platte\n1 Gyros Kattero\n1  kadalfl\n04,05.2022 13:51\nGelte: 1\n7,80€\n \n»\n3,30\n 8,::ا\n»4,30\n»\n6,30\n \n»\n5,30\n»\n17,30\n \n»\n17,30\n»\n15,30\n \n»\n15,30\n»\n5,30\n \n»\n5,30\n60«\nSumme:\n40€ا62\nKreditkarte\n62,40«\nSrutto\n46,،٥٥\nه£\n16,4\nNetto\nSteuer\n3,ه1،\n7 ỉ Nuet\n13 % Muet\n42,33،\n13,78،\n2,62،\nsteuernr.; ٥Ε2377115/٥3374\noorgenssbealoo",
+  "output": "The text is a receipt from Restaurant Olymp located at Dammstrasse 2, 04223 Leipzig. The contact number is 0341 -4807833. The receipt number is 10041108 for table 502, dated 04.05.2022 at 13:51. The items purchased include 2 Apfelschorl, 2 Paul Dunkel, 1 Ndolmades, 1 Metaxa Platte, 1 Gyros Kattero, and 1 Kadalfl. The total amount paid is 62.40€, paid by credit card. The net amount is 46.55€, tax is 16.4€. The tax number is ٥Ε2377115/٥3374.",
+  "summary_type": "receipts"
+}{
+  "input": "proxima compra en\nnuestra tienda onl ine de OSA\nSusenipc1٥n y mas Información en\nWWW.c-a,coffl/newsletter\nЖЖЖЖЖЖЖЖЖЖЖЖЖЖЖЖЖЖЖЖЖЖЖЖЖЖЖЖЖЖЖЖЖ\n'ااا«!ااا\nاا'اا\n',! ا\n\n--------------------------------------------------\nde٧oluc!ones se efectuarán con el mismo medio de\npago que se realizó la compra. No se realizarán\nde٧oluciones en efectiw presentado ticket regalo.\nCẦ\n١l4\\NNN.C-K٠COM\nPara realizar cambios y dewluclones, es\nImprescindible el ticket de compra y se efectuarán\nen el plazo máximo de un mes",
+  "output": "La próxima compra se realizará en la tienda online de OSA. Para más información, visitar el sitio web indicado. Las devoluciones se realizarán con el mismo medio de pago que se utilizó para la compra, y no se realizarán devoluciones en efectivo con ticket de regalo. Para realizar cambios y devoluciones, es imprescindible el ticket de compra y se efectuarán en el plazo máximo de un mes.",
+  "summary_type": "receipts"
+}{
+  "input": "t MasterCard\nEUR 9.&8\nRfitl\n2825\n1ا11#*4»11»»*أ\nKarte 2\nΕΜ0«٠٠10\n؛III..\"‘-\nRenehnlgongs-Nr\nOaton 22,09.20\n«0000000041010\n4556606796\nNIBCOO\n21:19 Ohr\n'**ị 2a1i1ung erfolgt **'*\n«S-Rroc-Code ะ\nCant.-Ref.ะ 0000\n00 BENEHMIOf\n075\nBUIE ΒΕ1.Ε8 «OIBEOflHREll\nInfornationeri ¿or\nDatenuerarbeitung dirrch\nPRVOtlE\n،)،!،).payone.coMfdsgoo\nMastercard NFC\nRdckgeld (Bari\n،9\n،0,00\nM1JS1' OtoppB\n« MOSI' ft 16Ϊ\nMost lotal\nNetto\nM11SF\nFotal\n6,34\n1,34\n9\n,34\n1,34\n9\n2 ftrtlkel\nBon Nr. :1898\nUnSt-IO.Nr.BE \n115 055 186\n0",
+  "output": "<CENSORED>",
+  "summary_type": "receipts"
+}{
+  "input": "JIM BLOCK\nDftS HAMBURGER OHISIftiai\nا\nJim Block Restaurant\nDammtorstraBe 29-32 \n20354\n \n اHamburg\ntel . 040 32؛\n 60\n \nÖ3\n,11т-Ыоск,Ье\nRECHNUNG\n Κ.3ة18:4\n \n12.03.2019\n* ßilbe٢tst٢aße *\n1  JB Cheese Menü\nPommes Frites\nCola 0)3 1\n9,70\n1  JB Ketchup\n0,40\n10,10€\nEndbetrag:\n10,10«\nBar\nMetto\nSteuer\n؛1.61\nSrutto\n؛10\n,\nio\ninel . 19 ؛Must:\n94؛\n,\nsteuernr.: 50/719/01221\nΒεοΜποπ9Μγ. : 429  اID 3-6147\nBurgertarier's Paradise\nOer Online Fanshop von Jim Block.\nBekenne dich 2น deinen Leidenschaften\nwww.lb-fansh",
+  "output": "The text is a receipt from Jim Block Restaurant located at DammtorstraBe 29-32, 20354, Hamburg. The purchase made on 12.03.2019 includes a JB Cheese Menu with Pommes Frites and Cola, and a JB Ketchup, totaling to 10.10€. The receipt also mentions the tax number and the VAT ID.",
+  "summary_type": "receipts"
+}{
+  "input": "en Konto per Lastschrift\neinzuziehen. Die Frist zur Ankündigung des Lastschrifteinzugs wird auf\neinen Tag verkürzt. Die Belastung meines Kontos erfolgt an dem\nGeschäftstag, der dieser Zahlung folgt. Hinweis: Ich kann Innerhalb von 8\nWochen, beginnend mit dem Belastungsdatum, die Erstattung des\nbelasteten Betrages verlangen. Es gelten dabei die mit meinem\nKreditinstitut vereinbarten Bedingungen.\nIch weise mein Kreditinstitut unwiderruflich an, die Lastschrift einzulösen\nund im Falle der Nichteinl",
+  "output": "The text discusses a direct debit arrangement. The notice period for direct debit collection is shortened to one day. The account will be debited on the business day following the payment. The account holder can request a refund of the debited amount within 8 weeks from the debit date, subject to the conditions agreed with their bank. The bank is irrevocably instructed to honor the direct debit and in case of non-redemption.",
+  "summary_type": "receipts"
+}{
+  "input": "GRILL IKE\nKRK HELLENE\nΥΠΗΡΕΣΙΕΣ ΠΑΡΰΧΗΣ ΓΕΥΜΑΤΩΝ\nΛΑΤΙΙ۵ΙΚΑ؟АПС ΨΗΤΟΠΩΛΕΙΑ ΣΟΥ\n24\n \nΪΟΣ 53 S ΑΛΚΙΜΑΚΟΥ\nΙΩ'؛ΰΙ؛\n٥0Υ 12 ΑΘΗΝΩΝ\n \nΑφΜ ΑφΜ 800990295 ΟΥ\n21 :1,5:32\n \n2022\n'\n9292\n:؛؛ΠΰΡίίΥ'νεΛΙ\n7023\nSIT IN\n٥ΕΛΤΙ ٥ΠΑΡΑΓΓΕΛΙΑΣ No 245850\nΑΛΦΑ ΠΟΤΗΡΙ ΜΕΓΑΛΟ\nΛΑΚΑΝΙΚΑ ΣΤΗ ΣΚΑΡΑ ΜΕ φΕΤ\nΨΗΤΟΠΟΙΚΙΛΙΑ\nΤΡΜέξι : 36\n3.70 24.0\n13 0\n5\n9.50 13.0\n20\nIf\n13.00Ж \n:\n24,00% :\n16.30\n1 .88\n3.70\n0.72\nΑΚΰ,ΑΟΥΘΕΙ ΝΟΜΙΜΗ ΑΠΟΑΕΙΞΗ\n;٠ιτοι.؛ΰΛικ٥1Π5\n!(١Σ٧\n\n--------------------------------------------------",
+  "output": "<NULL>",
+  "summary_type": "receipts"
+}{
+  "input": "SSP Deutschland\nlhe Squaìre 24\n60549 Frankfurt am Main\nDE\n137185550\n77 SSP\nRech.\n4298\n14Jun'24\n10^35\nAusser\nHaus\n1\nMatcha Green lea latte\nVenti\nFettreduziert 0.3ة\n7,59\n1,21\n19Χ MwSt.\nAH\nNette gesamt:\nBeverage\nZahlung\nWechselgeld\nMasterCard\n530662χχχχχχ0908\n7,59\n€6,38\n€7,59\n€7,59\n€0,00\n€7,59\nRechnung abgeschlossen\n14Jun'24 10:35\nIransaktionsnummer:\n159269\nStart\nZeit:\n2024-06-14 10:36:16\nlog Zeit: 2024-06-14 10:36:16\nSignaturzahler;\n319436\nISE Seriennummer: dc34aeba8c9759593b2fe\n88b0c0487cf8ccfb5d",
+  "output": "This is a receipt from SSP Deutschland, located at The Square 24, 60549 Frankfurt am Main, DE. The transaction took place on June 14, 2024, at 10:35. The purchased item was a Venti Matcha Green Tea Latte, which cost €7.59. The payment was made via MasterCard, and no change was given. The transaction number was 159269.",
+  "summary_type": "receipts"
+}{
+  "input": "Übernachtung exklusive Frühstück*\nÜbernachtung exklusive Frühstück*\nÜbernachtung exklusive Frühstück*\nMastercard IFC\n110.00\n19.11.18\n20.11.18\n110.00\n110.00\n21.11.18\n110.00\n22.11.18\n550.00\n23.11.18\n550.00\n550.00\nTotal\nBrutto EUR\n550.00\n550.00\nUmsatzsteuer Detail\nTotal inkl. MwSt.\nMwSt. 7% *\nNetto EUR\n514.02\n514.02\nMwSt. EUR\n35.98\n35.98\n0.00 \nEUR\nSaldo\nFinanzamt: Hamburg Mitte\nsteuernummer: 48/741/01228\nKreďitkartsr.detsits\nVertragsnummer\nKredrtkartennummer\nVerfa!!sdatum\nTerm!na! !D\n-  19898\n15469",
+  "output": "<CENSORED>",
+  "summary_type": "receipts"
+}{
+  "input": "mationen und Ansagen im Zug und am Bahnhof. Wir danken Ihnen für Ihre Buchung und wünschen\nIhnen eine angenehme Reise!\nZT2B67\nSeite 1 / 1\n\n--------------------------------------------------",
+  "output": "<NULL>",
+  "summary_type": "receipts"
+}{
+  "input": "formationen und Ansagen im Zug und am Bahnhof. Wir danken Ihnen für Ihre Buchung und wünschen\nIhnen eine angenehme Reise!\n4L9ORV\nSeite 1 / 1\n\n--------------------------------------------------",
+  "output": "The text thanks the reader for their booking and wishes them a pleasant journey. It also mentions information and announcements on the train and at the station.",
+  "summary_type": "receipts"
+}{
+  "input": "oriqinalrecejpt, itemswi l lbeexchangedor\nrefundedforthefuIlpurchaseprice･Refundswi l lbeissuedintheorlqinaI\nmethodofpayment,Wjthoutoriginal receipt, itemswlllbeexchan9edo「\nrefundedatthelowestadvertisedp｢icewithinthe30daysprior1othedate\nofthe『etu｢n．Refundswillbeissuedasstorecredit・Foranyretum,voumaV\nbeaskedforvaIid9overnment-issuedphotoidentifjcation､Wereservethe\nrIQht tol lmitorrefusea「efund,Forexclusionsandretumpoliciesfor\nonIinepurchases､visitWaIgreens､com,\nYoursatisfactionisveryImportanttous",
+  "output": "Items with the original receipt will be exchanged or refunded for the full purchase price, with refunds issued in the original method of payment. Without the original receipt, items will be exchanged or refunded at the lowest advertised price within the 30 days prior to the return date, with refunds issued as store credit. A valid government-issued photo identification may be required for any return. The right to limit or refuse a refund is reserved. For exclusions and return policies for online purchases, visit Walgreens.com. Customer satisfaction is highly valued.",
+  "summary_type": "receipts"
+}{
+  "input": "s\nHMCONSCIOUS”\npoise eceenesaa\naee\n=\neg MRAb \nSS\nSiocesrese\nSeeieneeneort\nRrmeeren\n‘ulconscious\nRa\ntn\ni ert dma\npeieecescrne\npe\nSoes\nSee\nfritter\n#M1 CONSCIOUS\nSa\nCeneesemese\npig eran onmag\nais ete\n\n--------------------------------------------------",
+  "output": "<NULL>",
+  "summary_type": "receipts"
+}{
+  "input": "-----------------------------------------",
+  "output": "<NULL>",
+  "summary_type": "receipts"
+}{
+  "input": "r\nBurver Kg:Gamma\nKING\nAL: SS8HRSS5707\nWi. berate etimeielgd\nor SMPUMTER HALA\n‘nfotnspt.con\n\n--------------------------------------------------\nJlarwaindetabitomes\ntetrieuehd len meserta\nBUROERKING®resaurangi Si\ninte raaet\nan \nSa\nSVERIGES GODASTE KV\nDelta i var undersékning \nett erbjudande*\n1.Besk worw.bkefeedback-s\nIn dtimear fd ditop ochge\ntort ordering\n2. terunderskingen\nir\nerated Sever de\nTima\naetaiatomes\ntetriewehd ion meserta\nBUROERKING® resaurangswri\n|\na\neens\ntew\n2th ene arn\nSVERIGES GODA",
+  "output": "<NULL>",
+  "summary_type": "receipts"
+}{
+  "input": "■\n０\nｐ\n４Ⅱ１１〔岨ノー〔一″″』ｎ副〕（唖〃』\nｑｌｌ\n〔咽〃』\nStatut de la commande\n:\nCommande payee\nｅ\nＣ\nｔ\nＳ\nｎ\nｏ\nａ\nｎ\nｎ\nｎ\nＳ\nａ\nｕ\nＣ\nＯ\nｓ\n０ｔ\nｎ\n１\nｒ\nｅ\nｅ\nｅ\nＶ\n６\n’０\nｕ\nｅ\nｎ\n０\nｒ\nａ\nｒ、１\nⅢＩｔ\nａ\nⅢ\nｅ\nｎ\nｏ\nｒ\nｅ\nＣ\n０ｔ\n、ａ\nｒ\nｅ\nａ\nｒ\nＳ\nＤ，\n十申\nａ\nＯ\nｐ\nＳ\nＶ\nｒ\nＺ\nｕ\n０■\nｅ\nｅ\nｅ\nｌＯ０ｔ‐ｔ\nｅ\n・１\nＣ‐ｑ\nｏ１\nＳ\nｕ\nＯ\nＣ夕ｅ０ｑ\nＣ\nｒｌｎ\nＯ\nｅ\n１\nｒ臣Ｎ\nＭＷＭＮ\nｐ，〔ｕ\n1頭\n鱈I。懲UR魯噴麗\nREjOIGNEZ NOTRE PROGRAMME\nDE FIDfLITf\n: REGALE !\nノ\nCumuIez deBpoint5\n＆tran$formGzﾏIesenr“ompen$“\n\n--------------------------------------------------\nEXACOMPTA\nP△R↓三\n、\nMlXTE\nPapIerIPourunegestionforesIi白rere5pDnsable\nP",
+  "output": "<NULL>",
+  "summary_type": "receipts"
+}{
+  "input": "Online-Ticket\nICE Fahrkarte\nFahrtantritt am 07.12.2018\nFlexpreis (Einfache Fahrt)\nKlasse:\n1\nErw:\n1, mit 1 BC50\nHinfahrt:\nHamburg+City \n Leipzig+City, mit ICE\nÜber:\nVIA: (LWL*WBE/UE*SDL)*BSP*(WB/P*KOET)\nStorno kostenfrei bis 1 Tag vor 1. Geltungstag.\nZahlungspositionen und Preis\nPositionen\nPreis\nMwSt (D) 19%\nMwSt D: 7%\nICE Fahrkarte\n1\n89,50€\n89,50€\n14,29€\nSumme\n89,50€\n89,50€\n14,29€\nKreditkartenzahlung\nBetrag\n89,50€\nVU-Nr\n4556695619\nTransaktions-Nr\n146462\nDatum\n07.12.2018\nGen-Nr\nN7X6EC\nIhre Kredit",
+  "output": "The text is a receipt for an online ticket for a train journey on ICE (InterCity Express) from Hamburg to Leipzig on 07.12.2018. The ticket is a one-way, first-class ticket at a flexible rate, allowing free cancellation until one day before the first day of validity. The ticket cost €89.50, including VAT. The payment was made by credit card.",
+  "summary_type": "receipts"
+}{
+  "input": "Βι\n?ι؛\nBÜKGtRGRILL BAR\nPeter Pane Leipzig\nKatharlnenstraBe 12\n04109 Leipzig, Deutschland\nlei , 0341 / 99 85 8340\nleipzig@peterpane,de\nRechnung\n22-Feb-19/22:20 RgNr:AR801145232\nF1801477332\nSteuernummer: 22/290/05112\nlisch-Nr: 22\nEs bediente Sie Ке٧1п\nlx Der Nacho Macho\n14,50\nň  14,50\ntBurgei' Nacho Mach(14,50)\n؛Sauerteig\nlx Käse-Speck\n؛Brioche\nlx 1 Ptund Fritten\ntVegane Knoblauchmayo\n؛Heiße-Käse-Sosse\n2χ Schneeweisschen\nЗх Mandarinchen\nft 9\nft 6\nft 3\n,40\n9,40\n,50\n6,50\n,90\nft 4,90\n7\n14,70\nMwSt,^",
+  "output": "This text appears to be a receipt from Peter Pane Leipzig, a grill bar located in Leipzig, Germany. The receipt, dated 22-Feb-19, includes items such as \"Der Nacho Macho\", \"Käse-Speck\", \"1 Ptund Fritten\", \"Vegane Knoblauchmayo\", \"Heiße-Käse-Sosse\", \"2x Schneeweisschen\", and \"3x Mandarinchen\". The total cost of these items is not clearly stated in the text.",
+  "summary_type": "receipts"
+}{
+  "input": "- kann die Forderung an InterCard abgetreten werden;\n- ermächtige ich InterCard, den Betrag zzgl. entstandener Kosten inner\nhalb von 45 Tagen per Lastschrift erneut einzuziehen und weise mein\nKreditinstitut an, diese Lastschrift einzuldsen;\n- weise icti mein Kreditlnstitirt an, InterCard meinen Namen und\nmeine Anschrift zur Geltendmachung der Forderung mitzuteilen;\n-verpflichte ich mich, die entstandenen Kosten (Ζ.Β. Bearbeltungs- und\nAnschriftermittlungskosten) zu ersetzen.\nUnterschrift (Zahlun",
+  "output": "Die Forderung kann an InterCard abgetreten werden. Der Betrag plus entstandene Kosten kann innerhalb von 45 Tagen erneut per Lastschrift von InterCard eingezogen werden, wobei das Kreditinstitut angewiesen wird, diese Lastschrift einzulösen. Das Kreditinstitut wird angewiesen, InterCard den Namen und die Anschrift des Schuldners zur Geltendmachung der Forderung mitzuteilen. Der Schuldner verpflichtet sich, die entstandenen Kosten (z.B. Bearbeitungs- und Anschriftermittlungskosten) zu ersetzen.",
+  "summary_type": "receipts"
+}{
+  "input": "Entry: \nChip\nAin:Annnrtnnnn4inin\nTUR:00ÜU0Ü8000\nISI :E800\nRetain for your records.\nVieu TransLink Policies\nat uuu. t ratts 1 ink. ca\nThank Y out\n\n--------------------------------------------------",
+  "output": "<NULL>",
+  "summary_type": "receipts"
+}{
+  "input": "ckung zu\nsorgen.\nIch kann innertialb von acht Wochen nach Belastung die Erstattung des\nBetrages zu den mit meinem Kreditinstitut vereinbarten Bedingungen ver-\nlangen.\nBei Nichteinlösung der lestschrift (Rücklastschrift)\n- kann die Forderung an InterCard abgetteten werden;\n- ermächtige icti InterCard, den Betrag zzgl. entstandener Kosten inner-\nhalb von 45 Tagen per Lastschrift erneut einzuziehen und weise mein\nKreditinstitut an, diese Lastschrift einzulSsen;\n- weise Ich mein Kreditinstitut an, I",
+  "output": "The text states that the individual can request a refund within eight weeks of the charge according to the terms agreed with their credit institution. If the direct debit is not honored, the claim can be transferred to InterCard. The individual authorizes InterCard to re-debit the amount plus any incurred costs within 45 days and instructs their credit institution to allow this direct debit.",
+  "summary_type": "receipts"
+}{
+  "input": "bahn), für die eine weitere Fahrkarte erforderlich sein kann.\n- Wenn Ihr Ticket den Zusatz \"+City\" oder \"City mobil\" zeigt, gilt dieser nur am Tag der Hinfahrt bzw. am Tag der Rückfahrt.\n- Es gelten die nationalen und internationalen Beförderungsbedingungen der DB AG. Innerhalb von Verkehrsverbünden und Tarifgemeinschaften\ngelten deren Bedingungen. Alle Bedingungen finden Sie unter: www.bahn.de/agb und www.diebefoerderer.de.\nIhre Reisedaten können sich kurzfristig durch Bauarbeiten oder andere e",
+  "output": "Eine zusätzliche Fahrkarte kann für die Bahn erforderlich sein. Wenn Ihr Ticket \"+City\" oder \"City mobil\" zeigt, gilt dies nur am Tag der Hinfahrt oder Rückfahrt. Die nationalen und internationalen Beförderungsbedingungen der DB AG gelten, ebenso die Bedingungen von Verkehrsverbünden und Tarifgemeinschaften. Diese Bedingungen sind auf www.bahn.de/agb und www.diebefoerderer.de zu finden. Reisedaten können sich kurzfristig durch Bauarbeiten oder andere Ereignisse ändern.",
+  "summary_type": "receipts"
+}{
+  "input": "０\n－\n５\n５\n０\n－\n℃\nｎ\n，\n一\nＫ\nＬ\n一\n〆\nＬ\n’\n一\n七\n一\nＷ\n一\nα\n｝\nｐ\n且\nＴ\n－\n~\n~\n~\n~~\nＡ\n呂\n屯\n一\nｎ\nｏ\n一\n申\nⅨ\nロ\nヰ\n亡\n（\n皿\n〉\n４\nⅡ\n８\n＄\n・\n垂\n一\n．\nⅨ\n・\nゞ\nゞ\nも\n区\n』\nこ\n《\nａ\nｖ\n一\n‐\n町\nα\nＡ\n一\nゞ\nゞ\n一\n丁\nＪ\nｉ\n．\nＩ\nｉ\nｌ\n１\nｎ\n一\n・\n似\n。\n《\n｜\n』\n恥\n間\n間\n一\n⑰\n・\n叩\nの\n｝\n○\nＶ\n－\n１\nｎ\n－\n０\nノ\nＰ\n｜\n、\n八\n叩\nⅨ\n．\n，\n○\n‘\n町\nＰ\n一\n丁\nα\nⅨ\n一\n○\nい\n、\nｖ\nｌ\n－\nＵ\nＭ\nＨ\n一\nＶ\n０\n．\nＬ\n－\nｖ\n丁\n⑥\n一\n碇\n。\nＬ\n八\n》\nＵ\nα\n匡\n蛉\n－\n．\n⑪\nＥ\n・\nＥ\n－\n』\n、\nｒ\nｎ\n－\nｘ\nＫ\nＡ\n－\nｘ\n問\nＰ\n。\n\n--------------------------------------------------",
+  "output": "<NULL>",
+  "summary_type": "receipts"
+}{
+  "input": "Bitte Beleg aufbewahren\n\n--------------------------------------------------",
+  "output": "Please keep the receipt.",
+  "summary_type": "receipts"
+}{
+  "input": "ilt nur zusammen mit einem amtlichen Lichtbildausweis (z.B. Personalausweis) oder Ihrer BahnCard.\n- Mit Ihrer Fahrkarte zum Flexpreis können Sie jeden Zug der gewählten Verbindung nutzen: mit einer IC/EC-Fahrkarte alle IC- und EC-Züge, mit\neiner ICE-Fahrkarte auch alle anderen Züge.\n- Das Online-Ticket gilt nur für den unter \"Fahrkarte\" angegebenen Reiseabschnitt. Die Übersicht \"Ihre Reiseverbindung\" enthält gegebenenfalls\nReiseinformationen zu Teilstrecken (z.B. Bus oder Straßenbahn), für die e",
+  "output": "Die Fahrkarte ist nur gültig mit einem amtlichen Lichtbildausweis oder BahnCard. Mit einer Flexpreis-Fahrkarte können alle Züge der gewählten Verbindung genutzt werden. Das Online-Ticket gilt nur für den spezifischen Reiseabschnitt, der unter \"Fahrkarte\" angegeben ist. Zusätzliche Reiseinformationen zu Teilstrecken können in der Übersicht \"Ihre Reiseverbindung\" enthalten sein.",
+  "summary_type": "receipts"
+}{
+  "input": "JIM BLOCK\nOAS MAMSURGE« OAIGIWAL\nا\nJim Block Restaoraot\n)٢ammto٢sti'aße 29-321 2354\n هHamborg\nlel . 040 32 OB вз во  اwww.jlffl-block.Oe\nRECHNUNG\n14.08.2019 18:23 Κ.3\n* Cacnienstraße *\n1  JB Cheese Menü\nPommes Frites\nCola 0,3 1\n9,70\n1  JB Ketchup\nEndbetrag:\n0,40\n10€ا10\nBar\n10,10«\nNsttD\nSteuer\n؛1.61\nBrutto\n؛10,10\nincl. 19% Hwst:\n54؛\n.\n715/01221\n ؛0ثم\n:.steuernr\nRechnung Nr.: 412 \n/ \n10 3-0760\nBurgertarier's Paradise\nDer Online Fanshop von Jim Block.\nBekenne dich zu deinen Leidenschaften.\nwww.1b-f",
+  "output": "This is a receipt from Jim Block Restaurant in Hamburg. The purchase was made on 14.08.2019 at 18:23. The items bought include a JB Cheese Menu with fries and a 0.3L Cola for €9.70, and JB Ketchup for €0.40. The total amount paid was €10.10, including 19% tax. The receipt number is 412.",
+  "summary_type": "receipts"
+}{
+  "input": "THE\nMADISON\nHAMBURG\nMADISON Hote! GmbH Schaarsteinweg 4 20459 Hamburg\nAP!me!ster Consu!t!ng GmbH\nFr!edr!chstr. 123\nا٢اا66  ٢117\n1ه\nRECHNUNG\nRechnungs.-N .٢480203 /\nDatum: 09.11.18\nz!mmer\nAn٢e!se\nAbre!se\nSe!te\nBenutzer !D\n525\n04.11.18\n09.11.18\nlofi\nBD\nGastname\n: Herr Jens Wa!ter\nEnt.astung\nBe.astung\nDatum\nBeschreibung\nUbernactitung exklusive Frühstück*\nÜbernachtung exklusive Frühstück*\nÜbernachtung exklusive FrOtistOck*\nÜbernachtung exklusive Frühstück*\nÜbernachtung exklusive Frühstück*\nMastercar",
+  "output": "The text appears to be an invoice from Madison Hotel GmbH to AP!me!ster Consulting GmbH for a guest named Herr Jens Walter. The invoice, dated 09.11.18, details charges for five nights of accommodation without breakfast from 04.11.18 to 09.11.18. The payment was made via Mastercard.",
+  "summary_type": "receipts"
+}{
+  "input": "ay, is a Registered Trademark of Subway IP Inc ©2017 Subway IP Inc.\n|1ШП١Г\nSubway“\nIs a Registered Trademark of Subway IP Inc. ©2017 Subway IP Inc.\n\n--------------------------------------------------",
+  "output": "Subway is a Registered Trademark of Subway IP Inc, copyrighted in 2017.",
+  "summary_type": "receipts"
+}{
+  "input": "7\ninfo@madisonhotel.de\nmadisonhotel.de\nGeschäftsführer:\nMarlies Head, Thomas Kleinertz\nAG Hamburg HRB 47881\nVAT:DE118 696 407\nHypoVereinsbank\nBIZ 200 300 00, Konto-Nr. 360 27 11\nIBAN: DE48 2003 0000 0003 6027 11\nBIC: HYVEDEMM300\n ت ة\nSor\n๐\n<؛؛\n\n--------------------------------------------------\nخاة\nTHE\nMADISON\nHAMBURG\n-sياi\nỄĩ.\nmi\nة\n·)I\nبرد\n.\n..؛-,'.لآ\nذن\n؛ى-'\nة\nแ\nS■';؛ن\n'٠١ề\nAC\n-:؛-::ه\n.f،.\nة1ا\nنث\n,'لاệỉậ:\n'í\n■ầ\ni\n■I\ni\ni\n,í\n.|٧\nه\n,.أ.,\nli-\nv:At-\nΛ؛ţ\n|ب؛٢1’ي١لي؛؟%':;لد-'ب\n;\nنغ\n-■ν.Ι-'·--\n-\n;،\"V",
+  "output": "<CENSORED>",
+  "summary_type": "receipts"
+}{
+  "input": "essdruck und Kontakt zu Chemikalien,\nQlen und Fetten sowie weichmacherhaltigen Folien\n(Ζ.Β. PVC-Klarsichthüllen) zu schützen.\nBewahren Sie bitte den Ausdruck bei Raumtemperatur\n\n--------------------------------------------------",
+  "output": "The text advises to protect the printout from pressure and contact with chemicals, oils, fats, and plasticizer-containing films (e.g., PVC clear sleeves). It recommends storing the printout at room temperature.",
+  "summary_type": "receipts"
+}{
+  "input": "er Betrag\n:\nTerminal ID \nIch authorisiere den aufgeführten Betrag.\n_______________________________   \nUnterschrift des Karteninhabers\nGenehmigungscode :\n:\n:\nSeite \nBenutzer ID\n: WM\n:\n04.08.19\nAnreise\n09.08.19\nAbreise\nZimmer\n438\n:\n:\n:\nFinanzamt: Hamburg Mitte\nSteuernummer: 48/741/01228\nMADISON Hotel GmbH  Schaarsteinweg 4  20459 Hamburg\n1 of 1\n\n--------------------------------------------------",
+  "output": "The text appears to be a hotel receipt or transaction record. It mentions an authorized amount, a terminal ID, a cardholder's signature, an approval code, a user ID, and dates of arrival and departure. The room number is 438. The hotel is MADISON Hotel GmbH, located in Hamburg. The tax office is Hamburg Mitte and the tax number is 48/741/01228.",
+  "summary_type": "receipts"
+}{
+  "input": "Bastard Burgers Hötorget\nHötorget 2-4\n11157, Stockholm\n-10807ه\nQrg.\n556803-5884\nTel:\n3047\nEAT\nIN\nCheck number 3047\n2024-02-\n18:01\n1 Bastard Original\nDip\n1 Crispy Bites\nLarge\n1\nSoLith West\nMeal\nRamlösa Citron\nShack Fries\nSmall\n؛South West Burger\nRegular Cheese\nPotato Bun\n17\n0.00\n45,00\n185,00\nAuthtt:\n170741\n247.00\n220,54\nNet\nVAT\n12Χ\nSubtotal\n26.46\n247.00\nlERM.ID:\nP400PİUS-806171257\nBUTIKSNR;\n84\n530662 **ţţ 0908 mc\nContactless chip/\nAID; Α0000000041010\nREF:\nWxkiOO\n170741\nRESP:\nSuccess\nTlianks for٧l",
+  "output": "The text is a receipt from Bastard Burgers Hötorget in Stockholm. The order includes a Bastard Original, Crispy Bites, a SoLith West Meal, Ramlösa Citron, Shack Fries, a South West Burger with regular cheese on a potato bun. The total cost is 247.00, with a VAT of 26.46. The payment was made via contactless chip and was successful.",
+  "summary_type": "receipts"
+}{
+  "input": "Lichtbildausweis (z.B. Personalausweis) oder Ihrer BahnCard.\n- Mit Ihrer Fahrkarte zum Flexpreis können Sie jeden Zug der gewählten Verbindung nutzen: mit einer IC/EC-Fahrkarte alle IC- und EC-Züge, mit\neiner ICE-Fahrkarte auch alle anderen Züge.\n- Das Online-Ticket gilt nur für den unter \"Fahrkarte\" angegebenen Reiseabschnitt. Die Übersicht \"Ihre Reiseverbindung\" enthält gegebenenfalls\nReiseinformationen zu Teilstrecken (z.B. Bus oder Straßenbahn), für die eine weitere Fahrkarte erforderlich s",
+  "output": "Mit einem Lichtbildausweis oder BahnCard können Sie Ihre Flexpreis Fahrkarte nutzen, um jeden Zug der gewählten Verbindung zu benutzen. Mit einer IC/EC-Fahrkarte können Sie alle IC- und EC-Züge nutzen, und mit einer ICE-Fahrkarte können Sie alle anderen Züge nutzen. Das Online-Ticket gilt nur für den auf der Fahrkarte angegebenen Reiseabschnitt. Zusätzliche Reiseinformationen zu Teilstrecken, wie Bus oder Straßenbahn, können in der Übersicht \"Ihre Reiseverbindung\" enthalten sein, für die eine weitere Fahrkarte erforderlich sein könnte.",
+  "summary_type": "receipts"
+}{
+  "input": "Online-Ticket\nIC/EC Fahrkarte\nFahrtantritt am 27.01.2019\nFlexpreis (Einfache Fahrt)\nKlasse:\n1\nErw:\n1, mit 1 BC50\nHinfahrt:\nBonn+City \n Hamburg+City, mit IC/EC\nÜber:\nVIA: K*(DU*MS*HB/HA*BI*H)*HAR\nStorno kostenfrei bis 1 Tag vor 1. Geltungstag.\nZahlungspositionen und Preis\nPositionen\nPreis\nMwSt (D) 19%\nMwSt D: 7%\nIC/EC Fahrkarte\n1\n81,00€\n81,00€\n12,93€\nReservierung\n1\n0,00€\nSumme\n81,00€\n81,00€\n12,93€\nKreditkartenzahlung\nBetrag\n81,00€\nVU-Nr\n4556695619\nTransaktions-Nr\n200964\nDatum\n27.01.2019\nGen-Nr\nNR",
+  "output": "This is an online ticket for an IC/EC train journey from Bonn+City to Hamburg+City, scheduled for 27.01.2019. The ticket is for one adult in the first class, with a BC50 card. The ticket, priced at 81,00€, can be cancelled free of charge until one day before the first day of validity. The payment was made by credit card, with transaction number 200964.",
+  "summary_type": "receipts"
+}{
+  "input": "rufeiner\nLastschrift\nerkIartermaBen\nRechte\naus dem\nGrundgesch邑廿(z,B. Sachmangel) geltend gemacht haben, wird die\nMeldung umgehend gel6scht. Zudem werden die ZahIungsdaten zur\nVerhinderung\nvon\nKartenmissbrauch gemeinsam\nmit den\nR(jcklastschriftdaten\nzur\nBegrenzung\ndes\nRisikos\nvon\nZahlungsausfallen durch die Media-Saturn Deutschland GmbH\ngespeichert und genutzt・IngeniCo erteilt insoweit auch an andere\nHandlel; die an ihrem System angeschIossen sind, Empfehlungen,\nob eine Kartenzahiung mit Untersch",
+  "output": "The text discusses the process of handling payment data and preventing card misuse by Media-Saturn Deutschland GmbH. If any rights are claimed due to basic business issues, the report is immediately deleted. Payment data, along with direct debit data, is stored and used to limit the risk of payment defaults. IngeniCo also provides recommendations to other traders connected to their system regarding card payments.",
+  "summary_type": "receipts"
+}{
+  "input": "Kreditinstitut die Möglichkeit, die Zahlung durchzuführen. Weitere Informationen\nfinden Sie im Aushangtext.\nSEPA-Lastschrlftmandat\nIch ermächtige das oben/umseitlg genannte Unternehmen sowie dessen\nDienstleisler, die PAYONE GmbH, Lyoner str. 9, 60528 Frankfurt am Main\n„PAYONE\"), Giaubiger-ID DE16ED1000^020245, den oben/'um؛؛i\n·؛\n:;؛\ngenannten Betrag (.Kaufbetrag'() von meinem oben/umSeitlg angegef|tc،.؛Konto mittels Lastschrift einzuziehen. Zugleich weise ich rnein Kreoltlnstl^f ?\n:-'.ese Lastsc",
+  "output": "The text is a SEPA Direct Debit Mandate, authorizing a company and its service provider, PAYONE GmbH, to debit a specified amount from the author's account. The bank is instructed to process the payment. Further information can be found in the notice text.",
+  "summary_type": "receipts"
+}{
+  "input": "Online-Ticket\nICE Fahrkarte\nFahrtantritt am 19.01.2020\nFlexpreis (Einfache Fahrt)\nKlasse:\n1\nErw:\n1, mit 1 BC50\nHinfahrt:\nLeipzig+City \n Hamburg+City, mit ICE\nÜber:\nVIA: (KOET*P/WB)*BSP*(SDL*UE/WBE*LWL)\nStorno kostenfrei bis 1 Tag vor 1. Geltungstag.\nZahlungspositionen und Preis\nPositionen\nPreis\nMwSt D: 19%\nMwSt (D) 7%\nICE Fahrkarte\n1\n81,90€\n81,90€\n5,36€\nReservierung\n1\n0,00€\nSumme\n81,90€\n81,90€\n5,36€\nKreditkartenzahlung\nBetrag\n81,90€\nVU-Nr\n4556695619\nTransaktions-Nr\n690548\nDatum\n18.01.2020\nGen-Nr",
+  "output": "The text is a receipt for an online ticket for a journey on the ICE train from Leipzig to Hamburg on 19.01.2020. The ticket is a single journey, first class, for one adult with a BC50 card. The ticket cost €81.90, including tax, and was paid by credit card. The reservation was free of charge. The ticket can be cancelled free of charge up to one day before the first day of validity.",
+  "summary_type": "receipts"
+}{
+  "input": "FD LOVE TO\nHEAR FROM YOU!\n~｢ake our online survey within 2 days\nafter your visit and receive a special\noffer as a token of our appreciation.\n* See offer provided at completion of survev for details\n*�Survey may not be available for some purChases\npa ndaexp ress.com/feed back\nYour feedback is important to us and\nwill be shared with this restaurant team\nJOIN PANDA\nREWARDS\nDownload our app or sign up at\nPAN DAREWARDS,COM\n����\n』■■引\n\n--------------------------------------------------",
+  "output": "Take an online survey within two days of your visit to receive a special offer as a token of appreciation. The offer details will be provided upon survey completion. Note that the survey may not be available for some purchases. Your feedback will be shared with the restaurant team. You can also join Panda Rewards by downloading the app or signing up at pandarewards.com.",
+  "summary_type": "receipts"
+}{
+  "input": "of the terms of this Agreement,\nI will be responsible for tlic\nfull amount of damages, even if\nI initialed time box labeled Collision\nDamage Waiver. I undei-stand that my. Personal Insurance Policy may\ncover damage to your car and\nI understand that\n1\nslmall consult niy\ninsurer to detennine time scope of coverage,\n(cl\nIt'the latv of jul'isdiction covering this rental requires conditions on\nphysical damage responsibility that are different than the terms ol' tills\nagi'ecmeiit, that law prevails.",
+  "output": "The text states that under the agreement, the individual is liable for all damages, even if they have selected the Collision Damage Waiver. They understand that their personal insurance may cover damages to the rented car and they should consult their insurer to determine the extent of coverage. If the law of the jurisdiction covering the rental imposes different conditions on physical damage responsibility, then that law will take precedence over the terms of this agreement.",
+  "summary_type": "receipts"
+}{
+  "input": "rung durch das kartenausgebende Kreditinstitut\ndie Möglichkeit, die Zatilung durcti Eingabe der PIN durchzuführen.\nWeitere Informationen finden Sie im Aushangtext und unter\nwww.ingenico.de/payment-senrices.\nœPA-lastschrlHmandat\nIcfi ermäctitige das umseitig genannte Unternehmen sowie die\nIngenico Payment Senrices GmbH, Daniel-G0ldbach-Str.17-19,40880\nRatingen („Ingenico\"), Gläubiger-ID DEI SEOf 00000020245 einmalig\neine Zahlung von meinem umseitig genannten Konto per Lastschrift\neinzuziehen. Zug",
+  "output": "The text authorizes the company mentioned on the reverse side and Ingenico Payment Services GmbH, located at Daniel-Goldbach-Str.17-19, 40880 Ratingen (\"Ingenico\"), with creditor ID DEISEOf 00000020245, to make a one-time direct debit payment from the account mentioned on the reverse side. More information can be found in the display text and at www.ingenico.de/payment-services.",
+  "summary_type": "receipts"
+}{
+  "input": "amage to 01\" loss to the veliicle.\n(ni) In tlie commission of a felony.\n12. Illegal\nUses\nof Vehicle.\nI agree\nlliat\nit\nshall be\na violation\nof\ntills\nAgreement if tlie veliicle is used in violation of any laws or ordintinccs\napplicable to tlie operation, use, or return of the veliicle, or if vcliicle\nis\noperated in a negligent manner.\n13. OPS Tracking Device.\nVehicle may be equipped\nwith a gps tracking\ndevice. GPS Tracking Device may be used for veliicle recovery.\n14. You Are Not Responsible\n.'or",
+  "output": "The text outlines an agreement stating that it would be a violation if the vehicle is used against any laws or operated negligently. The vehicle may be equipped with a GPS tracking device, which can be used for vehicle recovery.",
+  "summary_type": "receipts"
+}{
+  "input": "肛\n舶\n仰\n椎\nｒ\nＬ\nＴ\nｌ\nＮ\nＷ\nＩ\nＬ\nＩ\nＴ\nＩ\nＡ\nｎ\nｎ\nＨ\nｎ\nＨ\n件\n早\n４\n\n--------------------------------------------------\ndet｢ansPort・\nEsob地afom昭胸aranfes曲acce曲ra/seMcﾉo\ndefﾉanspo〃e\n「\n』』\n2.-\nr\nlO46\n卿\n.metrovalencia.es\nWWW\n1.-EsobIigatorivaIidarabansd'accedi「aI sewici\ndet｢anspo｢t,\nEsob/UaIo和va\"daranfesdeaccederaﾉseMcio\ndeh君\"”oﾊe,\n2.-IVAiAOVindosos\nノⅧySOV胴cﾉu灯o\n』\ns､\n‘』\n』\n』\n900461046\nmetrovalencia.e\nW岬\nS\n』\n1.-Esobligatorival idarabansd'aCcediraI servici\ndetransport・\nEsobﾉUafomva\"daranfes申accedera/se/vたio\ndef眉\"叩o汀e,\n2．‐ I",
+  "output": "<NULL>",
+  "summary_type": "receipts"
+}{
+  "input": "e:\n- Ihre Fahrkarte gilt nur zusammen mit einem amtlichen Lichtbildausweis (z.B. Personalausweis) oder Ihrer BahnCard.\n- Mit Ihrer Fahrkarte zum Flexpreis können Sie jeden Zug der gewählten Verbindung nutzen: mit einer IC/EC-Fahrkarte alle IC- und EC-Züge, mit\neiner ICE-Fahrkarte auch alle anderen Züge.\n- Das Online-Ticket gilt nur für den unter \"Fahrkarte\" angegebenen Reiseabschnitt. Die Übersicht \"Ihre Reiseverbindung\" enthält gegebenenfalls\nReiseinformationen zu Teilstrecken (z.B. Bus oder St",
+  "output": "Ihre Fahrkarte ist nur gültig in Verbindung mit einem amtlichen Lichtbildausweis oder Ihrer BahnCard. Mit der Flexpreis-Fahrkarte können Sie jeden Zug der gewählten Verbindung nutzen. Das Online-Ticket gilt nur für den spezifischen Reiseabschnitt, der unter \"Fahrkarte\" angegeben ist. Die Übersicht \"Ihre Reiseverbindung\" kann zusätzliche Informationen zu Teilstrecken enthalten.",
+  "summary_type": "receipts"
+}{
+  "input": "ENT AGREES TO TRANSMIT TO CARO HOLDER FOR PAYMENT\nESTABLISHMENT NO. & LOCATION\niHiltoni\nLhonossJ\nTAXES\nTIPS&MISC.\nTOTAL AMOUNT\nCARD MEMBER'S SIGNATURE\n-1,964.35\nPAYMENT DUE UPON RECEIPT\nMERCHANDISE AND/OR SERVICES PURCHASED ON THIS CARD SHALL NOT BE RESOLD OR RETURNED FOR A CASH REFUND.\n๏\nAMERICAS\n.\nEUROPE\n.\nMIDDLE EAST٠AFRICA\nAUSTRALASIA\n\n--------------------------------------------------",
+  "output": "The text appears to be a payment receipt for a transaction at a Hilton establishment, with a total amount of -1,964.35. The payment is due upon receipt and any merchandise or services purchased with this card cannot be resold or returned for a cash refund. The receipt also mentions various regions: Americas, Europe, Middle East, Africa, and Australasia.",
+  "summary_type": "receipts"
+}{
+  "input": "rtenzahlung\ncontaci less\nDebit MasterCard\nEUR 6,90\nPAN\nKarle 2\nEMV-AIO\nVU-Nr\nGenehmlgungS“Nr\nDatum .23.07.21\ngültig bis \n##/##\nΑ0000000041010\n4.556546988\nΝ61ΕΙΥ\n14:48 Uhr\nIlahlung erlolgt ***\nAS-Proo-Code = 00 075 00\nCapt.-Ref.= 0000\nAPPROVED\nBITTE BELEG AUFBEWAHREN\n\n--------------------------------------------------",
+  "output": "The text appears to be a receipt or transaction record for a contactless payment made with a Debit MasterCard. The amount paid is EUR 6,90. The transaction took place on 23.07.21 at 14:48 Uhr. The payment was approved and the receipt advises to keep the record.",
+  "summary_type": "receipts"
+}{
+  "input": "gilt nur zusammen mit einem amtlichen Lichtbildausweis (z.B. Personalausweis) oder Ihrer BahnCard.\n- Mit Ihrer Fahrkarte zum Flexpreis können Sie jeden Zug der gewählten Verbindung nutzen: mit einer IC/EC-Fahrkarte alle IC- und EC-Züge, mit\neiner ICE-Fahrkarte auch alle anderen Züge.\n- Das Online-Ticket gilt nur für den unter \"Fahrkarte\" angegebenen Reiseabschnitt. Die Übersicht \"Ihre Reiseverbindung\" enthält gegebenenfalls\nReiseinformationen zu Teilstrecken (z.B. Bus oder Straßenbahn), für die",
+  "output": "Das Ticket ist nur gültig in Verbindung mit einem amtlichen Lichtbildausweis oder einer BahnCard. Mit einem Flexpreis-Ticket können alle Züge der gewählten Verbindung genutzt werden. Das Online-Ticket gilt nur für den spezifischen Reiseabschnitt, der auf der Fahrkarte angegeben ist. Zusätzliche Reiseinformationen zu Teilstrecken können in der Übersicht \"Ihre Reiseverbindung\" enthalten sein.",
+  "summary_type": "receipts"
+}{
+  "input": "269\nMcltoniild's Deutschland l-l-C\nfilockenylesser Wal l 8-10\n200 ألةllOTbui a\nTeletun^ 010 32 69 31\nQUITTUNG\n01/08/2019 2137^20\nDOSAMI'\n¿'(٧١ท  ع9\nKS. 2Ö\nANZ AIlllKEL\n1  Ola 03ا3ا1اا''الا\nا Beef MS\n1 p<.)(„mös Frites ra l ttel\n1 Ketct'rup\n1 Ceke Zet'ti 0,1\n7.99\n7.99\nINNtM \nlOlAl..\n،!'edit Sales\n7.99\n5.ا0ا- ./UStlDM[ ' . \n113/311/1)0138\nSAIZ\n19.00^'\nBPUllO\n7.99\nIMOt. Mwst\nMWSI\n1 .28\nDal Ilmen Ihi' Besi.ml ! gefal len\nFeedback geben ni'!d lx kleinen Scfn.li'i t!k\node,' lx kleiner! Kaffee gt alis",
+  "output": "<CENSORED>",
+  "summary_type": "receipts"
+}{
+  "input": "ia\nam arogerie \ncotmusche\nwon Sere\n‘cm ea\naa\nee\nTc\n29.12.2002\n12:28\n19869\nasTee/\nBio Grurar Teo Chun Hoe\nBlo Cupper Se Happy Gomrztes\nfsterce Ragelklobor fx 1th\nSUWE EUR\nasterCars BR\nwst-sate — Brutto\nMatto\n119,008,\n2\n2a\n2rao8\n50\n520\nFur diesen Eikout hattest\nO\n“PAYBACK Pkt erhalten\nCffrurgszeiten auf onde\n‘Stauar-hr38092/90007\nseseees FISKALINFGMATIONEN\n(TSE).\nstot\n2022-12-29 \nEnde\n2022-12-29 \nSWokasse: FOISSAIS — ThAmmer:\nSlorwturzanler:\n903456.\nSloraturs\nphan\nKoTAW720.0 qu\n‘nar20 y192)0 e0489",
+  "output": "<NULL>",
+  "summary_type": "receipts"
+}{
+  "input": "ngtext undunter\nwww・lngenIco・de/Paymen(-ServlCeS．\nSEPA-Lastschri侭mandat\nlcI\n‘ cl l I lau,喝c\n、_L‐\n‐. . ､‘･c,tiggenannteUnternenmensowiedie\ningenicoPaymentServicesGmbH,Daniei-Goldbach-Stml7-19,40880\nRatingen(\"Ingenico\"),Glaubigel\"IDDE16EO100000020245einmalig\neineZahlungvonmeinemumseitiggenanntenKontoperLastschrift\neinzuziehen.ZugleichweiseichmeinKreditinstitutan,diesevom\numseitiggenanntenUnternehmengezogeneLastschri廿einzuI6sen･\nHinweis:\nIchkann innerhalbvonachtWochen, abdem\nBelastungsdatum,dieErst",
+  "output": "The text appears to be a SEPA Direct Debit Mandate, authorizing Ingenico Payment Services GmbH to make a one-time withdrawal from a specified account. The account holder also instructs their bank to allow this transaction. The account holder is informed that they can dispute the transaction within eight weeks from the date of the charge.",
+  "summary_type": "receipts"
+}{
+  "input": "r-Ar.:34052/90007\n{Heee8¢4 FISKALINEORMATIONEN (TSE).\nStart\n2023-07-28\nEnde:\n2023-07-28\n‘SNkasse: FOIGBS\nThamer:\nSlonaturzahler:\n1249193.\nSignatur:\nIrfOk2Oaf ar¥SqUAOKGPSA\nk\n6 /84GkrDLJ2C¥wJ\nCN Tok CrO\nUN DENS ELE\nTerntnal-10\n=\n5\nTae 420606\nB\nartenzahlieg\nkontaktos\nDEBIT MASTEREARO\nEUR\n7.55\n\n--------------------------------------------------",
+  "output": "The text appears to be a fiscal information (TSE) record with the reference number 34052/90007. It started and ended on 2023-07-28. The cashier is FOIGBS and the taxpayer number is 1249193. The signature includes a series of alphanumeric characters. The terminal used is number 10. The transaction was made with a Debit Mastercard in the amount of 7.55 Euros.",
+  "summary_type": "receipts"
+}{
+  "input": "ein\nMein dm-Kundenkonto.\n\n--------------------------------------------------",
+  "output": "<NULL>",
+  "summary_type": "receipts"
+}{
+  "input": "0€\n0,24€\nReservierung\n1\n0,00€\nSumme\n123,10€\n119,50€\n19,08€\n3,60€\n0,24€\nKreditkartenzahlung\nBetrag\n123,10€\nVU-Nr\n4556695619\nTransaktions-Nr\n806980\nDatum\n18.02.2018\nGen-Nr\nNMSYSK\nIhre Kreditkarte wurde mit dem oben genannten Betrag belastet. Die Buchung Ihres\nOnline-Tickets erfolgte am 18.02.2018 12:07 Uhr. DB Fernverkehr AG/DB Regio AG,\nStephensonstr. 1, 60326 Frankfurt, Steuernummer: 29/001/60002.\nBarcode bitte nicht knicken!               \nHinfahrt:\nGültig ab:\n18.02.2018\nZangenabdruck\nHerr  Jen",
+  "output": "A reservation was made for a ticket costing 123,10€, which was paid for by credit card. The transaction number is 806980 and the reservation was made on 18.02.2018 at 12:07. The ticket is valid from 18.02.2018. The ticket was booked through DB Fernverkehr AG/DB Regio AG, located in Frankfurt.",
+  "summary_type": "receipts"
+}{
+  "input": "488ًا0341-961\n \n اCafe Luise\ntw.1uìse-1eip،'ig.de\n№,\nRECHNUNG\nNr. : 202979\nTisch: 13 \n 2\n اGäste\n1  Fat Man mit käse MENUE\n* 1 Pommes TR\n* 1 Ketchup TR\n* 1 Mayo TR\n1  Penne Gorgonzola\n2 Heißer Birnensaft\n1  strongbow 0,5 1\n1  großer Kaffee\n19.01 .2022 20:52\nSeite; \n1\n»\n12,00\n ؛12.00\n10,80« \n10,80«\n4,50« \n9,00«\n5,50« \n5,50«\n3,60« \n3,60«\nSumme:\n0€و40٠\nBargeld\n40,90«\nBrutt.\nΖΖ.Β.ί\n.ً،ها\n١8\nNetto \nSteuer\n؛1,45\n \n13،\n2,ا\n؛2,85\n ؛15,21\n7% Nost\n19% Hust\nsteuernr. : OE 231 107 13525\nVorgangsbeginn\n19.01",
+  "output": "This is a receipt from Cafe Luise, dated 19.01.2022 at 20:52. The order includes 1 \"Fat Man with cheese\" menu, 1 fries, 1 ketchup, 1 mayo, 1 Penne Gorgonzola, 2 hot pear juices, 1 Strongbow 0.5l, and 1 large coffee. The total amount paid in cash is €40.90. The receipt also includes tax details.",
+  "summary_type": "receipts"
+}{
+  "input": "-------------------------",
+  "output": "<NULL>",
+  "summary_type": "receipts"
+}{
+  "input": "DEG4THU)N\nDECATHLON\nũíỉUĨschland SE  ةCo. KG\npeiersirasse 36\n04109 Lelpzla\n99991010\n \n.\n0341\n ا-اج\nΑΗΤΕΝϋΰ ТВ 930\n1690073\nREIO \n: 8726365Ö42\n6,49 î\nlotal\n6 . ،19 €\n1 Artikel\nMdổtercard\n6,49 Ê\nMwSt^\nMwSt\nI . MwSt\n5,45 Ê\n19%\n1,04 e\nOer 13.06.21 16:10 Kasee \n13 \n53 ا٢ة٠\nااÖ9\nHostess \n: \nOCO \nFi l iale : \n702054\nUSt.-IõNr. DE 124 645 601\nWerde M٧DECATHLON Mityl ied\ntirid teste deine Prodtikte\n30 Tage lanat Jetzt kostenlos\n3لآاا'ا6اden auf m٧decatHlon.de\nIا\n\n------------------------------------------",
+  "output": "<NULL>",
+  "summary_type": "receipts"
+}{
+  "input": "inem Kauf) geltend gemacht haben,\nwird die Meldung umgehend gelöscht. Zudem werden die Zahlungsdaten\nzur Verhinderung von Kartenmissbrauch sowie zur Begrenzung des\nRisikos von Zahlungsausfällen gespeichert und genutzt. Ingenlco erteilt\ninsoweit auch an andere Händler, die an ihrem System angeschlossen\nsind, Empfehlungen, ob eine Zahlung mit girocard und Uriterschrift\nakzeptiert werden kann. Weitere Informationen finden Sie im\nAushangte^\nằ\nMARKER\nvon\nS-qụỉto\nfree\nEine von vielen dm-Marken.\nEine v",
+  "output": "Die Meldung wird sofort gelöscht, wenn Ansprüche geltend gemacht wurden. Zahlungsdaten werden gespeichert und verwendet, um Kartenmissbrauch zu verhindern und das Risiko von Zahlungsausfällen zu begrenzen. Ingenlco gibt auch Empfehlungen an andere Händler, die an ihrem System angeschlossen sind, ob eine Zahlung mit girocard und Unterschrift akzeptiert werden kann.",
+  "summary_type": "receipts"
+}{
+  "input": "Topco.\n4627 Koval\nLane\nLas Vegas, WV 3109,\ncheck 488\nTab Z\ntalelsh W.\nGuests 2\n4 Gud Aluninun Bottle (8.00)\nToogolf Ganeplay\n2 Weabership Charge (5.00)\nTogolf Ganepay\nSubtotal\nTx\nTOTAL\n15\nastercara\n‘oct, Nope\n296)\nsopra APTASS29\n‘ANE DUE\nThank you for visting Topgolt\nUscoming events and promotions \n“oogoIf.con and follow us stop\non Facaook,\nTwitter or Instag\nTopeolt\nis al about inspiring m\n‘in the world, and iF your\nBay\ndelivered on that during your ex\n\n------------------------------------------",
+  "output": "<NULL>",
+  "summary_type": "receipts"
+}{
+  "input": "flich an, die Lastschrift einzulösen\nund im Falle der Nichteinlösung der Lastschrift dem umseitig genannten\nUnternehmen oder, bei ForderUngsabtretung, dem jeweiligen Gläubiger\noder deren Beauftragten auf Anforderung meinen Namen und meine\nAnschrift zur Geltendmachung der Forderung mitzuteilen.\ngelten dabei die mit meinem\n(Unterschrift des/der Karteninhabers/in}\nDatenschutzrechthche Informationen\nWir erfassen Ihre Zahlungsinformationen (IBAN, BIC, Kartenverfalldatum\nund -fol؛enumme,r, Datum, Uhrz",
+  "output": "<CENSORED>",
+  "summary_type": "receipts"
+}{
+  "input": "s6:2\n639\nBed. :292929\nNoch keine PAYBACK Karte?\nFür diesen Einkauf hatten sie\n5 Punkte erhalten؛\nGleicti hier am REWE Service-Punkt im Markt\nanmelden oder auf www.rewe.de/payback\nVielen Dank für Ihren Einkauf\nWir sind für Sie da:\nMo. - Sa. 07:00 bis 22:00 Uhr\nSie haben Fragen?\nAntworten gibt es unter www.rewe.de\n\n--------------------------------------------------",
+  "output": "The text is a receipt or information note from REWE, a German supermarket. It mentions that the customer could have received 5 PAYBACK points for their purchase. It encourages customers to sign up for a PAYBACK card either in-store at the REWE service point or online. It thanks the customer for their purchase and provides the store's operating hours (Monday to Saturday, 7:00 to 22:00). If customers have any questions, they can find answers on the REWE website.",
+  "summary_type": "receipts"
+}{
+  "input": "��\n３－\nｔ一\n－１\n‐ｌ\nＣ－\n－Ｕ－\n“Ｎ\nＭＨ\nＰ１\nｍＵ\n▲：\nｌｅ\n－ｂＫ，\n６，ｐ\nｌ‘Ｌ\nｔｌｒ\nＣ\nＱａ\n３\nｔ‐\n４号Ｉ\n‐ｐｐ\n０Ｆに\nｕ\nへ６Ｎ\nＳしＫ\nｎ４\n０７\n００\n心５\n心幻\n８９\n８８\n‐８\n１１\n２１\n２２\n0ekuj eI11e\nUdII\nzfl l･lavstevu\nl\nhttp\n;\n//叫叫. stait,uckscoffee・cz\nSta rbUcks Rewa rds\nPrldejte\nSe\na LIzIvelte\nsl\nUaslch\n0blibenych naFIo1u l旧I-ldS\n|\nTol1et C0de: 22D室井\n\n--------------------------------------------------",
+  "output": "<NULL>",
+  "summary_type": "receipts"
+}{
+  "input": "umme\n89,50€\n89,50€\n14,29€\nKreditkartenzahlung\nBetrag\n89,50€\nVU-Nr\n4556695619\nTransaktions-Nr\n42456\nDatum\n16.09.2018\nGen-Nr\nNGIXGW\nIhre Kreditkarte wurde mit dem oben genannten Betrag belastet. Die Buchung Ihres\nOnline-Tickets erfolgte am 16.09.2018 13:51 Uhr. DB Fernverkehr AG/DB Regio AG,\nStephensonstr. 1, 60326 Frankfurt, Steuernummer: 29/001/60002.\nBarcode bitte nicht knicken!               \nHinfahrt:\nGültig ab:\n16.09.2018\nZangenabdruck\nHerr  Jens walter\nAuftragsnummer:\n1HZ9O3\nIhre Reiseverbi",
+  "output": "A credit card transaction of 89,50€ was made for an online ticket on 16.09.2018 at 13:51. The transaction was processed by DB Fernverkehr AG/DB Regio AG, located at Stephensonstr. 1, 60326 Frankfurt, with tax number 29/001/60002. The transaction number is 42456 and the ticket is valid from 16.09.2018. The ticket was booked under the name Jens Walter, with the order number 1HZ9O3.",
+  "summary_type": "receipts"
+}{
+  "input": "Noels\nBallroom\nKurt Eisner str.43\n04275 Leipzig\n**********٠+****+********\nRechnung Nr. 18\n30.٦0.2٥20\n٢1sch 1.8\n4 X Fassbrause 0,331 \na 2,50 €\n10,00 €\n0,51 strongbow Cider\n5,20 «\nFlngerfood Variation\nKnobl\n10,90 €\nDip groB\n0,70 €\n2 X 0,51 Guinness \na 5,20 «\n10 40 €\n3χ5,2θ€\n0,51 Newcastle Вго،)٠п Ale\n15,60 €\n3 X 0,51 Hop House 13 \na 5,20 €\n15,60 €\n2 X Ballroom Burger \na 11,80 €\nSweetpotatos\n23,60 €\nBallroom Burger\nWedges\n11\n€\nIrisches Braunbrot Bacon\n90 €\n0,51 Corcorans Celtic\n4,20 €\nTotal\nNettoum",
+  "output": "The text appears to be a bill from Noels Ballroom, located at Kurt Eisner str.43, 04275 Leipzig. The bill, numbered 18, is dated 30.60.2520. It lists various items including 4 Fassbrause, 1 Strongbow Cider, Fingerfood Variation, 2 Guinness, 1 Newcastle Brown Ale, 3 Hop House 13, 2 Ballroom Burgers with Sweetpotatoes, 1 Ballroom Burger with Wedges, Irish Brown Bread with Bacon, and 1 Corcorans Celtic. The total cost is not specified.",
+  "summary_type": "receipts"
+}{
+  "input": "tionen und Ansagen im Zug und am Bahnhof. Wir danken Ihnen für Ihre Buchung und wünschen\nIhnen eine angenehme Reise!\nLVE97O\nSeite 1 / 1\n\n--------------------------------------------------",
+  "output": "The text thanks the reader for their booking and wishes them a pleasant journey. It also mentions announcements and information in the train and at the station.",
+  "summary_type": "receipts"
+}{
+  "input": "Ｑ\n〕\nＴ\nｌ\n〆\nｂ\nｒ\nし\n〒\nＩ\nＤ\nＩ\nＦ\nＤ\nｎ\nＫ\nＺ\n）\nＦ\nＤ\nｒ\nに\nｎ\nＫ\nＭ\nⅢ\nり\n詩\nＴ\nｌ\n｜\n’\n上\nＮ\nｍ\nｈ\nｐ\n共\n（\nご\nＴ\nｌ\n碁\n〈\nｈ\nｌ\nＬ\n０\n１\nＩ\nｄ\n共\nＭ\n叩\nく\nＨ\nａ\nｅ\n長\n川\n叫\nＶ\n、\n１\n％\nや\nＩ\nノ\n〃\nＯ\n〈\n→\n長\nＴ\nｌ\n行\nう\nｒ\n・\n１\n％\nｎ\n口\nＭ\nＮ\nｐ\n，\nｒ\n菱\nＦ\n仁\nＦ\n仁\nＰ\n，\nｅ\n美\nｎ\nＵ\nＩ\nＪ\n〈\nＨ\nＵ\nＶ\n０\n１\n〈\nＵ\nＰ\n４\n１\n．\n’\n４\n‐\n０\n，\n（\nＵ\n〔\nし\n、\n）\nｒ\n〈\nＵ\n：\nｅ\n（\nＵ\nＶ\nＩ\nｕ\n（\nＵ\nｎ\nＫ\nＳ\n《\nＵ\nＴ\nＩ\nＳ\n八\nＵ\nＮ\nｍ\n千\n１\n〈\nＵ\nＥ\nＲ\n”\n０\nＥ\n‐\n‐\nＲ\nＯ\nＯ\nＲ\nＯ\nＩ\nＣ\nＨ\nＲ\nＩ\n、\n０\nｔ\nｆ\n６\nｌ\n４\nＮ\nＯ\nＳ\nＣ\n。\n。\nＩ\nＬ\nＩ\nＳ\nｒ\nｕ\nｅ\nＭ\nｍ\n〈\n→\n〈\n十\n巳\nＯ\nｌ\nＰ\nＣ\nＰ\n。\n’\n〈\n同\nＳ\nｕ\n‘\nｕ\nＣ\n〔\n→\nｅ\nＭ\nⅡ\n‐\n１\n０\nＳ\nｅ\nａ\nｅ\n‐\nＤ\nｅ\nＩ\nｎ\n‐\nｌ\nｅ\nＣ\nＰ\n祠\nｅ\nｒ\nｒ\nＰ\nｅ\n０\n０\n戸\n→\nｕ\n白\n川\nｅ\nＯ\nＰ\nｄ\nＣ",
+  "output": "<NULL>",
+  "summary_type": "receipts"
+}{
+  "input": "er Consulting GmbH  \nFriedrichstr. 123\n10117 Berlin\n:\nRECHNUNG\nBeschreibung\nDatum\nBelastung\nEntlastung \n30.06.19\n01.07.19\n02.07.19\n03.07.19\n04.07.19\n110.00\n110.00\n110.00\n110.00\n440.00\nÜbernachtung exklusive Frühstück*\nÜbernachtung exklusive Frühstück*\nÜbernachtung exklusive Frühstück*\nÜbernachtung exklusive Frühstück*\nBargeld\nTotal\n440.00\n440.00\nSaldo\n0.00\nEUR\nTotal inkl. MwSt. \n 411.21\n 28.79\n 440.00\nMwSt. 7% *\n28.79\n 440.00\n411.21\n  Netto EUR \n MwSt. EUR \nBrutto EUR \nUmsatzsteuer Detail\nSeite",
+  "output": "The text is an invoice from er Consulting GmbH, Berlin. It details charges for four nights of accommodation without breakfast from 30th June to 4th July, each night costing 110.00 EUR. An additional cash charge of 440.00 EUR is also listed. The total amount, including a 7% VAT of 28.79 EUR, is 440.00 EUR. The net amount is 411.21 EUR.",
+  "summary_type": "receipts"
+}{
+  "input": ",50a\nFMAi:Eq33,\n,2,80.\n4x3,20\nMILCHSHAKES\n5｣70a\nS州[[UR\n脈0\n５\n９\n４\n４\n０\n５\nＪ\nｊ\nＪ\nＯ\n７\n７\n２\n２\n０\n０\n５\n０\n１\n！\nｊ\nａ\n０\nｂ\n６\n０\nｆ\nｌ\nＩ\nｇ\n〔\nＪ\n‐\nｔ\n‐\nｔ\n‐\nｔ\nｎ\nｎ\n４\n（\nロ\nハ\nｂ\nＱ\n〕\nｕ\nＮ\nＮ\nＷ\n１\n‐\n日\n０\n０\nＭ\n叩\nＭ\n叩\nＭ\n”\n‐\nｈ\nｎ\nａ\nｅ\n’\nＫ\n配\n船\n即\n乃\nｅ\n『\n上\nＩ\nＤ\nＣ\n（\nＵ\n（\nＵ\nⅢ\n一\nｅ\n恥\nｕ\n１\nＪ\nⅢ\nＲ\n、\nｇ\nｒ\nｑ\n》\n可\nｊ\nｕ\nＬ\nＡ\nｅ\nｕ\nｌ\nＱ\n〕\n６\nハ\nｕ\nＺ\n０\n０\n０\nｔ\n‐\nｔ\n‐\nｔ\n凶\nｔ\n‐\nｔ\n‐\nｔ\nｅ\nｅ\nｅ\nＮ\nＮ\nＮ\n５\n１\n６\n白\nｂ\n３\n９\nｊ\n，\n』\n７\n１\n８\n０\n０\n０\n１\n１\n２\nWM8i/64;M\ninfo@joseph-Pub.de\nｔ\n（\n胃\n）\n〆\n↑\n１\n１\n■\n１\n６\n．\n戸\n十\nＩ\nＩ\nＯ\nｎ\nｅ\nｅ\n９\n‐\nｈ\nｅ\n‐\nｈ\nＳ\nＣ\nｒ\n・\n１\nｅ\n‐\n．\n９\n６\n釦\n６\n．\n１\nｔ\n側\nEAS-SerNI｡: 11104-01585-001\nT",
+  "output": "<NULL>",
+  "summary_type": "receipts"
+}{
+  "input": ": STARSUCKS COFFEE ESPANA S.L.\nCamino de La Zarzuela 1\n28023-MADRID С1Р:В8111590Т\nNo se admiten cambios ni d؛؛vo1uc1ones\nexcepto en los casos en que el arti'culo\nadquirido sea detectuoso, i;؛n cuyo caso se\ncambiara por el m1sit!0 articulo 0 simi lar\nsiempre y cuando el defecto no se deba a\nun mal uso 0 manipulación.\n\n--------------------------------------------------",
+  "output": "Starsucks Coffee Espana S.L., located in Madrid, does not accept changes or returns unless the purchased item is defective. In such cases, the item will be replaced with the same or similar item, provided the defect is not due to misuse or mishandling.",
+  "summary_type": "receipts"
+}{
+  "input": "von Kraftstoffen und ijber\nAnbieter von Energiedienstleistungen, Energieaudits und Energie-\neffizienzma8nahmen entnehmen\nSie\nbitte www､bfee-online.｡e、\nDer Verkauf von Vergaser- und Dieselkra廿stoffensowiedermit(#）\ngekennzeichneten Produkte oder Dienstleistungen erfolgt im\nNamen derORLEN\nDeutschland GmbH，Kurt-Wagener-Str.\n7,\n25337Elmshom,\nSteuemumme｢;DE1829422775\n1m Verkaufspreis der Vergaser- und Dieselkraftstoffe ist der gesetz-\nliche Bevorratungsbeitrag und die jeweils gUltige Umsatzsteuer\nenth",
+  "output": "The text discusses the sale of gasoline and diesel fuels, as well as marked products or services, which are carried out in the name of ORLEN Deutschland GmbH, located at Kurt-Wagener-Str. 7, 25337 Elmshom, with the tax number DE1829422775. The sales price of the gasoline and diesel fuels includes the legal stockpiling contribution and the applicable sales tax. For information on fuel providers and energy services, energy audits, and energy efficiency measures, please visit www.bfee-online.de.",
+  "summary_type": "receipts"
+}{
+  "input": "YOURGUESTNUMBERIS\n43\n1N…仲OU･｢BURGER\nI_INQ\n320621666301\n。\n『・了啄，'¥･ﾇﾏｰ罰謹盾寺ざ\n．,唾‘髭空凸哩・巧”吟〒?.存、F葱\nI\ndrrr垂K'昌転'毒呼･L ･ﾂ(\n~鼠砥\nU■司哨\n■\n君\n守\nSERJIOSA\n43\n6301\nCashier:\nCheck\n:\nTRANS#:\n匡琢F7T癖ざ屡鴫壗伊が可1\n，‘.､竃\"Y,予.‐~.'\n『－\n7''､'･4戸塚？' '\n1, :両'､宇司了帥龍雷了\nlrr和．，~雨;竃目･郁勺\n､.註\n刊可『\n~\n~\n~\n5.25\n1\nDbl-0bl\n+0nion\n1\nFI-y\n1\nMedSoftO1\"1rlk\n2,35\n2,15\n9．75\n．82\n$10.57\nCOUNIER-Eat\nln\n1'AX8,375%\nAmountOue\n1.erldel←トイdsterCard\nChange\n$10‘57\n＄,00\n'~､諦『■ぞ\nJ'ずF\n・z冤画難？\n.\n’\nI\n．｡【･\n1 1Rr痔鼠，弾丸\n，f‐\n；Jf鑓劃\n占r‘v(牌呼r\nCHARGEDETAIL\nSALE\nCardType!",
+  "output": "The text appears to be a receipt for a meal at a restaurant. The guest number is 43. The order includes a double burger with onion, fries, and a medium soft drink. The total cost of the meal is $10.57, which was paid with a MasterCard. No change was given. The receipt also mentions a tax rate of 8.375%. The rest of the text is either illegible or in a different language.",
+  "summary_type": "receipts"
+}{
+  "input": "Wynn/Encore\n3131\nS Las Vegas Blvd\nLas Vegas,\nNV 89109\n(702) 770-7000\nsw SLeakhouse\n10000186 James\nCHK 260339\nIBL 95/1\n95 waiter\n12/1/2023 5:48 PM\nGSl 2\n9.75\n1\nLG\nFاوا\n24.00\n2 Hazy IPA I 12.00\n1\nGoose Island IPA\n1\nBurraia\n1\nOctopus\n2 ***٠**٠٠**٠٠\n1\nOA Bone\nin\nN٧\n1\nNew York\n1\nGratin\n1\nMac\nδ Cheese\n1\nWild Mushrooms\n1\nCarrot Cake\n2 Double Espresso\n10.00\n26.00\n36.00\n0.00\n95.00\n19.00\n19.00\n19.00\n7,25\n14.50\n$371.25\n$31.09\n$4๐2.34\nSubtotal\nTax\nTotal\nDue\nGratuity\n:\nTotal\nWynn/Encore Rm\n#\n(Please Print\nLa",
+  "output": "This text appears to be a receipt from Wynn/Encore restaurant located at 3131 S Las Vegas Blvd, Las Vegas, NV 89109. The receipt lists various items including drinks, main courses, and desserts. The subtotal is $371.25, tax is $31.09, and the total due, including gratuity, is $402.34.",
+  "summary_type": "receipts"
+}{
+  "input": "Darum:\nUnterschr!ft:\nAngaben zum Nachwers der Höhe und der betr. Veranrassung\nvon Bewrrtungsaufwendungen (§4Abs.5ZrFF.2EStG)\nBewrrteie Personen:\nAnlass der Bewirtung:\nDatum:\nUnterschrift:\nAngaben zum Nachweis der Höhe und der betr. Veranlassung\nvon Bewirtungsaufwendungen (§4Abs.5ZIFF.2EStG)\nBewirtete Personen:\nAnlass der Bewirtung;\nDatum;\nUnterschrift:\nAngaben zum Nachweis der HOtie und der betr. Veranlassung\nvon Bewirtungsaufwendungen (§4Abs.5ZIFF.2EStG)\nBewirtete Personen:\nAnlass der Bewirtung",
+  "output": "The text appears to be a repeated form or template for recording hospitality expenses, including details about the amount, the reason for the expense, the people entertained, the occasion, and the date, as per §4Abs.5ZIFF.2EStG (a possible reference to a German tax law).",
+  "summary_type": "receipts"
+}{
+  "input": "et\nwith the Amazon Prime Rewards Visa,\nlearn mor'e a1: aiNazon.com/amazonvisa\nHOW WAS YDUR SHOPPING EXPERIENCE؟\nGo to: http://www.wfm.com/feedback\nENIER FOR A CHANCE ID WIN A $250 GIFl CARD\n(2187757) 10044\n201 8077 04/08/20 9 03:53 PM\n351HZ2YVLH\nlhanks for shopping at Whole Foods Market\nWholeFoodsMarket.com\n\n--------------------------------------------------",
+  "output": "The text is a section of a receipt from Whole Foods Market. It mentions a chance to win a $250 gift card by providing feedback on the shopping experience at a given website. It also refers to the Amazon Prime Rewards Visa.",
+  "summary_type": "receipts"
+}{
+  "input": "Cafe Wachberg\nAn den binden 3\n04178 beipzig\n4,10.2022 * 5.'10Uhr * BOM:55271\nSüß und Herzhaft\n11,90 Euro\nTotal\nNettoumsatz\nMwSt 7%\n11,9๐ Euro\n11,12 Euro\n0,78 Euro\n11 ,9๐ Euro\nEC\nSequenznummer^ 55271\nEs bediente sie: Bed.2\nSteuer-Nr\n15506\n-\n262\n-\n232\n ؛\nVielen Dank für Ihren Besuch!\nc.by KCV\n\n--------------------------------------------------",
+  "output": "This is a receipt from Cafe Wachberg located at An den binden 3, 04178 beipzig, dated 4th October 2022. The purchase was for \"Süß und Herzhaft\" costing 11.90 Euros. The net sales amount was 11.12 Euros with a VAT of 7% amounting to 0.78 Euros. The total amount paid was 11.90 Euros via EC. The sequence number is 55271 and the service was provided by Bed.2. The tax number is 15506-262-232. The receipt ends with a thank you note for the visit.",
+  "summary_type": "receipts"
+}{
+  "input": "and for official rules, visit\nwww.entry.survey.walmart.com.\nSweepstakes period ends on the date outlined in the\nofficial rules. Survey must be taken within ONE week\nof today. Void wfiere prohibited.\nTHANK YOU\nHow was your experience?\nTell us about your visit today and you could win  1 of 5\n$1000 Walmart gift cards or 1 of 750 $100 Walmart\ngift cards.\nOiganos acerca de su visita a Walmart hoy y usted\npodría ganar una de las 5 tarjetas de regalo de\nWalmart de $1000 0 una de las 750 tarjetas de\nreg",
+  "output": "Visit www.entry.survey.walmart.com for official rules. The sweepstakes period ends on the date specified in the rules. The survey must be completed within one week of today. Participants could win one of five $1000 Walmart gift cards or one of 750 $100 Walmart gift cards. The offer is void where prohibited.",
+  "summary_type": "receipts"
+}{
+  "input": "en im Zug und am Bahnhof. Wir danken Ihnen für Ihre Buchung und wünschen\nIhnen eine angenehme Reise!\n6GS7GQ\nSeite 1 / 1\n\n--------------------------------------------------",
+  "output": "The text thanks the reader for their booking and wishes them a pleasant journey. It also includes a code: 6GS7GQ.",
+  "summary_type": "receipts"
+}{
+  "input": "DA\nSERlE/NuM 240920190920002/0297\n119264 DANIELA\nC/I 20297\n20 SEP’19 14:22\n1 Hot Latte Espresso Roast\nVenti\nSemìdesnatada VENII\n1 Hot Americano Espresso Roast\nGrande\n1 DIO-PROM-MAR\n4, 10\n2,\n-4,10\n2,80€\nTarjetas visa\n29\n0,25 IVA 10%\nTotal Neto:\nSubtotal\n2,80\n2,55€\n2,80€\n2,80€\nPago\nО. ũũ€\nCambio\nFactura Cerrada\n20 SEP' 19 14:22\nCOdIgo de aseo 1122\n*** GRACIAS POR so VISITA ЖЖЖ\nEmite: STARBOCKS COFFEE ESPANA s.l.\nCamino de La Zarzuela 1\n28023٠-MADRlD CIF:B83115907\nNo se admiten cambios ni devolucio",
+  "output": "On September 20, 2019, a purchase was made at Starbucks Coffee España S.L. The items bought include a Venti Hot Latte Espresso Roast, a Grande Hot Americano Espresso Roast, and a DIO-PROM-MAR. The total net cost was 2.80€, paid via Visa card. The receipt also includes a bathroom code (1122) and states that no returns or exchanges are allowed.",
+  "summary_type": "receipts"
+}{
+  "input": "angegebenen Reiseabschnitt. Die Übersicht \"Ihre Reiseverbindung\" enthält gegebenenfalls\nReiseinformationen zu Teilstrecken (z.B. Bus oder Straßenbahn), für die eine weitere Fahrkarte erforderlich sein kann.\n- Wenn Ihr Ticket den Zusatz \"+City\" oder \"City mobil\" zeigt, gilt dieser nur am Tag der Hinfahrt bzw. am Tag der Rückfahrt.\n- Es gelten die nationalen und internationalen Beförderungsbedingungen der DB AG. Innerhalb von Verkehrsverbünden und Tarifgemeinschaften\ngelten deren Bedingungen. Alle",
+  "output": "Die Übersicht \"Ihre Reiseverbindung\" kann Informationen zu Teilstrecken enthalten, für die möglicherweise eine zusätzliche Fahrkarte benötigt wird. Wenn Ihr Ticket den Zusatz \"+City\" oder \"City mobil\" zeigt, gilt dieser nur am Tag der Hinfahrt oder Rückfahrt. Die nationalen und internationalen Beförderungsbedingungen der DB AG sowie die Bedingungen von Verkehrsverbünden und Tarifgemeinschaften gelten.",
+  "summary_type": "receipts"
+}{
+  "input": "02\nAS-Proc-Code = 00 075\n00\nCapt.-Ref,= 0000\nBITTE BELEG AUFBEWAHREN\nKARTENZAHLUNG\n15)62\nMWST\nNetto \nMWST-BETRAG \nBRUTTO\n1)16 \n17)78\nc\n16)62\nD\n 15)00%\n1)55\n0,25\n1\n84\nANZAHL ARTIKEL\n14\nIhr Online-Shop: ald1-liefert.de/nord\n05(2&021 6506 )\n14:05 23.06.2020\n\n--------------------------------------------------\nund un؛e ٢Llchtabsch!uss au۴.\nMIX\nPap!٠r auo veraniwur.\nWngsvollan Qualen\nFSC. CI 07568\nFSC\n..٠ί،νί١«؛\nALDI Bonrollen werden aus komplett phenolfreiem\nfhermopapier hergestellt.\nALDI\nUm die Qual",
+  "output": "The text appears to be a receipt from ALDI, indicating a card payment, with a total of 14 items purchased. The receipt also mentions that ALDI's receipt rolls are made from completely phenol-free thermal paper. The exact items purchased and the total amount are not clear from the text.",
+  "summary_type": "receipts"
+}{
+  "input": "Ｆ\n０\n・\n卜\nⅧ\n哩\n甸\n■\n●\n勺\nＦ\n１\n『\nｒ\nｕ\n﹇\n凶\n凹\nⅢ\n叫\n凹\n叩\nⅡ\nＭ\nＭ\nＭ\n哩\n員\n叩\n。\n句\nⅡ\nⅡ\n１\n。\n｛\nⅡ\n叩\nＤ\nし\n限\n』\n卒\nⅡ\nＦ\n』\n一\n菫\n阜\n眺\nＦ\nＤ\n＋\nＯ\nＬ\n稗\n外\n角\n〕\n咋\n両\n，\n〃\n↑\n一\n一\n圃\n幽\n，\nＶ\n﹇\nｕ\n理\nⅡ\nⅢ\nｖ\n二\nＨ\n叩\n』\n向\n日\n己\n氾\nＭ\n叩\n叩\n砧\nＲ\nｕ\n１\nｌ\nＩ\n託\n■\n》\n阜\nい\n○\n＋\nⅡ\nＬ\n＋\n’\nＬ\n白\nｕ\n《\n電\n〕\n一\n一\n一\nｒ\nＩ\n》\n↑\n二\n一\n曲\n叩\n凹\n内\n〕\nⅡ\nＴ\nｌ\n△\nｎ\n〕\n『\n、\n叩\nｈ\nⅡ\nＭ\nＴ\nＩ\n４\nロ\n』\nｎ\n脚\n’\n七\n１\n口\n！\nい\nい\nｎ\n吋\n肥\n。\n甘\n■\n蛉\n制\nＭ\n（\nＨ\n凶\n岫\n■\n１\n１\n猫\nⅡ\n叩\n寺\n、\n１\n１\n・\n曲\n１\n０\n語\n《\n曲\n叩\n鈍\n凹\n・\n八\nｍ\nⅧ\n一\nｍ\nⅡ\nＵ\n篭\nＵ\n皿\n肌\nｆ\n０\nｌ\nも\n〃\n価\n肌\nｒ\n１\nつ\nＪ\nＬ\nｎ\nｒ\nＯ\nｎ\nⅢ\nＵ\nｎ\nＲ\nｍ\n叩\nＭ\n即\n叩\n《\nＭ\n川\n》\n企\nⅡ\nＬ\n、\n簡\n曲\n・\n今\n■\n恥\nＪ\nⅢ\n〕\nｊ\n川\n却\nＩ\nｈ\nｕ\n《\n叩\nｒ\n４\n，\nＭ\n』",
+  "output": "<NULL>",
+  "summary_type": "receipts"
+}{
+  "input": "m Zug und am Bahnhof. Wir danken Ihnen für Ihre Buchung und wünschen\nIhnen eine angenehme Reise!\n4L9BE9\nSeite 1 / 1\n\n--------------------------------------------------",
+  "output": "The text thanks the reader for their booking and wishes them a pleasant journey. It also includes a code: 4L9BE9.",
+  "summary_type": "receipts"
+}{
+  "input": "3-٥24-3632\nIten Discount 56.6ة\nM 5DỈDU\nLI.\nBBJ6WM2AC326.\nSA.AD\nAff\n45.55\n1\n-25.٥٥\n-٥٥٠٥\n12.45\n1'\nΒΟΧ٢lEE\nSDLID\n422٥Dl-034-٥٥٥4\nIten Discount 5٥.٥ί\nM\n5؛٥DW\nLL\nBBJ6WM2٧C326,٥٥٠٥؟\n24.55\n1\n-12.5.\n.٥\n٥ff\n12.45\nI\nBIIXV lEE SOLID\n422هه1-هه4-ههه4\n5.ه0ةiten Discount\nLL\n5؛٥Α٧H\nBBJ6WM2DC326\n24.55\n1\n.5٥\n.00 Off\n-\n66.00\nfotel\nDiscount\n65.55\nSubtotal\nGSr/HST taxable Rnount\nOSĨ/HSĨ (13.0)؛lax\nfotal\nfa!؛\n65.55\n57\n8.57\n74.52\nfotal\n74,52\nHfiSfER CRRD\nEntry Method;\nRecount:\nRuth:\nRppileation label;\nContactless\nΧΧΧ",
+  "output": "<CENSORED>",
+  "summary_type": "receipts"
+}{
+  "input": "(川‘~ mlfl\"}' (lafO1233\nｒ\n０\nｌ\nｔ\nｆ\nＩ\nト\nー\nＬ\n●\n０\nＪ\n０\n１\n．\nⅡ\nＩ\nＦ\n一\n国\n■\n』\n』\nｂ\nｌ\nＯ\nＦ\n罪\nＬ\n、\nＪ\n１\n「二' '二' 1 1-1 1\n1\n1\n61vd\n|1=\nCI!I\n9I IOr\n|j):311 ,|]404\n川I I\"1 189\n1/27/2['21\n)rder\ni2､|71' 1:i\n9: 1{j :5I\nAM\n:a!=.hier;\nAle]dn:l loS\n１\nｒ\n制\nｉ\n再\n一\n》\n《\n一\nト\nト\n《\n《\n『\n士\n’\n且\nｌ\nＡ\n１\n●\n副\n■\nｌ\n→\nＰ\nｔ\nｉ\n動\n●\n苧\nげ\nい\n■\nⅡ\n０\nト\nー\nｒ\n』\n－\nじ\n１\n１\n１\n兎\nｊ\nＰ\nｆ\nｌ\n~\n只\n鈩\n１\n１\n」\n（\n”\nⅧ\n‐\n〉\n行\nい\nＵ\n（\nト\nＵ\n・\nリ\nー\n←\ni .|::1 (g t,21 1\n9 fill\nll\nll11\n’\n~~~~~~\n~~~\n~\n~~~~ ~~~~~~\n~\n~~~~~~~~~~\n》ﾄ|'(inl\" 'II10川chaSe*\nShare\nl: ';)(; ' ':| |旧ﾆﾄ|Q;\n]11\n>'二' ､\nl",
+  "output": "<NULL>",
+  "summary_type": "receipts"
+}{
+  "input": "errdatei gespeichert, sofern nicht Rechte\naus dem Grundgeschäft (Ζ.Β. wg. Sachmangels) geltend gemacht wurden.\nDie Sperrdatei sowie die Zahlungsdaten werden zur Verhinderung von\nKartenmissbrauch und Begrenzung des Zahlungsausfallrisikos von\nInterCard gespeichert und депии. InterCard erteilt dabei ihr angeschlos-\nsenen Unternehmen Empfehlungen, ob eine ec-Lastschriftzahlung akzep-\ntiert werden kann. Weitere Informationen sind im Aushang verfügbar.\nec-lastschrift Uber lnterCart.٠terCard ELV)\nIch e",
+  "output": "The text discusses the storage of a blocking file and payment data by InterCard to prevent card misuse and limit payment default risk. InterCard provides recommendations to its affiliated companies on whether an EC direct debit payment can be accepted. Further information is available on display.",
+  "summary_type": "receipts"
+}{
+  "input": "er Consulting GmbH  \nFriedrichstr. 123\n10117 Berlin\n:\nRECHNUNG\nBeschreibung\nDatum\nBelastung\nEntlastung \n21.07.19\n22.07.19\n23.07.19\n24.07.19\n25.07.19\n26.07.19\n110.00\n110.00\n110.00\n110.00\n110.00\n550.00\nÜbernachtung exklusive Frühstück*\nÜbernachtung exklusive Frühstück*\nÜbernachtung exklusive Frühstück*\nÜbernachtung exklusive Frühstück*\nÜbernachtung exklusive Frühstück*\nMastercard IFC\nTotal\n550.00\n550.00\nSaldo\n0.00\nEUR\nTotal inkl. MwSt. \n 514.02\n 35.98\n 550.00\nMwSt. 7% *\n35.98\n 550.00\n514.02\n  Nett",
+  "output": "er Consulting GmbH issued an invoice for five nights of accommodation without breakfast from 21.07.19 to 26.07.19, each night costing 110.00, for a total of 550.00. The payment was made via Mastercard IFC. The total amount including a 7% VAT (35.98) is 550.00. The net amount is 514.02.",
+  "summary_type": "receipts"
+}{
+  "input": "%\nالاRatto\n،1,83\nMwSt\nlitio\n5,75\n,92\n دA A  عλ A Λ λ  عA A  عA A A A A A  عA A A A A   عA عA A A A A \n ع\nع A A · دA' A A A· A\n!.1 11 a KLii iUfeiikattaiti ii \n.\n1 \nχκκχκχχκχ93:.ί0\nRi.iilkleolai iU VOI \nEi i ikaiif: 15Û\n!لا0 ' الادRiii iklaalai iil (il il  اذil iol il : 1,5 الEUR\nEi i ikaiif tìiUal lai i 8İÖ voli\n ا\nاة,؛لاا\nأ 1\nlui\na\n Iiiii|-kt\n-0االالا-).ااUhi\nR٨Y8٨i;k Roi ikla aiit\nfii.iiik'tefaliiya ٨i -tikal\nliasi S-Riink ta\n5٥ρ\nA A A A A A A A A A A A A A A A A A A A A A A A A  A A A A A Ä A",
+  "output": "<NULL>",
+  "summary_type": "receipts"
+}{
+  "input": "enfalls\nReiseinformationen zu Teilstrecken (z.B. Bus oder Straßenbahn), für die eine weitere Fahrkarte erforderlich sein kann.\n- Wenn Ihr Ticket den Zusatz \"+City\" oder \"City mobil\" zeigt, gilt dieser nur am Tag der Hinfahrt bzw. am Tag der Rückfahrt.\n- Es gelten die nationalen und internationalen Beförderungsbedingungen der DB AG. Innerhalb von Verkehrsverbünden und Tarifgemeinschaften\ngelten deren Bedingungen. Alle Bedingungen finden Sie unter: www.bahn.de/agb und www.diebefoerderer.de.\nIhre R",
+  "output": "The text provides travel information about sections (e.g., bus or tram) where an additional ticket may be required. If your ticket shows \"+City\" or \"City mobil\", it is only valid on the day of the outward or return journey. The national and international transport conditions of DB AG apply. Within transport associations and tariff communities, their conditions apply. All conditions can be found at: www.bahn.de/agb and www.diebefoerderer.de.",
+  "summary_type": "receipts"
+}{
+  "input": "/18\n434309101780\n51.02\n11/27/18\n434309114682\n209.00\n27.96\n22.68\n11/28/18\n434319101739\n11/28/18\n434319101740\n51.02\n11/28/18\n434319114444\n209.00\n27.96\n22.68\n11/29/18\n434329101514\n11/29/18\n434329101515\n51.02\n11/29/18\n434329113779\n209.00\n27.96\n22.68\n11/30/18\n434339100476\n11/30/18\n434339100477\n51.02\n11/30/18\n434339112560\n209.00\n27.96\n22.68\n12/01/18\n434349100234\n12/01/18\n434349100235\n51.02\n12/01/18\n434349112924\n209.00\n27.96\nة2/٧2/1\n'ا\nدا،د؛،0د4د٧00ي1,937.66\nVE \n33310\nSuite#:\nKV\nType:\nGuests:\nJENS WALT",
+  "output": "<CENSORED>",
+  "summary_type": "receipts"
+}{
+  "input": "ハ\n<g》\nMARKYHALLf\nGALERIA\nGalel･iaMarkthalleGmbH&Co.KG\nNeumarkt\nl\n04109Leipzig\nTelefon:\n0341/2245140\nleipzig@karstadt-1ebensinittel ・de\nUIDNr.\n:\nDE814189328\nEUR\nDONAUNARILLEDIE\n5,498\nSCHOKOL｡PISTAZIE\n3,99B\nSUNME\nEUR\n9,48\nGeg.\nMastercard\nEUR\n9,48\nホホ\nKundenbele9\n氷淵\nDatum:\n21.01,2023\nUhrZeit:\n16:18: 11\nUh『・\nBeleg-Nr.\n6090\nTrace-Nr.\n217746\nBezahlung\nContactless\nO田11. NASTERCAR[)\nNr.\n#榊辮棚#榊棚47020000\ngultigbis\nll/25\nVU-Nr.\n4556524486\nTerminal-I[)\n56041033\nPos-Info\nOOO7500\nAS-Zeit21 .01 .\n15: 18Uhr\nAS-P",
+  "output": "<CENSORED>",
+  "summary_type": "receipts"
+}{
+  "input": ":؛d\nan Rا   ٧Brewdog Loth\nso Loth!an Rd\nServe¡' : Sarah\nTable 41 Ι/Ί\nQuests: 2\nاا8/2٧1\n2?/لا\n9:41 PM\n4Ù036\n2/3 Hazy Jane BrewDog\nBrewQog\non \n اi/2 Gose Lost Hat\n.؛Lost Ha\nburger\n \n)-؛L·؛JacL\nFries SIDE\nPatriot Burger\nTries SIDE\nPHI Punh rPA\nBrewDog\nΠ\n5.85\nL.üb\n10 50\n2.50\n9.50\n2.50\n5.60\nswi الا5.60\nPH\nBrewL\nPHI De،\nBrewDog\nPHI Ind!e r\nBrewDog\n5.00\n5.05\n5. . 15\nTotal\n57. TR\nBa I ance \nl.J \nI\n25 Ofj\n27. 10\nBREWDOL OH \n'I',\nGUEST 0, ٩0'.,\nHet\n70.03 ٧ΑΪ: 4. 1/\n20.00% Grosu\n20.00% Gross: 26.79 VAT: 5.",
+  "output": "<CENSORED>",
+  "summary_type": "receipts"
+}{
+  "input": "Starbucks Coffee\nAmRest Coffee Deutschland\nSp. ΖΟ.Ο.\nNeuer Jungfernsteg 5\nlosSlfflburg\nCo, KG\n100047\nChk 2160\n07Mar'19 16:27\nTo Go\n1  CaffelatteV\n+ cLowFatMilkCAMV\n231556;ة399\nCredit Card\n4.59\n4.59\n0.30MîjSt.\nFo 7%\nNetto\nSubtotal\nZahlung\n4.59\n4.29\n4.59\n4.59\nSteuernUiUmer\nUmtausch nur mit Kassenbon!\nVielen Dank fuer ihren Besuch!\n9/2293\nًؤةا\nWC Code; 0220\n\n--------------------------------------------------",
+  "output": "This is a receipt from AmRest Coffee Deutschland, a Starbucks Coffee branch in Germany. The purchase was made on March 7, 2019, at 16:27. The customer bought a Caffelatte with low fat milk, which cost 4.59 Euros, paid by credit card. The receipt also includes a WC code: 0220.",
+  "summary_type": "receipts"
+}{
+  "input": "؛8..\nA)lef ٢حلاحم٢؛04209 Leipzig / от GrUnau\n٥42٧Ι0 Nr f DE811274562\nEUR\n1,11\n1,69\nROSENKOHL\nEUR \n2,\nSUMME\nวุ\nEUR\nGeg. Mastercard\nЖЖ \nKundenbeleg **\n10.06.2022\n16^22:06 Ubr\nDatum؛\nUhrzelt؛\nBeleg-Nr.\nTrace-Nr.\n5690\n090706\nBezahlung\nContactless\nDEBIT MASTERCARD\n«<Η؛##ϋ«ίί.14528 0000\n11/24\n4556326924\n56033882\n00 075 00\n1622\n ؛Uhr\nNr\nl^íg bis\n-؟\nTermlnal-ID\nPos-Info\n.\n06\n إ0ةeit؛؛-؛00\n \n075\n \n00 \n :\nAS-Proc-Code\n0000\n \n.=\nCapt.-Ref\nAPPROVED\nBetrag EUR\n2,80\nZahlung erfolgt\nBrutt.\nSteuer\n0\nNette\n2\n ؛",
+  "output": "The text appears to be a receipt from a store in Leipzig, Germany. The purchase was made on 10.06.2022 at 16:22:06. The item bought was \"Rosenkohl\" for a total of 2.80 EUR. The payment was made using a contactless Debit Mastercard.",
+  "summary_type": "receipts"
+}{
+  "input": "ilt\nBitte Beleg aufhewahren\n\n--------------------------------------------------",
+  "output": "<NULL>",
+  "summary_type": "receipts"
+}{
+  "input": "Extras für 15.01.20\n10 9,90\nPremier Inn Frühstücksbuffet\nExtras für 16.01.20\n10 9,90\nPremier Inn Frühstücksbuffet\nExtras für 17.01.20\n10 9,90\nPremier Inn Frühstücksbuffet\nBereits bezahlt (D9123)\nMwSt.%\nZahlung\nDatum\nBetrag\nةة,٦ة12.01.20 20:55,١QÖ\n70,50\n7,00\n7,00لاً؛,ة١\n78,50\n7,00\n72,00\n7,00\n9,90\n19,00\n9,90\n19,00\n19,00\n9,90\n19,00\n9,90\n19,00\n7,00\n19,00\n9,90\n364,00\n49,50\nRechnungsnummer GABDI20000263\nReferenz 4833 7505 1001 0174 30\nGesamt (Rechnungsbetrag)\n413,50\n413,50\nEUR\nOffener Betrag\n0,00\nEUR",
+  "output": "The text appears to be a receipt for Premier Inn Frühstücksbuffet (breakfast buffet) for the dates 15.01.20, 16.01.20, and 17.01.20, each costing 9,90. The total bill amount is 413,50 EUR, which has already been paid in full. The receipt number is GABDI20000263 and the reference number is 4833 7505 1001 0174 30.",
+  "summary_type": "receipts"
+}{
+  "input": "36/00 tycdeyan = Bair. 1°98\n’\n24/08 thank\n201r. 1\n228°03\nSiro Seeyest\naig.\n1\n“fies\nA\nbi/o3 weieyan\nBolg. 17a\n;\n2/08 chan”\n201,\n1\n298°0\nSales feevest — 3air.\n1\n“Hee\n4\neles thaysst, | Gorh 1\n23:48\n4\nBoos ne cae\nFTE\ngrea 50?\nTO\nBE\nSETTLED\nTO:\nMASTERCARD\nCURRENT BALANCE\n.00\nOBE SETTLED 101.\nSOMMAIRE DES TAXES\nUneens-crcenesocoaz\nDEseRIPTION\n'TAKABLE\nTARE\n5S TPS/RST CHAMBRE,\n(830)\nenea\n5 Sree\nthozest duane\n{Ai\n1$8:38\nSi to5yo8) Aura\nons feta)\n138\nSorbie! Twa/bst AUTRE\n(OFH)\n88\nFRALS_NETS\nTae\ncreDiTs",
+  "output": "<NULL>",
+  "summary_type": "receipts"
+}{
+  "input": "e Bedingungen finden Sie unter: www.bahn.de/agb und www.diebefoerderer.de.\nIhre Reisedaten können sich kurzfristig durch Bauarbeiten oder andere erforderliche Fahrplananpassungen ändern.\nBitte informieren Sie sich kurz vor Ihrer Reise über mögliche Änderungen Ihrer Reisedaten unter www.bahn.de/reiseplan oder mobil über die\nApp DB Navigator. Achten Sie auch auf Informationen und Ansagen im Zug und am Bahnhof. Wir danken Ihnen für Ihre Buchung und wünschen\nIhnen eine angenehme Reise!\n34QQAW\nSeite",
+  "output": "The text informs that travel data may change due to construction work or other necessary schedule adjustments. It advises to check for possible changes to travel data shortly before the trip at www.bahn.de/reiseplan or via the DB Navigator app. It also suggests paying attention to information and announcements on the train and at the station. The text thanks for the booking and wishes a pleasant journey.",
+  "summary_type": "receipts"
+}{
+  "input": "Netto\nSteuer\n3,ه1،\n7 ỉ Nuet\n13 % Muet\n42,33،\n13,78،\n2,62،\nsteuernr.; ٥Ε2377115/٥3374\noorgenssbealoo : ٥4.٥5.2٥22 13:51:13\noorgeossBode٥4.٥5.2٥22 13:61:13\nTSE Serleoueoer\n؛3EE7S?BCC47E5383fiC6٥8٥F53fi٥FE338٥BB7fl٥FC4\n2656٥4Β٥522βΡ33ΒΕ1٠Ε73\nKaeeeossrlennr.:\n.LVNF-afiSTBo-LEIPZIS\nTransektíoneounner: 51265\nSìgoatur،ahler : 11347.\nSignatur:\nHnPopEeEBS٥٥ren٥yB5CUTgNSpFMMiisxIEseufl٠Pu4\n؛؛؛؛؛؛ةهأاً?ة(؛إةةاً؛ة8؛أة۶ة؛إ؛0اًاً?ة؛؛§ج۴؛f o\nта.-\"دЯ\nİÜ\ni\nإ؛\nV\nÍ\nỉ\nRechnungssignatur;\n406ea5a2c3da102td7332tb8ad8a",
+  "output": "<CENSORED>",
+  "summary_type": "receipts"
+}{
+  "input": "IVI\nBall Indamm 40\n20095 Hamburg\nUst.-Id.^DE 292311424\n—riTTiiTiiTrTiiíTriaiTTi\n****\nRechnungsnummer: 159323\nRechnungsdatum: 05.02.2019 18:37:39\n278\nAusrutnummer:\n11٢\nEs bediente sie Andrea\n#\n 14\n1  X Veggie Buddha Bowl\n9,45\nEUR\n8,45\nRechnungsbetrag\nZwischensumme\nMaster\n45\n45\nBrutto\nNetto \nMwSt\n7)10 \n1)35\nSteuersatz\n19% Mwst\n45\nWir danken für Ihren Besuch!\nl\nąs%\nRabatt\nRabó\n.\nJo\n“':،'.‘؛\n:٥؛  ١\n1اا)؟١-»ااذلاد\n,ة١)االا١ا\n'اةلاااًةآا\nاااع\n111 Vi/ebohiip\n ؛\n,ร\nbe, น٢  \n'اا.ااال؛لاة Deme\n الالة\ndỉân",
+  "output": "The text appears to be a receipt from IVI Ball Indamm 40, Hamburg, with Ust.-Id.^DE 292311424. The receipt number is 159323, dated 05.02.2019 18:37:39. The customer was served by Andrea and purchased 1 Veggie Buddha Bowl for 9.45 EUR. The net amount is 8.45 EUR with a tax rate of 19%. The text ends with a thank you note for the visit.",
+  "summary_type": "receipts"
+}{
+  "input": "mit einem amtlichen Lichtbildausweis (z.B. Personalausweis) oder Ihrer BahnCard.\n- Mit Ihrer Fahrkarte zum Flexpreis können Sie jeden Zug der gewählten Verbindung nutzen: mit einer IC/EC-Fahrkarte alle IC- und EC-Züge, mit\neiner ICE-Fahrkarte auch alle anderen Züge.\n- Das Online-Ticket gilt nur für den unter \"Fahrkarte\" angegebenen Reiseabschnitt. Die Übersicht \"Ihre Reiseverbindung\" enthält gegebenenfalls\nReiseinformationen zu Teilstrecken (z.B. Bus oder Straßenbahn), für die eine weitere Fahrk",
+  "output": "Sie benötigen einen amtlichen Lichtbildausweis oder Ihre BahnCard. Mit einer Flexpreis-Fahrkarte können Sie jeden Zug der gewählten Verbindung nutzen. Das Online-Ticket gilt nur für den angegebenen Reiseabschnitt. Die Übersicht \"Ihre Reiseverbindung\" kann Informationen zu Teilstrecken enthalten, für die eine weitere Fahrkarte benötigt wird.",
+  "summary_type": "receipts"
+}{
+  "input": "da8؛ia6\nTrars\n#:\n5235\nAÛ00ÛÛ00Û41010\nAID;\nAUTH\nAMT.-\n$22.87\nTHANK٧ni\nI\nI\nQuestions/Comments:\nCall\n800-786-1000\n2023-11-27\nLI\nΤ5\n3:16 PM\n\n--------------------------------------------------",
+  "output": "<NULL>",
+  "summary_type": "receipts"
+}{
+  "input": "ω\nm٥TEi one\nMotel One Hamburg am Michel · Ludwiq-Erhard-Straße 26 » 20459 Hamburg\nAPImeister c٥nsu!ting GmbH\nCroi^ri^hctraggp 114Α\n1٥117 Rpriin\nGermany\nnvolce؛\n271\nRoom:\nArrاva^ا\nDeparture:\n٥9.05.2022\n2022527022989\n527757294/1\nDate:\nInvoice number:\nReservat!on number;\n09.05.2022\n11.05.2022\nAmount EUR\nAmount.EUR\nuest: Waاter, Jens , Room: 271 , from 09.05.2022  ๒11.05.2022\nNum\nVAT\nPrice EUR\nService\n102,50\nBest Price including Breakfast\n3,00\n1,50\n2\n19,00./.\n7,00%\n7,00%\nBreakfast (VAT 19%)\nBreakfas",
+  "output": "This is an invoice from Motel One Hamburg am Michel, located at Ludwiq-Erhard-Straße 26, 20459 Hamburg, Germany. The invoice is issued to APImeister consulting GmbH, located at Croi^ri^hctraggp 114Α, 1٥117 Berlin, Germany. The invoice number is 2022527022989 and the reservation number is 527757294/1. The guest is Jens Walter, who stayed in room 271 from 09.05.2022 to 11.05.2022. The total cost includes the room rate with breakfast for €102.50, and additional breakfast charges with a VAT of 19% and 7% respectively.",
+  "summary_type": "receipts"
+}{
+  "input": "titut\ndie Möglichkeit, die Zahlung durch Eingabe der PIN durchzuführen.\nWeitere Informationen finden Sie im Aushangtext und unter\n-.ingenico.de/payment-senrioes.\nSEPA-Lastschriftmandal\nIcti ermächtige das umseitig genannte Unternetimen sowie die\nIngenico Payrtent Senrices GrtbH, Daniel-Goldbach-Str.17-f 9,40880\nRatingen („Ingenico\"), Giaubiger-ID DEI 6Ε0100000020245 einmalig\neine Zatilung von meinem umseitig genannten Konto per Lastschrift\neinzuziehen. Zugleich weise icti mein Kreditinstitut an,",
+  "output": "The text authorizes the company Ingenico Payment Services GmbH, located at Daniel-Goldbach-Str.17-f 9, 40880 Ratingen, to make a one-time direct debit payment from the author's account. The author also instructs their credit institution to carry out the payment by entering the PIN. Further information can be found in the notice text and on the Ingenico website.",
+  "summary_type": "receipts"
+}{
+  "input": "2019\nZangenabdruck\nHerr  Jens walter\nAuftragsnummer:\nOFV9MR\nIhre Reiseverbindung und Reservierung Hinfahrt am 05.04.2019\nHalt\nDatum\nZeit\nGleis\nProdukte\nReservierung\nHamburg Hbf\n05.04.\nab 14:46 11\nBonn Hbf\n05.04.\nan 19:12 3\nIC 2213\n1 Sitzplatz, Wg. 22, Pl. 66, 1 Fenster, Großraum,\nNichtraucher, Res.Nr. 8033 7019 4073 38\nWichtige Nutzungshinweise:\n- Ihre Fahrkarte gilt nur zusammen mit einem amtlichen Lichtbildausweis (z.B. Personalausweis) oder Ihrer BahnCard.\n- Mit Ihrer Fahrkarte zum Flexpreis",
+  "output": "In 2019, Jens Walter booked a train journey with the order number OFV9MR. The journey was from Hamburg Hbf, departing at 14:46 on 05.04, to Bonn Hbf, arriving at 19:12 on the same day. The train was IC 2213 and the reservation was for one seat (Wg. 22, Pl. 66) by the window in a non-smoking, large room. The reservation number was 8033 7019 4073 38. The ticket was only valid with an official photo ID or BahnCard.",
+  "summary_type": "receipts"
+}{
+  "input": "Andria Pastore GmbH\nRestaurant\nAndrìa **\nNikolaistraße 22\n0410 وLeipzig\nTel , :0341/360 66 8ß\nRechnung Nr. 49527\n5.11 .2019ًا\nTisch 19\n*^*Piadlna al aglio\n7,30 €\n,30 €\nPecorino Impanato\nSpaghetti carbonara\n30\n€\nTagliatelle salmone\n12,30 €\n2 X Hefewelzen 0,5 \nà 4,30 €\n3,80 €\nNonna Filomena\n4,30 €\nTotal\nNettoumsatz\nenth. MwSt 13ة\n53,30 €\n44,73 €\n51 €\n53,30 €\nBAR\nEs bediente Sle KELLNER 5.\nVielen Dank\nfür\nIhren Besuch¡\nTip Is not included\nOE 14 14 84 533\n\n-------------------------------------------",
+  "output": "Andria Pastore GmbH is a restaurant located at Nikolaistraße 22, Leipzig. The receipt number 49527, dated 5.11.2019, is for table 19. The order included Piadina al aglio for €7.30, Pecorino Impanato, Spaghetti carbonara for €30, Tagliatelle salmone for €12.30, two Hefeweizens for €4.30 each, and Nonna Filomena for €3.80. The total net sales were €53.30, including VAT. The payment was made in cash. The waiter was number 5. The tip was not included.",
+  "summary_type": "receipts"
+}{
+  "input": "it MasterCard\nINHHHf«#lHHMN\n0002\n \n2825؛\n4556280989\n56010209\n00 073 00\n16:08 Uhr\nNr\nVU Nr\nlermlnal-ID\nPos-Info\nAS-Zelt 11.07.\nAS-Proc-Code = 00 075 00\nCapt.-Ref.= 0000\n00 GENEHMIGI\nBetrag EUR\n6,79\nZahlung erfolgt\nSteuer د\n^santiietrag\n11.07.2020\nMarkt:2616\nNett.\nStauer\nBrutto\n6,47\n6\n6,79\n6179\nÖ;32\n,47\n16:11\nKasse:2\nBon-Nr. :4606\nBed. :191919\nNoch keine PAYBACK Karte?\nFür diesen Einkauf hatten Sie\n3 Punkte erhalten؛\nGleich Iller am PENNY Service-Punkt\nIm Markt anmelden oder auf\nWWW.penny, de/payb",
+  "output": "The text appears to be a receipt from a purchase made using a MasterCard. The purchase was made on 11.07.2020 at market number 2616, at register 2. The total amount paid was 6,79 EUR. The receipt also mentions a potential reward of 3 points if the buyer had a PAYBACK card.",
+  "summary_type": "receipts"
+}{
+  "input": "日\nｅ\nｅ\nｅ\nＯ\nｒ\nｒ\n１\nｌ\n．\n』\nｕ\nＰ\nＩ\nｄ\nｎ\n０\n０\nＰ\nｎ\n戸\n上\nリ\n〒\nＩ\nａ\nａ\nｄ\nＥ\nｌ\nｏ\nｌ\nａ\nｎ\n－\nＥ\nＳ\nｎ\nＯ\nｐ\n１\n→\nＣ\nｕ\nｒ\nｔ\n－\nＳ\n一\nｎ\n・\nｌ\nｌ\nｄ\nｅ\n１\n‐\n１\nａ\n一\n同\n一\nｅ\nｅ\nｆ\nＩ\nゞ\nＩ\nｎ\n－\n〈\nＨ\n一\n十\n１\n－\nＹ\nハ\n一\n一\nつ\nＩ\n一\nⅥ\n一\n戸\n卜\n－\n０\n－\n叩\n八\n一\n‐\n１\n，\n１\n’\n１\n１\nｕ\nＭ\nＮ\n－\n０\nＯ\nＭ\nＨ\n｜\n《\n→\nＶ\n１\nＶ\nｌ\n一\nＱ\n／\n一\nｒ\nＯ\n~\nｐ\n八\n（\nＵ\nＩ\nＴ\n＋\nＳ\nＷ\nｅ\nＭ\nＮ\nｅ\nｌ\nＰ\nＰ\n〈\nＨ\nＷ\nｅ\nｎ\nｒ\nＯ\n《\n→\nＵ\nｌ\nｊ\nｑ\nｎ\n◇\n１\n０\n１\nａ\nＳ\nＶ\nｒ\nｅ\nＳ\n‐\nｂ\nｌ\n・\nｌ\nｒ\nｒ\nＣ\nｅ\nＳ\n（\n→\n‐\nｂ\n《\n→\nｕ\n（\nＵ\nＳ\nｈ\nＯ\n→\n→\n・\nｌ\nＮ\n０\n９\n十\nＶ\nＪ\nＴ\nｌ\nｒ\nｅ\nｇ\n〈\n→\n１\n（\n→\nＰ\nＯ\nＰ\n〈\n同\n十\n凶\n‐\nＭ\nＶ\n○\n（\n→\nｅ\n〒\nＩ\n１\n０\nＳ\nｅ\nａ\nｇ\nｂ\n２\n‐\nｈ\nｌ\nｅ\nＣ\nＰ\n何\nｅ\nｒ\nｒ\nＰ\nｅ\n‐\nｄ\nＦ\nＩ\nｕ\n〈\n同\nｅ\nＯ\nＰ",
+  "output": "<NULL>",
+  "summary_type": "receipts"
+}{
+  "input": "01.2020\nZangenabdruck\nHerr  Jens walter\nAuftragsnummer:\nLP9Z99\nIhre Reiseverbindung und Reservierung Hinfahrt am 31.01.2020\nHalt\nDatum\nZeit\nGleis\nProdukte\nReservierung\nHamburg Hbf\n31.01.\nab 16:35 8\nLeipzig Hbf\n31.01.\nan 19:42 11\nICE 1605\n1 Sitzplatz, Wg. 28, Pl. 24, 1 Mitte, Tisch,\nNichtraucher, Res.Nr. 8064 0024 2220 10\nWichtige Nutzungshinweise:\n- Ihre Fahrkarte gilt nur zusammen mit einem amtlichen Lichtbildausweis (z.B. Personalausweis) oder Ihrer BahnCard.\n- Mit Ihrer Fahrkarte zum Flexprei",
+  "output": "On 31.01.2020, Jens Walter has a reservation for a train journey from Hamburg Hbf, departing at 16:35, to Leipzig Hbf, arriving at 19:42. The train is ICE 1605 and the reservation includes 1 seat at table in the middle, in a non-smoking area. The ticket is only valid with an official photo ID or BahnCard.",
+  "summary_type": "receipts"
+}{
+  "input": "der Forderung mifzuteilen. Bei von\nmir zu.vertretenden Nichteinlösungen verpflichte ich mich, dadurch\nentstehende Kosten zu ersetzen.\nnannten Unternehmen\nmeinen Namen samt\nUnterechrift (Zahlungsdaten umseitig)\nDatenschutzrechtliche Information\nIhre Zatilungsdaten (IBANZBIC, Kartenverfallsdatum,\nKartenfolgenummer, Datum, uhrzeit. Zahlungsbetrag:\nTerminalkennung, ٥rt, Unternehmen) werten zur Kartenprüfung und\nZahlungsabwicklung an Ingenie ؟weitergegeben. An das umseitig\ngenannte Unt؛rnehmen, die",
+  "output": "The text appears to be a commitment to cover costs arising from non-redemption that the individual is responsible for. It also mentions the sharing of payment data (including IBAN/BIC, card expiry date, card sequence number, date, time, payment amount, terminal identification, location, company) for card verification and payment processing.",
+  "summary_type": "receipts"
+}{
+  "input": "the flying pan\nIf 37-39 lockhart road\nwan chal, hong kong.\nTel: 252Ö 9997\nable No. : 36ا\nNo of Guest\nReceipt No\nStaff\nStart Tine\n1\n335207\nSushna\n2019/07/11 13:22\nDuration\n:  00:48:18\n1  Ultimate Griddle\n1  Coffee\n117.00\n39.00\nSubtotal\n10^ Ser٧ice Chg,\nTotal\n156.00\n16.010\n172.00\nFOOD\n117.00\n39.00\nBEVERAGE\n\n--------------------------------------------------",
+  "output": "A receipt from The Flying Pan restaurant located at 37-39 Lockhart Road, Wan Chai, Hong Kong, shows that one guest, served by staff member Sushna, ordered an Ultimate Griddle and a coffee on July 11, 2019. The meal lasted for approximately 48 minutes and 18 seconds. The subtotal for the food and beverage was 156.00, with a service charge of 16.01, bringing the total to 172.00.",
+  "summary_type": "receipts"
+}{
+  "input": "tionen zu Teilstrecken (z.B. Bus oder Straßenbahn), für die eine weitere Fahrkarte erforderlich sein kann.\n- Wenn Ihr Ticket den Zusatz \"+City\" oder \"City mobil\" zeigt, gilt dieser nur am Tag der Hinfahrt bzw. am Tag der Rückfahrt.\n- Es gelten die nationalen und internationalen Beförderungsbedingungen der DB AG. Innerhalb von Verkehrsverbünden und Tarifgemeinschaften\ngelten deren Bedingungen. Alle Bedingungen finden Sie unter: www.bahn.de/agb und www.diebefoerderer.de.\nIhre Reisedaten können sic",
+  "output": "For partial routes (e.g., bus or tram), an additional ticket may be required. If your ticket shows \"+City\" or \"City mobil\", it is only valid on the day of the outward or return journey. The national and international transport conditions of DB AG apply. Within transport associations and tariff communities, their conditions apply. All conditions can be found at: www.bahn.de/agb and www.diebefoerderer.de.",
+  "summary_type": "receipts"
+}{
+  "input": "0020245 einmalig eine\nZahlung von meinem Konto mittels Lastschrift einzuziehen. Zugleich\nweise ich mein Kreditinstitut an, die von obigen Unternehmen auf mein\nKonto gezogene Lastschrift einzulösen.\nHinweis: Ich kann innerhalb von acht Wochen, beginnend mit dem\nBelastungsdatum, die Erstattung des belasteten Betrages verlangen. Es\ngelten dabei die mit meinem Kreditinstitut vereinbarten Bedingungen.\nAdressweltergabe / Nichteinlösung\nIch weise mein Kreditinstitut unwiderruflich an, bei Nichteinlösun",
+  "output": "Der Textautor autorisiert eine einmalige Lastschrift von seinem Konto und weist sein Kreditinstitut an, diese einzulösen. Er behält sich das Recht vor, innerhalb von acht Wochen nach dem Belastungsdatum eine Rückerstattung des belasteten Betrages zu verlangen, wobei die mit seinem Kreditinstitut vereinbarten Bedingungen gelten. Bei Nichteinlösung weist er sein Kreditinstitut unwiderruflich an.",
+  "summary_type": "receipts"
+}{
+  "input": "die Qualität des Ausdruckes zu ertialten, bitte den Bon vor\ndirekter Sonneneinstrahlung, Hitze, Kontakt mit Oien, Fetten sowie\nweictimacherhaltigen Folien (Ζ.Β. PVC-KlarsichthUllen) schützen.\nErstmal\nzu Penny\nUm die Qualität des Ausdruckes zu erhalten, bitte den Bon vor\ndirekter Sonneneinstrahlung, Hitze, Kontakt mit Oien, Fetten sowie\nweichmactiertialtigen Folien (Ζ.Β. PVC-KlarsichthUllen) schützen.\nErstmal\nzu Penny\n\n--------------------------------------------------",
+  "output": "To maintain the quality of the print, protect the receipt from direct sunlight, heat, contact with oils, fats, and plasticizers-containing foils (e.g., PVC clear sleeves). First, go to Penny.",
+  "summary_type": "receipts"
+}{
+  "input": "|，』ヘ1<.K\nIIY｣ﾍｰﾘ'1･\nVifNNA,A!\nCafe am Hof\nAm Hof\n2,\n1010 Vienna,\nTelefon +43 1 22740\nAustrla\nl234\n4707182 Kal Nendeburg\nCHK 140750\nTBL 409/1\nGST\n4\n14 0ec|23\n14:22\nPN\n1\nPistazien\nGateau\n6.80\n1\nGugelhupf Stk\n4.20\n1\nTages Dessert\n6,80\n1\nHimbeer Nascapone Eclair\n6.80\n1\nCappuccino\n6,50\n1\nHel6e Schoko1ade\n7\n｡\n00\n1\nLatte Nacchiato\n6.50\nSubtiJta l\nTota l\nDLle\n44 ,60f\n44\n. 60E\n｢1p:\nTOtal:\nROOml\nName\nS1gnature\n:\nJo1n World of Hyatt today\narld stdrt earning po1nts for\nstay6,\ndir'ing and more.\nV1slt\nIAlorld",
+  "output": "The text appears to be a receipt from Cafe am Hof located at Am Hof 2, 1010 Vienna, Austria. The items purchased include Pistazien Gateau, Gugelhupf Stk, Tages Dessert, Himbeer Mascapone Eclair, Cappuccino, Heiße Schokolade, and Latte Macchiato. The total cost of the items is 44.60 Euros.",
+  "summary_type": "receipts"
+}{
+  "input": "~~\n~~~~~~~~\nへ\nI\nQ\n1\n金\nハ\n1\n口へ\n\n--------------------------------------------------\nぜ\nmeinenNamenundmeineAnschriftzurGeltend-\nmachungderForderungmitzuteilen.\nDatenschutzrechtlichelnformationen\nMeineZahlungsdaten\n(Kontonr. ,\nBLZ,\n|BAN,\nKaITenverfal ldatumund-foigenr. ,\nDatum,\nUhrzeit,\nBetragTerminalstandort)werdenzurPrUfungund\nAbwicklungancardtechUbermittelt. Fernerkann im\nFalleeinerRUcklastschri廿dagKontobzw.dieKartein\neinercardtech-Sperrdateigespeichertwerden,sofern\nnichtRechteausdemGrundgeschaft (",
+  "output": "<CENSORED>",
+  "summary_type": "receipts"
+}{
+  "input": "ｕ\nｕ\nｕ\nｕ\n’\n８\n１\nｅ\n《\nｔ\nＩ\n５\nＫ\nｌ\nｊ\n｜\n〕\n｜\n，\n｜\n，\n一\nＪ\n一\n一\nＷ\n８\n川\n一\nｍ\n~\n旧\n岫\nⅢ\n’\n一\n二\nｄ\nｌ\n４\nｌ\n６\nｌ\n９\n－\n９\n’\n、\n竺\n一\n６\n－\nｔ\nＥ\nＥ\nＥ\nＥ\n－\nｔ\n－\n０\n’\n一\n〔\nｄ\n麺\n牝\n壬\n刈\n州\n一\n一\nｒ\n一\n一\n奇\nＩ\nｌ\nｌ\nｒ\nｌ\nｒ\nＯ\nｌ\nｒ\n－\n乖\n私\n咽\n岬\n蜘\n曜\n即\n妻\n岬\n鮖\n即\n怖\nい\n叩\n、\n一\n一\nｕ\nｌ\nＦ\n』\n一\n一\n・\n１\n一\n一\n０\n一\n一\n－\n０\n－\n０\nＣ\nｌ\n０\n一\n一\nｒ\n｜\n｜\nｕ\nｌ\n０\nｌ\n０\nｌ\nｕ\nｌ\nｕ\nｎ\nｌ\nｕ\nｌ\n３\n１\n２\n・\n一\n印\n８\n、\n洲\n燗\n弧\n脂\n壽\n１\n｜\nＦ\n上\nｌ\nｒ\n－\n７\nｌ\n－\nＦ\nｔ\n一\n戸\n仁\n｜\n戸\n上\nｌ\n６\n－\nｌ\nｌ\n９\n９\nｌ\nｌ\nｌ\nｐ\nｌ\n・\n一\nｕ\n一\n，\n’\n一\nｅ\n’\n３\n－\n２\n咽\n”\n間\n帖\n岬\n州\n吋\n一\n岬\n一\nＥ\n－\n６\n－\n－\n０\n’\n－\n０\n－\n０\n．\n－\n０\n一\n一\n１\n’\n一\n雫\n０\n－\n７\n’\n９\n‐\n－\n６\n一\n一\n印\n２\n１\n’\nｊ\n一\n八\n叩\nＵ\n一\n一\nＪ\n’\nｊ",
+  "output": "<NULL>",
+  "summary_type": "receipts"
+}{
+  "input": "zu ersetzen.\nUnterschrift (Zahlungsangaben sieh. Vorderseite)\n/sl\nG ،nterCard\nwww.lntercarà.de\nTel.: 0800-10 44 400\nDatenschutz rechtliche Infomation\nDie Zahlungsdaten (Kontonr., Btz. IBAN, Kartenverfalldatum und -folgenr.,\nDatum, Uhrzeit, Betrag, Terminalsöndort) werden zur Prüfung und Ab-\nwicfclung meinet Zahlung an InterCard übermittelt.\nBei einer Rücklastschrift wird die Karte bzw. das Konto bis zur Forderungs-\nbegteichung in einer InterCard-Sperrdatel gespeichert, sofern nicht Rechte\naus de",
+  "output": "The text discusses the transmission of payment data (account number, IBAN, card expiration date and sequence number, date, time, amount, terminal location) to InterCard for verification and processing of payments. In case of a chargeback, the card or account will be stored in an InterCard block file until the claim is settled, unless rights are asserted.",
+  "summary_type": "receipts"
+}{
+  "input": "umme\n92,00€\n92,00€\n14,69€\nKreditkartenzahlung\nBetrag\n92,00€\nVU-Nr\n4556695619\nTransaktions-Nr\n787489\nDatum\n02.02.2018\nGen-Nr\nNBJNEB\nIhre Kreditkarte wurde mit dem oben genannten Betrag belastet. Die Buchung Ihres\nOnline-Tickets erfolgte am 02.02.2018 13:27 Uhr. DB Fernverkehr AG/DB Regio AG,\nStephensonstr. 1, 60326 Frankfurt, Steuernummer: 29/001/60002.\nBarcode bitte nicht knicken!               \nHinfahrt:\nGültig ab:\n02.02.2018\nZangenabdruck\nHerr  Jens walter\nAuftragsnummer:\n113494\nIhre Reiseverb",
+  "output": "A credit card payment of 92,00€ was made for an online ticket. The transaction number is 787489 and the VU number is 4556695619. The booking was made on 02.02.2018 at 13:27. The ticket is valid from 02.02.2018. The order number is 113494 and the ticket is for Jens Walter. The transaction was processed by DB Fernverkehr AG/DB Regio AG, located at Stephensonstr. 1, 60326 Frankfurt, with tax number 29/001/60002.",
+  "summary_type": "receipts"
+}{
+  "input": "ｔ\nＬ\nＫ\n口\nⅢ\nｓ\nｒ\nａ\nｎ\nｎ\nｍ\nｗ\n小\nｗ\nｍ\nｗ\n“\nｆ\nｅ\nｄ\nｕ\n｝\n１\nａ\n八\nＵ\nｎ\nＪ\nＲ\n〕\nｋ\nⅡ\nｈ\nｒ\n□\nｕ\nｒ\n・\n・\n・\nＣ\nｓ\nｔ\nａ\nｙ\n口\n巳\nｕ\nＯ\nＯ\nＯ\n並\n並\n駆\n舶\nｔ\n脚\nｙ\nｔ\nＢ\nａ\n４\nＬ\nｎ\nｍ\nＢ\nｇ\nａ\nｂ\nｔ\n■\n巳\n宅\n■\n日\n日\n『\nⅡ\n日\n日\n宅\n日\n日\nＵ\nｐ\nａ\nａ\nａ\nｎ\n．\n」\n１\n巳\nｒ\nｎ\nつ\nＰ\nｓ\n●\n１\n４\nＬ\n＋\nＬ\n４\nＬ\nＯ\nＳ\nロ\n巳\n”\n１\nｎ\nｌ\n１\nｐ\nｑ\nｅ\nＴ\nＩ\nｍ\nｍ\nｍ\nｄ\n肥\nＰ\nｄ\nｒ\nｄ\n口\nＣ\nｎ\nｒ\nＨ\nｕ\nｅ\nへ\n。\n巳\nｕ\n』\n１\n’\n１\n〕\n１\nａ\nｅ\nｔ\n３\n７\n７\n韻\nｔ\n５\nＲ\n口\nＵ\nｔ\nｔ\nＢ\nＳ\nｎ\nＪ\nＦ\nＤ\n１\nＩ\nｈ\nＵ\nｒ\nＯ\n１\n０\n口\n日\nｒ\nｍ\n、\nｎ\nｅ\n・\n・\n・\nｅ\n・\nｒ\nｒ\nｍ\nａ\nａ\nｔ\n明\n細\n鯛\n糾\n肥\n仕\nｄ\nｅ\nＤ\nｐ\nｒ\nＰ\nｒ\nｕ\nａ\nａ\n巳\nＳ\nｆ\n□\nｇ\nｙ\nＳ\nｐ\nｐ\nｐ\n・\n１\n１\n‐\n・\n１\nｓ\nｎ\nａ\nｙ\nｆ\n口\nＤ\nｂ\nＴ\nｌ\n丁\n’\n千\nＩ\nｅ\nｒ\nｈ\nｐ\nＢ\nｎ\nｔ\nｒ\nＪ\nｌ\nｆ\n１",
+  "output": "<NULL>",
+  "summary_type": "receipts"
+}{
+  "input": "HOUSE\nBEST STiS SINCE 1968\nBlock\nHouse Restaurant\n-K.irctienal lee 4_?0.099\nا\nو-.51\nHambury\nlel.\n040 ?4 33 50اWWW.block-house.de\nRECHNUNG\nNr.:\n13'مل\n11.05.?0?3\n16:48\nSelte:\n1\nlisch;\n69\n/'\n? Gaste\n4 Wel^enbler 0,51\n1 Mr.Rumpsteak ?50g\n1 Hr.Rumpsteak ?50g\n? Oopp^Espresşo\n1 Aptelstrudel\nin, Van\n5,50\n??,0Ọ\n?7,00\n?7,00\n4,50\n9.ỌỌ\n4,90\nSumme:٠90€\nEC Karte\n89,90«\net٥٤utta\nظ؛مث؛أل١\nا؛\n؛£\n£\nSteusrrir.:\n50/715/.Ι221\n;\n11..5.2.23 13:50:36\nE\negs\nedìente Sle\nIhre Nadine Pinto V. Gandra\n(4\nVielen Dank für Ihre",
+  "output": "The text appears to be a receipt from Block House Restaurant, dated 11.05.20?3. The order includes 4 Wel^enbler 0,51, 2 Mr.Rumpsteak ?50g, ? Oopp^Espresşo, and 1 Aptelstrudel, totaling 89,90€. The payment was made via EC Karte.",
+  "summary_type": "receipts"
+}{
+  "input": "-\nΡ!ΖΖΑ E PASTA\nL’OSTERIA\nPort landweg 4\nD-5322T Bonn\nFon; 0228/98148488\nemai l: bonnglosterla.de\nBar-Bel eg\n16-Mar-٦9/22:٦l RgNr:AR1322933\nSteuernummer: 205/5/34/1544\nIdentnummer: DE 268087/48\nTischNr: 61\nStation: 3 (L’Osteria)\nEs bediente Sie; David\nlx Prosoìutto e Funghi ft 10,90\nft 12,00\nft 5,80\nft 3,95\nft 4,40\nlx Krombacher Pl ls 0,4L ft 4,00\nlx Tonno\n2χ Bruschettà\nlx Coca-Cola 0,51\n2χ Krombacher Hel les\n10, 90\n12,00\n11,60\n3,95\n80\n4,00\nMwSt.% \nNetto \nMwSt.\nA-19,000 \n43,0/ \n8,18\nBrutto\n51,25",
+  "output": "The text is a receipt from L'OSTERIA restaurant located at Portlandweg 4, D-5322T Bonn. The contact number is 0228/98148488 and the email is bonnglosterla.de. The receipt, numbered AR1322933, was issued on 16-Mar-69/22:61 at table number 61, station 3. The server's name was David. The items purchased include Prosoìutto e Funghi, Tonno, 2 Bruschettà, a Coca-Cola, and 2 Krombacher Helles. The total cost (Brutto) is 51,25.",
+  "summary_type": "receipts"
+}{
+  "input": "l iti)ا-ا;ا\n.(-ا\nا-'٠\n:\n·ddeit)nable fill i ;,، at\n1141\n 4)\n اذ-¡-]\níSta،.if؛؛R؛\n'i'í\n]'؛;؛i'؛\nا,ا7اإا\nة؛\n؛اا;\n؛لم١ \n)a!,؛\n؛؛  ,7:>í\n:'\n!؛ا\"ا91\n ؛؛ا\n M',\n,\n ذ؛أ;(:ا؛:ا'١ia\n..؛\nΐί;|;:Η;،·Ι،'·Ι·،:ΐ\n|(\n 1 (4ί٠ ٠ ٠\nا-\n،·*♦:ل1:ي؛\nru \nًاا-ا-)ا-!٠اا\n'٠ا im-\n,  t)  ا\nا(،ا٠افي٠،؛ا -'،ءا\n٠؛؛\n'-؛;؛1 ΙΙίίΠ\n3اا:ا\n؛3ا-ا،أذاا\nا:.اا.ا\n؛إ؛أ-ا\n,؛\n.اا\n'١1؛:؛\nا\n:<؛;اا\n٢ا.أا;ا'ذ\nlb.\n--;؛i i\n.',؛i:iiiii،'t:i.\n i؛؛'دا\nاا'ا,؛ا:\n.،:»; ψ\n.,;:اا.؛:|::ا\n:|.اا:\n:ا. \n|ا:\n:ا:\nا:\n٠ا\n؛،(.1:; ٩\n٠ί:*:ψ\n;،,\nψ:1 ٠٠\nا: t\n111\nI\nل[اا",
+  "output": "<NULL>",
+  "summary_type": "receipts"
+}{
+  "input": "F\n’\nH工T100\nLeipZig\nHfTHandgMubbeGmM&CQKG\nStraBedeSl8｡\n0ktober44\n04103LeipZig\n-\nTelefon:\n0341-224670\nEUR\nRonlatomaten\n87871752529473\n2,19\nZLIcchinigrUn\n90303\nkg\nEUR/kg\nEUR\nO,384\n2，49\n0，96\nGurkenStuck\n51663\n0,89\npap{､ikaGrun\n90083\nk9\nEUR,''kg\n-\"EUR\nO,264\nゞ‘\n5，99\n1，58\nLauci4iZw./Sch1 .,\n8\n\"\n53223\n0,89\n1.al.ichZW. '/SCII I\n\"\n8\n､\n53223\n｣\n(),89\nﾄ･aln8culot\n25429073\n2,59\n：~j釘~､箇i'&\n~\n~\n4()(]64510!]01833F\n2\"\nGarnele\n40664510(]01833F\n2,99\nAInatul､劉砲udag410442[10792053\n1｣59\nA1rlatur･､f: 6(』剛da941[14420()7",
+  "output": "<CENSORED>",
+  "summary_type": "receipts"
+}{
+  "input": "en (z.B. Bearbeitungs- und\nAnschriftermittlungskosten) zu ersetzen.\n\n--------------------------------------------------",
+  "output": "<NULL>",
+  "summary_type": "receipts"
+}{
+  "input": "eine Zahlungsdaten (Kontonummer, Bankleitzahl, Kartenverfallsdatum,\nKartenfolgenummer, Datum, Uhrzeit, Zahlungsbetrag, Terminalkennung,\nOrt, Unternehmen und Filiale) werden zur Kartenprüfung und\nZahlungsabwicklung an Ingenico weitergegeben. An Ingenico wird ferner\ngemeldet, wenn eine Lastschrift nicht eingelöst wurde (Rücklast\nschrift). Wenn Sie im Zusammenhang mit einem Widerruf einer\nLastschrift erklärtermaßen Rechte aus dem zugrundeliegenden Geschäft\n(z.B. wegen eines Sachmangels bei einem Ka",
+  "output": "Zahlungsdaten, einschließlich Kontonummer, Bankleitzahl, Kartenverfallsdatum, Kartenfolgenummer, Datum, Uhrzeit, Zahlungsbetrag, Terminalkennung, Ort, Unternehmen und Filiale, werden zur Kartenprüfung und Zahlungsabwicklung an Ingenico weitergegeben. Ingenico wird auch informiert, wenn eine Lastschrift nicht eingelöst wurde.",
+  "summary_type": "receipts"
+}{
+  "input": "10‘57\n＄,00\n'~､諦『■ぞ\nJ'ずF\n・z冤画難？\n.\n’\nI\n．｡【･\n1 1Rr痔鼠，弾丸\n，f‐\n；Jf鑓劃\n占r‘v(牌呼r\nCHARGEDETAIL\nSALE\nCardType!\nNdstercal･d\nAccourit:\n;f***********5562R\nAuthCode:\nN01.QU8\nTrans#:\n6301\nAuthRef:\n2()15517078\nAUTHANT:\n$10&57\nAID:\nAOOOOOOOO41010\nTVR:\n0000008001\nTSI:\n0000\nAPPNameI\nDebitNasterCar(I\nARQC:\nADCF520879387806\n~｢HANKYDU!\nQueStlons/CoIMlerltSICall800-786-1\" !()\nL1\n16\n9:21\nPN\n2021‐1 1\"3〔）\n\n--------------------------------------------------",
+  "output": "The text appears to be a receipt or transaction record. It details a sale charged to a Mastercard account ending in 5562R. The transaction number is 6301 and the authorization code is N01.QU8. The charged amount is $10.57. The AID, TVR, TSI, APPName, and ARQC are also provided. For questions or comments, there's a contact number: 800-786-1. The transaction seems to have occurred on November 3, 2021.",
+  "summary_type": "receipts"
+}{
+  "input": "81,75€\n81,75€\n13,05€\nKreditkartenzahlung\nBetrag\n81,75€\nVU-Nr\n4556695619\nTransaktions-Nr\n844488\nDatum\n21.03.2018\nGen-Nr\nNYHTU9\nIhre Kreditkarte wurde mit dem oben genannten Betrag belastet. Die Buchung Ihres\nOnline-Tickets erfolgte am 21.03.2018 11:40 Uhr. DB Fernverkehr AG/DB Regio AG,\nStephensonstr. 1, 60326 Frankfurt, Steuernummer: 29/001/60002.\nBarcode bitte nicht knicken!               \nHinfahrt:\nGültig ab:\n23.03.2018\nZangenabdruck\nHerr  Jens walter\nAuftragsnummer:\n2BVRL7\nIhre Reiseverbindun",
+  "output": "A credit card payment of 81,75€ was made on 21.03.2018 for an online ticket. The transaction number is 844488 and the VU number is 4556695619. The ticket is valid from 23.03.2018 for a journey booked by Jens Walter. The order number is 2BVRL7. The payment was processed by DB Fernverkehr AG/DB Regio AG, located in Frankfurt.",
+  "summary_type": "receipts"
+}{
+  "input": "LEIPZIGER KAFFEEGENUGG\nGANOS\nse\n \n اZostere\n \n ؛Kaffee-Kontor\n6\n chK!n9؛ttK!٥\n03 !pipaioا ٠9\n ٠ا73ةا\nة(ا\n٠39\n)\n.أ6ا\n!  ا73 \n !2\n ة\nدا\n٠33\n )\n.\nFax\nQuittung-Nr. \n588225ًا\n00؛97 \n داUhrzeit\nUerkauter Ś57\nQatUh из..6.2.22\nKnndeii-Nr. bar\nBaroerkauf\nE-Preis\ne-Prels\nSnzahi Einh. Srtlkei\n2٠٥.٥4٠5٠\nا\n..516 ks \n2.86\nEspresso Ruanda\n1\n 8tk \n7623\nLucui ius Erdbeeren alt nei. 5chokoi .\n9.05\n9.05\n15\n9.15\nStk \n7803\nLUCUI IUS haracuia  ؛Pfirsich\nalt Zitronensras\n1\n10,\n0.252 \nкз \n3026\nCosta Rica lot\nCordillera",
+  "output": "<NULL>",
+  "summary_type": "receipts"
+}{
+  "input": "sagen im Zug und am Bahnhof. Wir danken Ihnen für Ihre Buchung und wünschen\nIhnen eine angenehme Reise!\n17B6DU\nSeite 1 / 1\n\n--------------------------------------------------",
+  "output": "<NULL>",
+  "summary_type": "receipts"
+}{
+  "input": "76UT6\nSeite 1 / 1\n\n--------------------------------------------------",
+  "output": "<NULL>",
+  "summary_type": "receipts"
+}{
+  "input": "Hampton by Η؛Ηοη Hamburg City Centre\nNordkanalstrasse 18, 2٥097 Hamburg\nt, +49(0)40-302372-0\nf. +49(0)40-302372-100\n\\J<şlenj\nby HILTON\nAPIMEISTER CONSUllING GMBH\nFRIEDRICHSTRASSE 123\n10117 \nBERIIN\nGERMANY\nRoom No:\nArrival Date:\nDeparture Date:\nAdult/Child:\nRoom Rate:\nRate Plan:\n407 /NUX\n22/09/2020 21:37:00\n23/09/2020\n1/0\n99.00\n2G2\nAt:\nVATINVOICE:38014\nConfirmation Number: 53005890\nJENS WALTER\nHAMPTON BY HIITON HAMBURG 23/09/2020 09:05:00\nHH#\nlOIAtVAI\nFolio No/Che\nDE258996536\n172895Α\nDATE\nDESCRIP",
+  "output": "The text is a hotel receipt from Hampton by Hilton Hamburg City Centre, located at Nordkanalstrasse 18, 25097 Hamburg. The guest is Jens Walter from Apimeister Consulting GmbH, Berlin. The room number is 407/NUX, with an arrival date of 22/09/2020 and departure date of 23/09/2020. The room rate is 99.00 under the rate plan 2G2. The VAT invoice number is 38014 and the confirmation number is 53005890.",
+  "summary_type": "receipts"
+}{
+  "input": "ormationen und Ansagen im Zug und am Bahnhof. Wir danken Ihnen für Ihre Buchung und wünschen\nIhnen eine angenehme Reise!\nV6QLE8\nSeite 1 / 1\n\n--------------------------------------------------",
+  "output": "<NULL>",
+  "summary_type": "receipts"
+}{
+  "input": ",itemswiIlbeexchangedo「\nrefundedfo｢thefullpurchaseprice･RefundswiⅡbeissuedintheoriqinal\nmethodofpayment･Withoutoriginalreceipl,itemswillbeexchan9edor\nrefundedatthelowestadve｢tisedp｢icewithinthe30dayspriortothedate\noftheretum,Refunds willbeissuedasstorecredit,Foranyretum,vou may\nbeaskedforvalidgovemment-lssuedphotoidentification・Wereservethe\nrighttoIimitorrefuse,a｢efund､ForexcIusionsandretumpoIiciesfor\nonIinepurchases,visitWalgreens､com.\n叩く個切『ロのこぐの『と\nロの言のミヨ勝一三石勝一。◎昌酢\n℃弓大匡でヨ画の一三一の凹め“○ヨヨ言の恥\n」○ヨ『○『而",
+  "output": "Items can be exchanged or refunded for the full purchase price, with refunds issued in the original method of payment. Without an original receipt, items will be exchanged or refunded at the lowest advertised price within the last 30 days. Refunds will be issued as store credit. Valid government-issued photo identification may be required for any return. Walgreens reserves the right to limit or refuse a refund. For exclusions and return policies for online purchases, visit Walgreens.com. The rest of the text is unintelligible and does not provide any meaningful content.",
+  "summary_type": "receipts"
+}{
+  "input": "g\npre-advert lsed promotions. Items may only\nbe returned, exchanged, or price adjusted\nw¡ -:h¡n th، country where purchase was\nmade. Items purchased in ttie Contiguous\n1 1\" ted Sti.tes may no't be \nreturned,\nexchanged, or price adjusted in Hawai i,\nand items purchased in Hawai i may not be\nre:urned, exchanged, or price adjus'ted In\nthi! Contij.uous United States. tlNIQio\nreserves the right to l imit or deny\nre':urns or exchanges.\nN01) HIRING!\n\n--------------------------------------------------",
+  "output": "Items can only be returned, exchanged, or price adjusted in the country where they were purchased. Items bought in the Contiguous United States cannot be returned, exchanged, or price adjusted in Hawaii, and vice versa. UNIQLO reserves the right to limit or deny returns or exchanges.",
+  "summary_type": "receipts"
+}{
+  "input": "riebene Absicherung f¨ur die Erstattung Ihrer Zahlungen an Eurowings\nGmbH f¨ur Dienstleistungen, die aufgrund der Insolvenz von Eurowings GmbH nicht erbracht wurden sowie erfor-\nderlichenfalls f¨ur Ihre R¨uckbef¨orderung an den Abreiseort. Beachten Sie bitte, dass dies im Fall einer Insolvenz des\nbetreffenden Leistungserbringers keine Erstattung bewirkt.\nEurowings GmbH hat eine Insolvenzabsicherung mit Zurich Versicherungs-Gesellschaft AG abgeschlossen. Die Rei-\nsenden k¨onnen diese Einrichtung",
+  "output": "Eurowings GmbH hat eine Insolvenzabsicherung mit Zurich Versicherungs-Gesellschaft AG abgeschlossen, die für die Erstattung von Zahlungen für Dienstleistungen, die aufgrund einer Insolvenz von Eurowings GmbH nicht erbracht wurden, sowie für die Rückbeförderung an den Abreiseort sorgt. Im Falle einer Insolvenz des Leistungserbringers bewirkt dies jedoch keine Erstattung.",
+  "summary_type": "receipts"
+}{
+  "input": "( CP0000037446643\n)\n1\n41,93\nEUR\n41,93\nEUR\n7,97\nEUR\nSumme\nNetto\nNettobetrag\nUmsatzsteuer\nEUR\n41,93\nEUR\n19,00%\nauf\n49,90\nEUR\nGesamtbetrag\nDie Ware bleibt bis\nzur vollständigen Bezahlung unser Eigentum.\nDie Zahlung erfolgte per Kreditkarte.\nÜberzahlungen werden automatisch erstattet.\nCyberport Store Leipzig\n- Neumarkt 29-33, 04109 Leipzig\nÖffnungszeiten: Mo-Fr 10-20 Uhr Sa 10-19 Uhr\nGeschäftsführer: René Bittner, Kai Hollensteiner, tászlů Kovács, Franziska Pyttel, Sebastian Westrich\nRegistergericht",
+  "output": "The total amount for a purchase is 49,90 EUR, including a 19% sales tax of 7,97 EUR. The net amount is 41,93 EUR. The goods remain the property of the seller until fully paid. The payment was made by credit card. Overpayments will be automatically refunded. The transaction took place at Cyberport Store Leipzig, with operating hours from Monday to Friday, 10-20, and Saturday, 10-19. The directors are René Bittner, Kai Hollensteiner, tászlů Kovács, Franziska Pyttel, and Sebastian Westrich.",
+  "summary_type": "receipts"
+}{
+  "input": "istungsdatum\nAnbieter von Maßnahmen zu Energleefflzlenzverbessemngen und\nEnergieeinsparungen flnden sie unter١т«,.Ыее-оп11пв.ае sowie\nunler-.energiespartlpps-oel.de/aulo.\nSollte sich auf der Vordereelte ein PATOACK Coupon beftnden. so\ngilt Folgendes: Zur Einlösung den Coupon zusammen mit Ihrer\nPAYÅCK Karte vor dem Zahlvorgang an der Kasse vorlegen؛eine\nnachftdgllche Gulschrtft Ist nicht möglich.\nDer Coupon unterliegt den In den allgemeinen PAYBACK Teilnahme-\nbedlngungen enthaltenen Einschränkung",
+  "output": "The text discusses energy efficiency measures and savings providers, which can be found on certain websites. If there's a PAYBACK coupon on the front, it should be presented with your PAYBACK card before payment at the checkout; subsequent credit is not possible. The coupon is subject to restrictions contained in the general PAYBACK participation conditions.",
+  "summary_type": "receipts"
+}{
+  "input": "Starbucks Cotfee\nńmRsst Coftee Deutschland\nSp, 20.0. -\nMuensterplat2 21\n53111 Bonn\nCo. KG\ntfmmا\\ا؛ا\n101537\nChk \n82ةآ16Ma'٢19 13:45\nFor Here\n1  ta2oChaitattUslV\n+ cLowFatMllkCALV\n1  CaffetattsG\n+ cLowFatMilkCAMG\n4.79\n3.99\n10.00\nBa\n^'\nSt. Fo\n19(،؛0.64h\n3.99\n3.35\n^etto\n0.76 MwSt. 19%\n4.79\n4.03\n^etto\nSubtotal\nZahlung.\nRueckgẽld\n78\n.78\n1 .22\nSteuernummer 2/1849/2293\nUmtausch nur mit Kassenbon!\nVielen Dank fuer Ihren Besuch!\nWC Code; 7215\n\n--------------------------------------------------",
+  "output": "This is a receipt from Starbucks Coffee Deutschland, located at Muensterplatz 21, 53111 Bonn. The purchase was made on 20th of the month and includes one Chai Latte with low fat milk and one Caffe Latte with low fat milk, costing 4.79 and 3.99 respectively. The total payment was 10.00. The receipt also includes tax details and a WC code: 7215. The company's tax number is 2/1849/2293. The receipt ends with a thank you message for the visit.",
+  "summary_type": "receipts"
+}{
+  "input": "toom\nEigenmarke sowie auf alle elektromotor- und kraftstoffbetriebenen\nMaschinen. Bei Artikeln der toom Eigenmarke, auf deren Umverpa-\nckung eine langere Garantiezeit angegeben ist, gilt diese Zeit bei\nsonsten gleich bleibenden Garantiebedingungen. Im Falle eines Mangels\nder während der Garantiezeit auftritt, wird toom  - gegen Rückgabe\ndes Produktes und Vorlage des Kassenbons - nach eigenem Ermessen\nden Mangel entoeder durch eine Reparatur belieben, im Austausch\nein identisches oder vergleictib",
+  "output": "The text discusses the warranty conditions for Toom's own brand and all electric and fuel-powered machines. If a longer warranty period is indicated on the packaging of Toom's own brand products, this period applies under the same warranty conditions. In case of a defect occurring during the warranty period, Toom will, at its discretion, rectify the defect either by repair or by exchanging it for an identical or comparable product, upon return of the product and presentation of the receipt.",
+  "summary_type": "receipts"
+}{
+  "input": "ng\" enthält gegebenenfalls\nReiseinformationen zu Teilstrecken (z.B. Bus oder Straßenbahn), für die eine weitere Fahrkarte erforderlich sein kann.\n- Wenn Ihr Ticket den Zusatz \"+City\" oder \"City mobil\" zeigt, gilt dieser nur am Tag der Hinfahrt bzw. am Tag der Rückfahrt.\n- Es gelten die nationalen und internationalen Beförderungsbedingungen der DB AG. Innerhalb von Verkehrsverbünden und Tarifgemeinschaften\ngelten deren Bedingungen. Alle Bedingungen finden Sie unter: www.bahn.de/agb und www.diebef",
+  "output": "The text provides travel information, indicating that additional tickets may be required for certain routes (e.g., bus or tram). If your ticket has the \"+City\" or \"City mobil\" addition, it is only valid on the day of the outward or return journey. The national and international transport conditions of DB AG apply, and within transport associations and tariff communities, their conditions apply. All conditions can be found at www.bahn.de/agb and www.diebef.",
+  "summary_type": "receipts"
+}{
+  "input": "2019\nZangenabdruck\nHerr  Jens walter\nAuftragsnummer:\nNDUKNT\nIhre Reiseverbindung und Reservierung Hinfahrt am 15.12.2019\nHalt\nDatum\nZeit\nGleis\nProdukte\nReservierung\nBonn Hbf\n15.12.\nab 18:46 2\nHamburg Hbf\n15.12.\nan 23:16 13\nEC 6\n1 Sitzplatz, Wg. 263, Pl. 21, 1 Fenster,\nGroßraum,\nNichtraucher, Res.Nr. 4559 4008 4400 29\nWichtige Nutzungshinweise:\n- Ihre Fahrkarte gilt nur zusammen mit einem amtlichen Lichtbildausweis (z.B. Personalausweis) oder Ihrer BahnCard.\n- Mit Ihrer Fahrkarte zum Flexpreis kö",
+  "output": "In 2019, Jens Walter booked a train journey with the order number NDUKNT. The journey was from Bonn Hbf to Hamburg Hbf on the 15th of December, departing at 18:46 and arriving at 23:16. The reservation was for one seat in a non-smoking area, near a window. The ticket is only valid with an official photo ID or BahnCard.",
+  "summary_type": "receipts"
+}{
+  "input": "FIVEGUYS\n９\n５\nⅧ\n船\n舶\n７\n１\n訓\n刊\n４\n８\n６\n１\n１\n｜\nｌ\nｏ\nｗ\n叩\n飢\nＭ\nｄ\n，\nの\n＃\nｍ\nＳ\n１\n畦\nＬ\n・\n叫\n旧\n旧\n館\nＬ\n肥\nＳ\n酬\n駄\nｍ\nＰ\n２\n．\n．\n－\n上\n。\n。\n？\n』\nｌ\nｄ\nＶ\n、\nｅ\nＯ\nＩ\nＩ\nｅ\n向\nご\n《\n卜\nＶ\n該\nノ\nノ\nｒ\n０\n４\n．\n８\n言\n１\n４\n２\n‐\n．\nｐ\nｊ\nｊ\nｒ\n７\nｌ\nｍ\n９\n〔\nＵ\n３\n戸\n上\n6:39;16PN\nＵ\n４\nＡ\nＦ\nｔ\n４\nＡ\n△\nＡ\nい\nＮ\nｅ\nｑ\n〕\nｎ\nＭ\nＫ\n・\n１\n５\n１\n〔\n。\n〔\n。\nｅ\n△\nＡ\nＹ\n，\nｌ\nｄ\n４\nＡ\nⅡ\nＵ\nａ\nＬ\nＡ\nｎ\nｕ\nＭ\nⅡ\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n37\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\nｒ\nｅ\nｑ\n）\nｒ\nｕ\nＩ\nＤ\nｅ\nａ\nｓ\n‐\nｄ\n８\n昨\nｙ\nＯ\nｅ\nＳ\nｒ\n（\nご\nｌ\nｈ\nｅ\nｅ\nＦ\nＩ\nｆ\n〕\nＣ\nＯ\nｒ\nｎ\nｕ\nｌ\nｔ\nｅ\nａ\nｎ\n０\n‐\nｔ\nａ\n勺\nｌ\nｌ\nＯ\nＣ\n０\nｔ\n剛\n０\nｔ\nｕ\nＣ",
+  "output": "<NULL>",
+  "summary_type": "receipts"
+}{
+  "input": "he Bevorratungsbeitrag und die jeweils gültige Umsatzsteuer\nenthalten.\nDer Ver-kauf sonstiger Waren und Dienstleistungen erfolgt im\nNamen des Stationsbetreibers oder, soweit gesondert bezeichnet,\nim Namen sonstiger Dritter.\nDaten aus geeichten Anlageteilen sind zur besonderen Kenn-\nZeichnung durch (*) eingeschlossen.\nDas Rechnungsdatum entepricht dem leistungs- bzw. Lieferdatum.\nInformationen Uber die effiziente Nutzung von Kraftstoffen und Uber\nAnbieter von Energiedienstleistungen, Energieaudit",
+  "output": "The text discusses the inclusion of storage contribution and applicable sales tax. The sale of other goods and services is carried out in the name of the station operator or other third parties, if separately designated. Data from calibrated system parts are specially marked with (*). The invoice date corresponds to the performance or delivery date. It also provides information about the efficient use of fuels and about energy service providers, energy audit.",
+  "summary_type": "receipts"
+}{
+  "input": "byHillnii\nAPاmeاster C0nsuاtاกg GmbH\nFriedbchstr. 123\n10117 Ber!!n\nGermany\n25.08.2021\nDatum\nRECHNUNG\nRechnungs Nr. 99487\nlofi\nSelte\nBenutzer ا0\nZimmer Nr.\nAnreise\nAbreise\nReferenz\nPN\n209\n24.08.2021\n25.08.2021\nAZRNr.\nMitglieds Nr.\nGastname\nJens Walter\nEntlastung EUR\nBelastung EUR\nDatum\nBeschreibung\n72.09\n24.08.21\n24.08.21\nMaster Card\nArrangement\n72.09\n72.09\nTotal\n72.09\nSaldo\n0.00\nMwSt. EUR\nBrutto EUR\nMwSt. Detail\nVAI 19%\nNNII.fc\nNett EUR\n1.01\n0.19\n1,20\n66.25\n4.64\n70,89\n26924\n2021-08-2S 09:21:16\n2",
+  "output": "This is an invoice from APamester C0nsutag GmbH, based in Berlin, Germany, dated 25.08.2021. The invoice number is 99487. The customer is Jens Walter who stayed in room number 209 from 24.08.2021 to 25.08.2021. The total amount charged is 72.09 EUR, paid via Master Card. The net amount is 66.25 EUR with a VAT of 19%, resulting in a gross amount of 70.89 EUR. The invoice was issued on 2021-08-25 at 09:21:16.",
+  "summary_type": "receipts"
+}{
+  "input": "Max Burge\nً؛بااًاgsgatan 44\nPhone: 08-145797\nEmployer identification number (EIN) : 556؛756\n-\n188\nStore manager: Essam JerjIs Mikha\nAB\ntockholm\n61\nίΚΛ \\Η\nMAX EXPRESS\nCheck number 6206\n03/05/2019 18:49\n1  Spicy Brioche Beef-mãl\nSpicy Brioche Beef burger\n1  Spicy fries\nLäsk, mellan\n97.00\n25.00\nAuth#: 448260\n122.00\nNet Amount\nlax 12*\nlotal\n108.93\n13.07\n122.00\nlERM.ID: 10001294\nSIORE ID: 33\n*********♦!«\n2825\n :،؛Debit MasterCard\nContactless\nAID: Α0000000041010\nIVR: 0000000000 TSI: Ε800\nREF: 000029 4",
+  "output": "Max Burge, located at gsgatan 44, with phone number 08-145797 and EIN 556؛756, is managed by Essam JerjIs Mikha. A transaction took place at MAX EXPRESS on 03/05/2019 at 18:49, with check number 6206. The purchase included 1 Spicy Brioche Beef-mãl, 1 Spicy Brioche Beef burger, 1 Spicy fries, and Läsk, mellan, totaling 122.00. The payment was made via Debit MasterCard, with Auth# 448260. The store's terminal ID is 10001294 and store ID is 33.",
+  "summary_type": "receipts"
+}{
+  "input": "Online-Ticket\nICE Fahrkarte\nFahrtantritt am 17.11.2017\nFlexpreis (Einfache Fahrt)\nKlasse:\n1\nErw:\n1, mit 1 BC50\nHinfahrt:\nHamburg+City \n Leipzig+City, mit ICE\nÜber:\nVIA: (WBE/SDL)*(WB/KOET)\nUmtausch/Erstattung kostenlos bis 1 Tag vor Reiseantritt (Hinfahrt).\nZahlungspositionen und Preis\nPositionen\nPreis\nMwSt (D) 19%\nMwSt D: 7%\nICE Fahrkarte\n1\n87,00€\n87,00€\n13,89€\nZahlungsmittelentgelt 1\n0,75€\n0,75€\n0,12€\nSumme\n87,75€\n87,75€\n14,01€\nKreditkartenzahlung\nBetrag\n87,75€\nVU-Nr\n4556695619\nTransaktions-Nr",
+  "output": "<CENSORED>",
+  "summary_type": "receipts"
+}{
+  "input": "-Nr\n803330133\nAIDPara\nO100000002\nGenehmlgl｣ngs-Nr\n432934\nDatumO5'05,22 15:07Uhr\nENV--Daten\n0000008001/E800/00000000\n00/F45084800C/F45084800C\n/1F0302///9C2AC9BC/80\nZahlungerfD19t\nAS-Proc-Code=00075\n00\nCapt,…Ref'=0528\nAID59:\nNH3Z78\nBITTEBELEGAUFBENAHREN\nKARTENZAHLUNG\n7，15\nNetto\nMWST-BETRAG\n6,68\n0，47\nBRUTTO\n7，15\nMWST\nC\n7,00%\n5\nANZAHLARTIKEL\nV1elenDankfUrDeinenfinkauf\nTSE ~Iransaktlonsnummer,:\n359313\nSer.iennl､o\nKasse:\nDEO2102103\nPrUfwert:\n0jtUfXohlrjLcoRXsa/Gzd+ZIWqWOA\nZEbir3CUp62keeN1ZK11119UGyl8R",
+  "output": "<CENSORED>",
+  "summary_type": "receipts"
+}{
+  "input": "0€\n17,08€\nKreditkartenzahlung\nBetrag\n107,00€\nVU-Nr\n4556695619\nTransaktions-Nr\n137385\nDatum\n03.12.2018\nGen-Nr\nNY7UXR\nIhre Kreditkarte wurde mit dem oben genannten Betrag belastet. Die Buchung Ihres\nOnline-Tickets erfolgte am 03.12.2018 14:08 Uhr. DB Fernverkehr AG/DB Regio AG,\nStephensonstr. 1, 60326 Frankfurt, Steuernummer: 29/001/60002.\nBarcode bitte nicht knicken!               \nHinfahrt:\nGültig ab:\n03.12.2018\nZangenabdruck\nHerr  Jens walter\nAuftragsnummer:\n7WCHS9\nIhre Reiseverbindung und Rese",
+  "output": "A credit card payment of €107.00 was made on 03.12.2018 at 14:08. The transaction number is 137385 and the VU number is 4556695619. The booking was made for Jens Walter, with the order number 7WCHS9. The payment was processed by DB Fernverkehr AG/DB Regio AG, located at Stephensonstr. 1, 60326 Frankfurt, with tax number 29/001/60002.",
+  "summary_type": "receipts"
+}{
+  "input": "e Lastschrift einzulOsen;\n- weise Ich mein Kreditinstitut an, Interta^ meinen Flamen und\nmeine Anschrift zur Geltendmachung der Forderung miteuteilen;\n- verpflichte ich mich, die entstandenen Kosten (z.B. Bearbeitungs und\nAnschriftermittlungskœten) zu ereetzen.\nUnterschrift (Zahlungsangaben siehe Vorderseite)\n/sl\nGinterCard\nwww.lntereard.de\nTel.: 0800.10 44 400\nDatenschutzrechtliche Information\nDie Zahlungsdaten (Kontonr., BLZ, IBAN, Kartenverfalldatum und -folgenr.,\nDatum, utirzeit. Betrag, Ter",
+  "output": "The text appears to be a part of a German document related to a direct debit authorization. The person is instructing their bank to share their name and address for the purpose of asserting a claim. They also commit to cover any costs incurred, such as processing and address determination costs. The document also mentions payment data like account number, bank code, IBAN, card expiry date and sequence number, date, time, and amount.",
+  "summary_type": "receipts"
+}{
+  "input": "ung\nBetrag\n89,50€\nVU-Nr\n4556695619\nTransaktions-Nr\n146462\nDatum\n07.12.2018\nGen-Nr\nN7X6EC\nIhre Kreditkarte wurde mit dem oben genannten Betrag belastet. Die Buchung Ihres\nOnline-Tickets erfolgte am 07.12.2018 15:45 Uhr. DB Fernverkehr AG/DB Regio AG,\nStephensonstr. 1, 60326 Frankfurt, Steuernummer: 29/001/60002.\nBarcode bitte nicht knicken!               \nHinfahrt:\nGültig ab:\n07.12.2018\nZangenabdruck\nHerr  Jens walter\nAuftragsnummer:\nX76UT6\nIhre Reiseverbindung und Reservierung Hinfahrt am 07.12.",
+  "output": "A transaction of 89,50€ was made on a credit card on 07.12.2018 at 15:45 for an online ticket. The transaction was processed by DB Fernverkehr AG/DB Regio AG, located at Stephensonstr. 1, 60326 Frankfurt. The ticket is valid from 07.12.2018 for a journey by Mr. Jens Walter. The transaction number is 146462 and the order number is X76UT6.",
+  "summary_type": "receipts"
+}{
+  "input": "؛F\ninfo@madisonhotel.de\nmadisonhotel.de\nGeschäftsführer;\nMarlies Head, Thomas Kleinertz\nAG Hamburg HRB 47881\nVAT:DE118 696 407\nHypoVereinsbank\nBIZ 200 300 00, Konto-Nr. 360 27 11\nIBAN: DE48 2003 0000 0003 6027 11\nBIC: HYVEDEMM300\nدق\n๐ة\n\n--------------------------------------------------\nЛ\\Г(ЛгПшлиГ'■ ’· -\n-,فلاذ๚1\n-,-الاโ|٠ii\nTHE\nMADISON\nHAMBURG\n٥I\nř\ni\n:แد'؛I\ni\nT-r-iếyí\n'íI\nهi\nự\ní\nil\nI\nẾ\n'ة\nب\nالابII\nX\n■ا\nا\nاI\nt\n\\ỉ\nيم\nЙİ\ni I\nI\n■٠: ؛\n·<\n■؛'. \n٧ذit\na:\nI\nÎ\nI\nίϋ\nii\nL^١؛1\n,?بوi\nIه\nلح?'Ϊ|؛Γ\nIه\n;و\nل\nİ\n٠",
+  "output": "<NULL>",
+  "summary_type": "receipts"
+}{
+  "input": "lgt\nSteuer\nBrutto\n3\nSteuer \n%\nft: 19,^٠\nß: ش0ةGesarntbetrag\n25.06.2020\nMarkt:2616\nNetto\n,9รุ\n4\n3,3?\n?\n3\n0,33\n1\n,5\n6:?5\n3,?3\n18:15\nKasse:!\nBon--Nr.:8418\nBed. :202020\nNoch keine PAYBACK Karte?\nFür diesen Einkauf flatten Sie\n14 Punkte erhalten؛\nGleich hier am PENNY Service-Punkt\nIm Markt anmelden oder auf\nWWW.penny.de/payback\nWir danken für Ihren Einkauf.\nErstmal zu Penny\n- auch Im Internet unter www.penny.de\nSie erhalten 6 Treuepunkt(el\n\n--------------------------------------------------\nги Penny",
+  "output": "<NULL>",
+  "summary_type": "receipts"
+}{
+  "input": ", 04109 Leipzig\nÖffnungszeiten: Mo-Sa \n10-20 Uhr\nGeschäftsführer: René ВИпег, Simon Frank, László Kovács, Robert Rónai, Sebastian Westrich\nRegistergericht: Amtsgericht Dresden HRB 16246 I Ust.-ldNr.: DE195033395 I Steuer-Nr.: 202/107/09526\nE-Mail: infa@cyberport.de\nTelefon: \n60\n-\n3395\n \n351\n \n49؛\nFax: \n699\n-\n3395\n \n351\n \n49؛\nCommerzbank Freiburg\nIBAN; DE 73 6808 0030 0723\nCyberport GmbH\nAm Brauhaus 5\n01099 Dresden\n 3036 00, BIC: DRES DE FF 680\n\n--------------------------------------------------",
+  "output": "Cyberport GmbH, located at Am Brauhaus 5, 01099 Dresden, is managed by René ВИпег, Simon Frank, László Kovács, Robert Rónai, and Sebastian Westrich. It is registered at Amtsgericht Dresden with HRB 16246, Ust.-ldNr.: DE195033395, and Steuer-Nr.: 202/107/09526. The company's opening hours are from 10 to 20, Monday to Saturday. Contact can be made via email at infa@cyberport.de or by phone and fax at 49 351 3395 and 49 351 699 respectively. The company's bank is Commerzbank Freiburg with IBAN: DE 73 6808 0030 0723 3036 00 and BIC: DRES DE FF 680.",
+  "summary_type": "receipts"
+}{
+  "input": "ur zusammen mit einem amtlichen Lichtbildausweis (z.B. Personalausweis) oder Ihrer BahnCard.\n- Mit Ihrer Fahrkarte zum Flexpreis können Sie jeden Zug der gewählten Verbindung nutzen: mit einer IC/EC-Fahrkarte alle IC- und EC-Züge, mit\neiner ICE-Fahrkarte auch alle anderen Züge.\n- Das Online-Ticket gilt nur für den unter \"Fahrkarte\" angegebenen Reiseabschnitt. Die Übersicht \"Ihre Reiseverbindung\" enthält gegebenenfalls\nReiseinformationen zu Teilstrecken (z.B. Bus oder Straßenbahn), für die eine w",
+  "output": "Zusammen mit einem amtlichen Lichtbildausweis oder Ihrer BahnCard kann Ihre Fahrkarte zum Flexpreis für jeden Zug der gewählten Verbindung genutzt werden. Das Online-Ticket gilt nur für den unter \"Fahrkarte\" angegebenen Reiseabschnitt. Die Übersicht \"Ihre Reiseverbindung\" kann zusätzliche Reiseinformationen zu Teilstrecken enthalten.",
+  "summary_type": "receipts"
+}{
+  "input": "ationen und Ansagen im Zug und am Bahnhof. Wir danken Ihnen für Ihre Buchung und wünschen\nIhnen eine angenehme Reise!.\nR9MNS4\nSeite 1 / 1\n\n--------------------------------------------------",
+  "output": "The text thanks the reader for their booking and wishes them a pleasant journey. It also mentions announcements and information in the train and at the station.",
+  "summary_type": "receipts"
+}{
+  "input": "Online-Ticket\nigrtsme\n1 e\nfoeFamate\nEu e\n[Fahetantritt\nam a1 orgo18 |\nE\na Sie\nFlexprets (Einfache Fahrt)\ni\nfeo M\n{rane\n|\neeeal\nEne\ntymitt B50\n|\nSREB\n[FOS eapty\nhabegeen saci\nMee o\n[Geer\nvu noe oupaer sok lemme way\n=o\nDave\nrising asnon bettywReeta\n|\nRe\nZahlungspositionen und Preis\nea\nTeationen\nPele\nvst)\nust\nBee\noe\naT\nTe\nea\nme\n9m0e__ansoe\nsane\nie] sd\nie fa. Sh aaa ee mm | OL\nIhre Kreditkarte wurde mit dem oben genannten Betrag belastet. Die Buchung thres.\n‘Auftragénummer:\nciao2To oy Rat beh\nInve R",
+  "output": "<NULL>",
+  "summary_type": "receipts"
+}{
+  "input": "stricii\n1\nStk\n758ا\nSi.on Coll\nTatei\nгв\nBit\n.range\n2ร.٥٠1Α-5.\n.؛75\n,75\n5.Τ5\n5.Τ5\nGesamtbetrag\n43.\nUst.\n.ont\naiTS\nNetto\n41,01\n2.87\nKarteiTzahlung\nElli\n.«taiiscii ertoigt nur bei\nBori age\nder Biiittung\ngegen Gutschein,\npeduaierte Mare sowie genahiener\ntausch\n.)!؛ausgeschlossen.\nkattee sind generell boB\n٥ΕΟ٠٠ΒΙΑΤΒ3Ι2٥E23?56286T.؛BSt.-Id؛BStNr\nBerpackG LBCJo .Ε25ΙΤ75355253Β\nKafteesteuer؟2.13\nEin kiio Rostkaftee enthalt\ngena..\n2 Absata\n1\nkatteeStG\nwuii .GABOS.de intoGGABOS.de\nUleleb Dank für Ihren Ein",
+  "output": "<NULL>",
+  "summary_type": "receipts"
+}{
+  "input": "nden und Tarifgemeinschaften\ngelten deren Bedingungen. Alle Bedingungen finden Sie unter: www.bahn.de/agb und www.diebefoerderer.de.\nIhre Reisedaten können sich kurzfristig durch Bauarbeiten oder andere erforderliche Fahrplananpassungen ändern.\nBitte informieren Sie sich kurz vor Ihrer Reise über mögliche Änderungen Ihrer Reisedaten unter www.bahn.de/reiseplan oder mobil über die\nApp DB Navigator. Achten Sie auch auf Informationen und Ansagen im Zug und am Bahnhof. Wir danken Ihnen für Ihre Buch",
+  "output": "The text states that travel conditions can be found on www.bahn.de/agb and www.diebefoerderer.de. Travel data may change due to construction work or other necessary schedule adjustments. Travelers are advised to check for possible changes to their travel data shortly before their trip at www.bahn.de/reiseplan or via the DB Navigator app. They should also pay attention to information and announcements on the train and at the station.",
+  "summary_type": "receipts"
+}

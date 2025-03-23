@@ -1,0 +1,121 @@
+{
+  "input": "---------------------",
+  "output": "<NULL>",
+  "summary_type": "Report"
+}{
+  "input": "AhUarhXvlEg4I\nTCkR8euksvOoV0WvEAZ2\nAvE7NYaAnCRYsDFUcDglE\nlQYx0JNnhcD2EYP7F7E\nj+1W2/nAIMK0QY2hxpifz\nRLEqz5ZArVEsbuGRnMZf\nblefHb5CDuYOABM6iT5J\nE9+8pTpgTinSQj3sBAotI\nfsJeDpbO8ozgvN9M/lc\nrpyXPtWXzFo35o8PElkq1\nMqZG1RHRnEjKUKXfrCIC\nwGR6Gi9dt9xWlhZ1CdAp\n2pbANKGpC1Xa3e2qVX5oa\nVqM+bW0sdE+6jD4FjpG\naq0Wh0b0CZzpjtKB27ZE4\nrOaj4nEyUtZ79Z+6vklr\nkMI0CgZkwaS9vOCy25/S\nZ/j0RKMlpZq6/Xs4UuGo2\nFseYsVne08hP7ikaBlaC\nCGDNoZGMlGjgVLHFxZFhI\n6IxM2MCakljBYZz9wgkq\nW8RHY6XtIwFl6OmMmATG\nzAPRqYTNud9Kfgv3yC8\nYthnLXLJM2FxpGwraP0P",
+  "output": "<NULL>",
+  "summary_type": "Report"
+}{
+  "input": "ng all convolutional layers. The\nperformance of these linear classiﬁers is meant to evaluate the quality of the feature representations\nlearnt by the convolutional layers, since the backbone is completely frozen and only fully-connected\nlayers are being trained. We chose hyper-parameters using the validation set and report performance\non the ImageNet validation set.\nNote that since we use ImageNet to pre-train for self-supervised learning, there is no domain differ-\nence when we conduct inferenc",
+  "output": "<NULL>",
+  "summary_type": "Report"
+}{
+  "input": "18\n\n--------------------------------------------------",
+  "output": "<NULL>",
+  "summary_type": "Report"
+}{
+  "input": "lthough the methods mentioned above are good performed on CNNs, there is no evidence\nthat they also keep the effectiveness on ViTs. Thus, a targeted robustness research according to the\ncharacteristic of ViTs is necessary.\nRobustness Study for ViTs\nUntil now, there are several works attempt at studying the robustness\nof ViTs. Early works focus on the adversarial robustness of ViTs. They found that ViTs are\nmore adversarially robust than CNNs [30] and the transferability of adversarial examples b",
+  "output": "<NULL>",
+  "summary_type": "Report"
+}{
+  "input": "NI0gQRVbqjPJ+6/rKQ7sG3fn9q27ugenFVKtqmZaLT\nhcJznVIuzCGsVSv1rZahIZq8gsF/zU9umKGJuSDufe3bd\nZx4SAdqDfJZ4myJklb9gdw5Wrucd2njvWb+v0a5WvLGW\nC5uMVg4nOSuVaVMZtMnYMWkDBOqr1mjQAiT4q/8dH3Nw\n6VS0s6gCwi+wlyDawkephZ7/mKr90aVqch5stpS9Ah6T\nN8ULpMam2Wu2afwhTrtKx8PV9fpWfSbktJYKOveQjrD1\nZ80VCyLXStMgjH9xowU0CiY5LlPM8NTYGM432nJuDmGt\njZAuZkwyEhGSntToJkhl6NsBAbM40D51nwY27aCvBftn6\nGow8DK5I0cxyxeaFRJgkqUmwzCYXmDOXUKcC0cL0SFkFB\nmt535HQuDnybeV4Z6vxbqvR3Vnfqy/oWPaey+8qtfw3\nnt73hev4x15rLRbYiVZisufy1FZlSdz19LSIuaZd03KP/\n4AC4",
+  "output": "<NULL>",
+  "summary_type": "Report"
+}{
+  "input": "can lead to im-\nproved predictions in the presence of label noise. However\nit also raises a number of challenges;\nFirst there is now no closed form solution for the pre-\ndictive probabilities, Eq. (1). In order to address this, we\ntransform the computation into an expectation and approxi-\nmate using Monte Carlo estimation, Eq. (3).\nSecond, notice that the Monte Carlo estimate of Eq. (1)\ninvolves computing an arg max which makes gradient based\noptimization infeasible. We approximate the arg max w",
+  "output": "<NULL>",
+  "summary_type": "Report"
+}{
+  "input": "-----------------------------",
+  "output": "<NULL>",
+  "summary_type": "Report"
+}{
+  "input": "----------------",
+  "output": "<NULL>",
+  "summary_type": "Report"
+}{
+  "input": "oZGMlGjgVLHFxZFhI\n6IxM2MCakljBYZz9wgkq\nW8RHY6XtIwFl6OmMmATG\nzAPRqYTNud9Kfgv3yC8\nYthnLXLJM2FxpGwraP0P\niCfa0ZBzK1BqOa2VkSnJB\n27vTWuHULjfMsXjb3N9c\naz9UZvc2rvhjHsnPfe\nBUnIbz3Nly3jhdZ9ehQ+\nFT4Uvha/Fj8XPxW/F73l\noYWmRc9c5s4o/fgP7cUw7\n</latexit>XCiT layer\nA(K, Q) = Softmax\n0\nB\nB\nB\nB\n@\n1\nC\nC\nC\nC\nA\nAXC(K, Q) = Softmax\n0\nB\nB\nB\nB\n@\n1\nC\nC\nC\nC\nA\nQ\nK>/pdk\nJ\nLbxMxEPYuFEp4NIUjF4tspFRC6W59YJU1AtSLo0gbaQ4rBzHm7XiXW/tWdTI2j/BhQMIceXvcOPf4N3k0AdXRvL48zczms9jzwopDIThH8+/dXvrzt3te637Dx4+2\nmnvPj41qtSMj5iSo9n1HApcj4CAZK",
+  "output": "<NULL>",
+  "summary_type": "Report"
+}{
+  "input": "image size, which makes it intractable for ex-\nisting MLP-like models on high-resolution images.\nTo address the ﬁrst challenge, we construct a hierarchi-\ncal architecture to generate pyramid feature representations.\nFor the second and third issues, we propose a novel variant\nof fully connected layer, named as Cycle Fully-Connected\nLayer (Cycle FC), as illustrated in Figure 1c. The Cycle\nFC is capable of dealing with variable image scales and has\nlinear computational complexity to image size.\nBe",
+  "output": "<NULL>",
+  "summary_type": "Report"
+}{
+  "input": ", 2019.\n3, 8\n[32] Benjamin Recht, Rebecca Roelofs, Ludwig Schmidt, and\nVaishaal Shankar. Do imagenet classiﬁers generalize to im-\nagenet? arXiv preprint arXiv:1902.10811, 2019. 10, 12\n[33] Olga Russakovsky, Jia Deng, Hao Su, Jonathan Krause, San-\njeev Satheesh, Sean Ma, Zhiheng Huang, Andrej Karpathy,\nAditya Khosla, Michael Bernstein, et al.\nImagenet large\nscale visual recognition challenge. International Journal of\nComputer Vision, 115(3):211–252, 2015. 5, 6\n[34] Mark Sandler, Andrew Howard, Me",
+  "output": "<NULL>",
+  "summary_type": "Report"
+}{
+  "input": "U0jY2ibdlUGhWyCstIRkW9tAlIZjW\nalFZMuRjtmwn9yD4P9m8lJBr3seQckH3n/vkEqRQG6/\nXfS6Xynbv37i8/8B8+evxkZXt6bFRmWb8iCmpdC8Aw6VI\n+BEKlLyXag5xIPlJMG4W9pNzro1QyXecpnwQw1kiRoIBO\nmi4tvRro0JjwIiBtJ/y6sGrbo3sEor8Eu03NcIYLnMq+Q\nirNI0gQRVbqjPJ+6/rKQ7sG3fn9q27ugenFVKtqmZaLT\nhcJznVIuzCGsVSv1rZahIZq8gsF/zU9umKGJuSDufe3bd\nZx4SAdqDfJZ4myJklb9gdw5Wrucd2njvWb+v0a5WvLGW\nC5uMVg4nOSuVaVMZtMnYMWkDBOqr1mjQAiT4q/8dH3Nw\n6VS0s6gCwi+wlyDawkephZ7/mKr90aVqch5stpS9Ah6T\nN8ULpMam2Wu2afwhTrtKx8PV9fpWfSbktJYKOveQjrD1\nZ80VCyLXStMgjH9xo",
+  "output": "<NULL>",
+  "summary_type": "Report"
+}{
+  "input": "rent styles\ntaken from the Kaggle Painter by Numbers dataset. While trying to remove texture, this approach\ncould also signiﬁcantly affect the shape. Also, there isn’t an explicit control over the amount of\nremoved texture. Moreover, this method may not be directly applicable to self-supervised learning\nbecause the ﬁxed number of possible texture patterns result in images with strong low-level visual\ncues resulting in shortcuts. We show that the accuracy on downstream tasks, when MoCoV2 and\nJigs",
+  "output": "<NULL>",
+  "summary_type": "Report"
+}{
+  "input": "0 high quality pixel-level ﬁnely\nannotated labels in 19 semantic classes for urban scene\nunderstanding. Each image is 1024×2048 pixels. It is divided\ninto 2975, 500 and 1525 images for training, validation and\ntesting. (It also contains 20,000 coarsely annotated images,\nwhich we did not use in our experiments). We adopted\ndilated ResNet-101 with an output stride of 8 as the backbone\nfor all methods. The experimental conﬁgurations was again\nthe same as for mmsegmentation, training cityscapes with",
+  "output": "<NULL>",
+  "summary_type": "Report"
+}{
+  "input": "-----------------",
+  "output": "<NULL>",
+  "summary_type": "Report"
+}{
+  "input": "C9UL\nNSOAJduhNG6n/8IRpw5\nXcg1nIBgEZSz7ilICFhs\nuFR+USDghMKBHxdlLZXe\n1W0RuEgZ1B/F6NICBnCR\nZsBUcTogEFcRYR4L1n\n9VCGMTP7Z7EL+zW3T3Co\nEK0gc2xhtgfTpMEaz6eQ\nLWEsXuhDOYy+/K8+F1y\nFLcx8IAZ1E7yK595SkT\nAvFukhFvYCBR6Q/YzcHS\nRd5hnDfeayT/S8r5kpd\nk2by5MH94nJTchlbGrDX\nUCdGcSMrQNgCT6TmgSq+\nxXdcktZVtQhQCdoRw\nLThOb+Vmenags/tYKbjP\nlrTaVPifZRm8Gp0lNUaT\nbNqBFZky3lQ7csicUn\na75nIyVtJy2gFvmMowAg\nZoyaSxbK2/PcvYafA+JN\nHkV/YWHSyu19Vq20FWj\nPjdWnPnqDJd+Yl/RKLCi\nqCDG9OvZYIkGTgVLXBwZ\nFhI6JWPWt6Yktsogzn7\niBJUt4qOR0vaRgDL0fEZ\nMAmN",
+  "output": "<NULL>",
+  "summary_type": "Report"
+}{
+  "input": "-------------------------------------------------",
+  "output": "<NULL>",
+  "summary_type": "Report"
+}{
+  "input": "-----------------",
+  "output": "<NULL>",
+  "summary_type": "Report"
+}{
+  "input": "velopment in recent years. Numerous works conduct thorough study on the robustness of CNNs\nand aim to strengthen it in different ways, e.g., stronger data augmentation [14, 16, 17], carefully\ndesigned [18, 19] or searched [20, 21] network architecture, improved training strategy [22–24],\nquantization [25] and pruning [26] of the weights, better pooling [27, 28] or activation functions [29],\netc. Although the methods mentioned above are good performed on CNNs, there is no evidence\nthat they also",
+  "output": "<NULL>",
+  "summary_type": "Report"
+}{
+  "input": "and Christoph Feicht-\nenhofer.\nMultiscale vision transformers.\narXiv preprint\narXiv:2104.11227, 2021. 3, 4\n[16] Valentin Gabeur, Chen Sun, Karteek Alahari, and Cordelia\nSchmid.\nMulti-modal transformer for video retrieval.\nIn\nComputer Vision–ECCV 2020: 16th European Conference,\nGlasgow, UK, August 23–28, 2020, Proceedings, Part IV 16,\npages 214–229. Springer, 2020. 3\n[17] Xavier Glorot and Yoshua Bengio. Understanding the difﬁ-\nculty of training deep feedforward neural networks. In Pro-\nceedings",
+  "output": "<NULL>",
+  "summary_type": "Report"
+}{
+  "input": "Syu19Vq20FWj\nPjdWnPnqDJd+Yl/RKLCi\nqCDG9OvZYIkGTgVLXBwZ\nFhI6JWPWt6Yktsogzn7\niBJUt4qOR0vaRgDL0fEZ\nMAmNmgWcj0xmby74U/Je\nvH8Ho9SDOpDNJ80KjSN\ngxoPRGIJ9rRkHMrEGo5r\nZXRCcknby9N64dQv2y5K\nvGweZ6/eV6vbu5srU6H\n8ei89h54lScuvPK2XLeO\nh1n36GFD4VPhS+Fr8WPx\nc/Fb8XveWhYZ7z0Lmw\nij9+A261S4=</latexi\nt>Cross-Covariance Attention (XCA)\n+\nK 2 RN⇥dk, Q 2 RN⇥dq\nF\noAHg4HMSRcRayfjk7hi/qD5hAw=\">ADwHicvVJba9sw\nFHaTXTrv0nZ73ItYU0jY2ibdlUGhWyCstIRkW9tAlIZjW\nalFZMuRjtmwn9yD4P9m8lJBr3seQckH3n/vkEqRQG6/\nXfS6Xynbv37i8/8B8+evxkZXt6",
+  "output": "<NULL>",
+  "summary_type": "Report"
+}{
+  "input": "----------------------",
+  "output": "<NULL>",
+  "summary_type": "Report"
+}{
+  "input": "otypes.\n14\n\n--------------------------------------------------",
+  "output": "<NULL>",
+  "summary_type": "Report"
+}{
+  "input": "es auto-\nmatically handle neighborhood gathering for convolutions,\nno such neighborhood gathering function exists for local\nself-attention (or any general local function). Thus, imple-\nmenting local self-attention requires explicitly gathering the\nlocal neighborhoods before the actual self-attention opera-\ntion can be performed. While the implementation of this\nlocal neighborhood gathering function might initially appear\nto be a relatively minor implementation detail, in practice, it\nmust actual",
+  "output": "<NULL>",
+  "summary_type": "Report"
+}{
+  "input": "----------------------------",
+  "output": "<NULL>",
+  "summary_type": "Report"
+}{
+  "input": "tWdTI2j/BhQMIceXvcOPf4N3k0AdXRvL48zczms9jzwopDIThH8+/dXvrzt3te637Dx4+2\nmnvPj41qtSMj5iSo9n1HApcj4CAZKPC81pNpP8bLY8ruNn7k2QuUfYVXwaUYXuUgEo+CoeNfb6gYko5AyKu27qjd4PtzDbzEBfgH2g0ogoxcVkTyBHilSmoPKLN\nGl5JMXYQFT+9L5yr5ybj4REAVeJ+Ycw12Hi+rimixSGEvIKTVDYZucyAgKQU7qJrsfQK0DOrg1eMlSbFdixkfV/9PXtzuhP2wMXwTRBvQRs7idu/yVyxMuM5MEm\nNmURNP6pBMmrFikNLyhb0gWfOJjTjJupbd6rwl3HzHGitFs54Ia9XGFpZswqm7nMeg7meqwm/xWblJAcTq3IixJ4ztaNklJiULh+fDwXmjOQKwco08JpxSylmjJwX\n6TlhBdv/JNcHrQj173o+FB5+hwM45t9BQ9Qz0UoTfoCL1HJ2iEmCe9L",
+  "output": "<NULL>",
+  "summary_type": "Report"
+}{
+  "input": "------------------------",
+  "output": "<NULL>",
+  "summary_type": "Report"
+}{
+  "input": "----------------",
+  "output": "<NULL>",
+  "summary_type": "Report"
+}{
+  "input": "----------------------------",
+  "output": "<NULL>",
+  "summary_type": "Report"
+}

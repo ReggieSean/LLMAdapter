@@ -1,0 +1,1201 @@
+{
+  "input": "-08\nShipped Date: 2017-08-11\nProducts:\nProduct: Jack's New England Glam Chowder\n‘Quantity: 20\nUnit Pie:\n9.65,\n\n--------------------------------------------------",
+  "output": "The text indicates that a product named \"Jack's New England Glam Chowder\" was shipped on August 11, 2017. The quantity of the product shipped was 20 units, with a unit price of 9.65.",
+  "summary_type": "formatted"
+}{
+  "input": "7-08-21\nShipped Date: 2017-08-28\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Gudbrandsdalsost\nQuantity: 20\nUnit Price: 36.0\nTotal: 720.0\n--------------------------------------------------------------------------------------------------\nProduct: Outback Lager\nQuantity: 15\nUnit Price: 15.0\nTotal: 225.0\nTotal Price:\n\n--------------------------------------------------\nTotal Price: 945.0\n\n---------------------------------------",
+  "output": "On August 28, 2017, 20 units of Gudbrandsdalsost were shipped at a unit price of $36.0, totaling $720.0. Additionally, 15 units of Outback Lager were shipped at a unit price of $15.0, totaling $225.0. The total price for all products shipped is $945.0.",
+  "summary_type": "formatted"
+}{
+  "input": "Order ID: 10481\nShipping Details:\nShip Name: Ricardo Adocicados\nShip Address: Av. Copacabana, 257\nShip Cy: de Janeiro.\nShip Region: South America\nShip Postal Code: 02389-890\nShip County: Brazil\nCustomer Details:\nCustomerID: RICAR\nCustomer Name:\nRicardo Adocicados\nEmployee Details:\nEmployee Name: Laura Callahan\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\n(Order Date: 2017-03-20\nShipped Date: 2017-03-25\nProducts:\nProduct: Maxiak\nQuanty: 26\nUnit Pie: 160\n\n------------",
+  "output": "Order ID 10481 was placed by Ricardo Adocicados from Av. Copacabana, 257, de Janeiro, South America, Brazil, postal code 02389-890. The order was handled by employee Laura Callahan. The order was shipped by United Package (Shipper ID: 2) on 2017-03-25, five days after the order date (2017-03-20). The product ordered was Maxiak, with a quantity of 26 units, each priced at 160.",
+  "summary_type": "formatted"
+}{
+  "input": "Order ID: 10998\nShipping Details:\nShip Name: Wolski Zajazd\nShip Address: ul. Filtrowa 68\nShip City: Warszawa\nShip Region: Eastern Europe\nShip Postal Code: 01-012\nShip Country: Poland\nCustomer Details:\nCustomer ID: WOLZA\nCustomer Name: Wolski Zajazd\nEmployee Details:\nEmployee Name: Laura Callahan\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2018-04-03\nShipped Date: 2018-04-17\nProducts:\n----------------------------------------------------------------------",
+  "output": "Order ID 10998 was shipped to Wolski Zajazd at ul. Filtrowa 68, Warszawa, Eastern Europe, Poland, postal code 01-012. The customer ID is WOLZA. The order was handled by employee Laura Callahan and shipped by United Package (Shipper ID: 2). The order was placed on 2018-04-03 and shipped on 2018-04-17.",
+  "summary_type": "formatted"
+}{
+  "input": "hipped Date: 2018-04-22\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Pâté chinois\nQuantity: 35\nUnit Price: 24.0\nTotal: 840.0\n--------------------------------------------------------------------------------------------------\nProduct: Raclette Courdavault\nQuantity: 24\nUnit Price: 55.0\nTotal: 1320.0\nTotal Price:\n\n--------------------------------------------------\nTotal Price: 2160.0\n\n-------------------------------------------",
+  "output": "On April 22, 2018, two products were shipped: Pâté chinois and Raclette Courdavault. The quantity of Pâté chinois was 35 units, priced at $24.0 each, totaling $840.0. The quantity of Raclette Courdavault was 24 units, priced at $55.0 each, totaling $1320.0. The total price for both products was $2160.0.",
+  "summary_type": "formatted"
+}{
+  "input": "Purchase Orders\n\n--------------------------------------------------",
+  "output": "<NULL>",
+  "summary_type": "formatted"
+}{
+  "input": "--------------------------------------------------------------------\nProduct: Raclette Courdavault\nQuantity: 8\n\n--------------------------------------------------\nUnit Price: 55.0\nTotal: 440.0\nTotal Price:\nTotal Price: 1893.0\n\n--------------------------------------------------",
+  "output": "The product is Raclette Courdavault with a quantity of 8. The unit price is 55.0, making the total 440.0. However, there seems to be a discrepancy as the total price is listed as 1893.0.",
+  "summary_type": "formatted"
+}{
+  "input": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10833\n2018-01-15\nHenriette Pfalzheim\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n7\nUncle Bob's Organic Dried Pears\n20\n30\n31\nGorgonzola Telino\n9\n12.5\n53\nPerth Pasties\n9\n32.8\nPage 1\n\n--------------------------------------------------",
+  "output": "The purchase order with ID 10833 was made by Henriette Pfalzheim on 2018-01-15. The order includes three products: 20 units of Uncle Bob's Organic Dried Pears (Product ID: 7) at a unit price of 30, 9 units of Gorgonzola Telino (Product ID: 31) at a unit price of 12.5, and 9 units of Perth Pasties (Product ID: 53) at a unit price of 32.8.",
+  "summary_type": "formatted"
+}{
+  "input": "er Details:\nOrder Date: 2018-03-18\nShipped Date: 2018-03-27\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Nord-Ost Matjeshering\nQuantity: 30\nUnit Price: 25.89\nTotal: 776.7\n--------------------------------------------------------------------------------------------------\nProduct: Steeleye Stout\nQuantity: 40\nUnit Price: 18.0\nTotal: 720.0\n------------------------------------------------------------------------------------------",
+  "output": "The order was placed on 2018-03-18 and shipped on 2018-03-27. It included 30 units of Nord-Ost Matjeshering at a unit price of 25.89 (totaling 776.7), and 40 units of Steeleye Stout at a unit price of 18.0 (totaling 720.0).",
+  "summary_type": "formatted"
+}{
+  "input": "rder Details:\nOrder Date: 2018-03-19\nShipped Date: 2018-03-26\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Camembert Pierrot\nQuantity: 2\nUnit Price: 34.0\nTotal: 68.0\nTotal Price:\nTotal Price: 68.0\n\n--------------------------------------------------",
+  "output": "The order was placed on March 19, 2018, and shipped on March 26, 2018. The product ordered was Camembert Pierrot, with a quantity of 2 units at a unit price of 34.0, making the total price 68.0.",
+  "summary_type": "formatted"
+}{
+  "input": "Invoice\nOrder ID: 10446\nCustomer ID: TOMSP\nOrder Date: 2017-02-14\nCustomer Details:\nContact Name:\nKarin Josephs\nAddress:\nLuisenstr. 48\nCity:\nMünster\nPostal Code:\n44087\nCountry:\nGermany\nPhone:\n0251-031259\nFax:\n0251-035695\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n19\nTeatime Chocolate Biscuits\n12\n7.3\n24\nGuaraná Fantástica\n20\n3.6\n31\nGorgonzola Telino\n3\n10.0\n52\nFilo Mix\n15\n5.6\n \n \nTotalPrice\n273.6\nPage 1\n\n--------------------------------------------------",
+  "output": "The invoice is for Order ID 10446, made by customer TOMSP (Karin Josephs) from Münster, Germany on 14th February 2017. The order includes Teatime Chocolate Biscuits (12 units), Guaraná Fantástica (20 units), Gorgonzola Telino (3 units), and Filo Mix (15 units). The total price is 273.6.",
+  "summary_type": "formatted"
+}{
+  "input": "Purchase Orders\neC\na\n\n--------------------------------------------------",
+  "output": "<NULL>",
+  "summary_type": "formatted"
+}{
+  "input": "5\nShipped Date: 2017-09-10\nProducts:\nProduct: Gorgonzola Teli\n‘Quantity: 20\nUnit Pie: 125\n\n--------------------------------------------------\nUnt Price:\n15.0\nTotal: 600.0\nTotal Price:\n‘otal Price:\n1201.6\n\n--------------------------------------------------",
+  "output": "The shipment was made on September 10, 2017. The product shipped was Gorgonzola Teli with a quantity of 20 units, each unit being 125 pies. The unit price was 15.0, making the total 600.0. The overall total price was 1201.6.",
+  "summary_type": "formatted"
+}{
+  "input": "99999999\nTotal Price:\n\n--------------------------------------------------\nTotal Price: 843.1999999999999\n\n--------------------------------------------------",
+  "output": "The total price is 843.20.",
+  "summary_type": "formatted"
+}{
+  "input": "26\nShipped Date: 2017-06-02\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Sasquatch Ale\nQuantity: 10\nUnit Price: 14.0\nTotal: 140.0\n--------------------------------------------------------------------------------------------------\nProduct: Jack's New England Clam Chowder\nQuantity: 14\nUnit Price: 9.65\nTotal: 135.1\nTotal Price:\n\n--------------------------------------------------\nTotal Price: 275.1\n\n-----------------------------",
+  "output": "On June 2, 2017, 10 units of Sasquatch Ale were shipped at a unit price of $14.0, totaling $140.0. Additionally, 14 units of Jack's New England Clam Chowder were also shipped at a unit price of $9.65, totaling $135.1. The total price for all products shipped is $275.1.",
+  "summary_type": "formatted"
+}{
+  "input": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10293\n2016-08-29\nMiguel Angel Paolino\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n18\nCarnarvon Tigers\n12\n50\n24\nGuaraná Fantástica\n10\n3.6\n63\nVegie-spread\n5\n35.1\n75\nRhönbräu Klosterbier\n6\n6.2\nPage 1\n\n--------------------------------------------------",
+  "output": "The document is a purchase order from Miguel Angel Paolino dated 2016-08-29. The order includes four products: 12 units of Carnarvon Tigers at $50 each, 10 units of Guaraná Fantástica at $3.6 each, 5 units of Vegie-spread at $35.1 each, and 6 units of Rhönbräu Klosterbier at $6.2 each. The order ID is 10293.",
+  "summary_type": "formatted"
+}{
+  "input": "e: 2017-07-01\nShipped Date: 2017-07-10\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Zaanse koeken\nQuantity: 15\nUnit Price: 9.5\nTotal: 142.5\nTotal Price:\nTotal Price: 142.5\n\n--------------------------------------------------",
+  "output": "On July 1, 2017, an order was placed for 15 units of a product called Zaanse koeken. The items were shipped on July 10, 2017. The unit price for each item was 9.5, making the total price for the order 142.5.",
+  "summary_type": "formatted"
+}{
+  "input": "n Fried Mee\n30\n14.0\n \n \nTotalPrice\n575.0\nPage 1\n\n--------------------------------------------------",
+  "output": "The text appears to be a part of a receipt or order summary. It mentions a food item called \"Fried Mee\" with a quantity of 30 and a unit price of 14.0. The total price for this order is 575.0. This is found on page 1 of the document.",
+  "summary_type": "formatted"
+}{
+  "input": "Order ID: 10811\nShipping Details:\nShip Name: LINO-Delcateses,\nShip Address: Ave.\n5 de Mayo Podamar\nShip Cy: de Margarita\nShip Region: South America\nShip Postal Code: 4980\nShip Country:Venezuela\nCustomer Details:\nCustomer ID: LINOD\nCustomer Name: LINO\nDaicateses\nEmployee Details:\nEmployee Name: Laura Callahan\nShipper Details:\nShipper ID:\n1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2018.01.02\nShipped Date: 2018-01-08\nProducts:\nProduct Teaime Chocolate Biscuits\nuantiy: 15\nUnit Price:",
+  "output": "Order ID 10811 was placed by customer LINO (ID: LINOD) from LINO-Delicateses, Venezuela, on 2018.01.02 and shipped by Laura Callahan via Speedy Express (Shipper ID: 1) on 2018-01-08. The order included 15 units of Teatime Chocolate Biscuits. Shipping address is Ave. 5 de Mayo Podamar, de Margarita, South America, postal code 4980.",
+  "summary_type": "formatted"
+}{
+  "input": "Invoice\nOrder ID: 10292\nCustomer ID: TRADH\nOrder Date: 2016-08-28\nCustomer Details:\nContact Name:\nAnabela Domingues\nAddress:\nAv. Inês de Castro, 414\nCity:\nSao Paulo\nPostal Code:\n05634-030\nCountry:\nBrazil\nPhone:\n(11) 555-2167\nFax:\n(11) 555-2168\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n20\nSir Rodney's Marmalade\n20\n64.8\n \n \nTotalPrice\n1296.0\nPage 1\n\n--------------------------------------------------",
+  "output": "This is an invoice for Order ID 10292, placed by customer TRADH, Anabela Domingues, from Sao Paulo, Brazil on 2016-08-28. The order includes 20 units of Sir Rodney's Marmalade, each priced at 64.8, making a total price of 1296.0. Contact details provided include phone and fax numbers.",
+  "summary_type": "formatted"
+}{
+  "input": "Invoice\nOrder ID: 10938\nCustomer ID: QUICK\nOrder Date: 2018-03-10\nCustomer Details:\nContact Name:\nHorst Kloss\nAddress:\nTaucherstraße 10\nCity:\nCunewalde\nPostal Code:\n01307\nCountry:\nGermany\nPhone:\n0372-035188\nFax:\nNone\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n13\nKonbu\n20\n6.0\n43\nIpoh Coffee\n24\n46.0\n60\nCamembert Pierrot\n49\n34.0\n71\nFlotemysost\n35\n21.5\n \n \nTotalPrice\n3642.5\nPage 1\n\n--------------------------------------------------",
+  "output": "The text is an invoice for Order ID: 10938, made by customer QUICK on 2018-03-10. The customer, Horst Kloss, is based in Cunewalde, Germany. Four products were purchased: Konbu (20 units at $6.0 each), Ipoh Coffee (24 units at $46.0 each), Camembert Pierrot (49 units at $34.0 each), and Flotemysost (35 units at $21.5 each). The total price is $3642.5.",
+  "summary_type": "formatted"
+}{
+  "input": "Order ID: 10871\nShipping Details:\nShip Name: Bon app:\nShip Address: 12, rue des Bouchers\nShip Ciy: Marslie\nShip Region: Wester Europe\nShip Postal Code: 13008\nShip Country: France\nCustomer Details:\n‘Customer ID: BONAP\nCustomer Name: Ban ape\nEmployee Details:\nEmployee Namo: Anne Dodsworth\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2018.02.05\nShipped Date: 2018-02-10\nProducts:\nProduct: Grandma's Boysenbery Spread\n‘Quantiy: 50\nUnit Price: 25.0\n\n-----------",
+  "output": "Order ID 10871 was placed by customer Ban ape (ID: BONAP) on 2018.02.05 and shipped by United Package (ID: 2) on 2018-02-10. The order, handled by employee Anne Dodsworth, included 50 units of Grandma's Boysenbery Spread at a unit price of $25. The shipment was sent to 12, rue des Bouchers, Marslie, Wester Europe, 13008, France.",
+  "summary_type": "formatted"
+}{
+  "input": "tal: 417.0\n--------------------------------------------------------------------------------------------------\nProduct: Gudbrandsdalsost\nQuantity: 15\n\n--------------------------------------------------\nUnit Price: 28.8\nTotal: 432.0\nTotal Price:\nTotal Price: 1050.6\n\n--------------------------------------------------",
+  "output": "The text refers to a purchase of 15 units of a product named Gudbrandsdalsost, each priced at 28.8. The total for this item is 432.0. The overall total price for all items is 1050.6. The text also mentions a separate total of 417.0, but it's unclear what this refers to.",
+  "summary_type": "formatted"
+}{
+  "input": "Invoice\nOrder ID: 10692\nCustomer ID: ALFKI\nOrder Date: 2017-10-03\nCustomer Details:\nContact Name:\nMaria Anders\nAddress:\nObere Str. 57\nCity:\nBerlin\nPostal Code:\n12209\nCountry:\nGermany\nPhone:\n030-0074321\nFax:\n030-0076545\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n63\nVegie-spread\n20\n43.9\n \n \nTotalPrice\n878.0\nPage 1\n\n--------------------------------------------------",
+  "output": "Invoice summary: Order ID 10692 was placed by customer ALFKI, Maria Anders, on 2017-10-03. The order was for 20 units of Vegie-spread (Product ID 63) at a unit price of 43.9, totaling 878.0. The order was shipped to Obere Str. 57, Berlin, 12209, Germany. Contact phone and fax are 030-0074321 and 030-0076545 respectively.",
+  "summary_type": "formatted"
+}{
+  "input": "Purchase Orders\n\n--------------------------------------------------",
+  "output": "<NULL>",
+  "summary_type": "formatted"
+}{
+  "input": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10783\n2017-12-18\nMario Pontes\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n31\nGorgonzola Telino\n10\n12.5\n38\nCôte de Blaye\n5\n263.5\nPage 1\n\n--------------------------------------------------",
+  "output": "Mario Pontes placed a purchase order (ID: 10783) on 2017-12-18. He bought 10 units of Gorgonzola Telino (Product ID: 31) at a unit price of 12.5, and 5 units of Côte de Blaye (Product ID: 38) at a unit price of 263.5.",
+  "summary_type": "formatted"
+}{
+  "input": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10437\n2017-02-05\nPirkko Koskitalo\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n53\nPerth Pasties\n15\n26.2\nPage 1\n\n--------------------------------------------------",
+  "output": "The document is a purchase order. The order, with ID 10437, was made by Pirkko Koskitalo on 2017-02-05. The product purchased was 'Perth Pasties' with a product ID of 53. 15 units of the product were ordered at a unit price of 26.2.",
+  "summary_type": "formatted"
+}{
+  "input": "--------------------------------------------------------------------------------------\nProduct: Maxilaku\nQuantity: 40\n\n--------------------------------------------------\nUnit Price: 16.0\nTotal: 640.0\nTotal Price:\nTotal Price: 1444.8000000000002\n\n--------------------------------------------------",
+  "output": "The product is Maxilaku with a quantity of 40 units. The unit price is 16.0, making the total 640.0. However, there seems to be a discrepancy as the total price is listed as 1444.8000000000002.",
+  "summary_type": "formatted"
+}{
+  "input": ".5\nTotal: 645.0\nTotal Price:\n\n--------------------------------------------------\nTotal Price: 934.5\n\n--------------------------------------------------",
+  "output": "The total quantity is 645.0 and the total price is 934.5.",
+  "summary_type": "formatted"
+}{
+  "input": "Invoice\nOrder ID: 10576\nCustomer ID: TORTU\nOrder Date: 2017-06-23\nCustomer Details:\nContact Name:\nMiguel Angel Paolino\nAddress:\nAvda. Azteca 123\nCity:\nMéxico D.F.\nPostal Code:\n05033\nCountry:\nMexico\nPhone:\n(5) 555-2933\nFax:\nNone\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n1\nChai\n10\n18.0\n31\nGorgonzola Telino\n20\n12.5\n44\nGula Malacca\n21\n19.45\n \n \nTotalPrice\n838.45\nPage 1\n\n--------------------------------------------------",
+  "output": "Order ID 10576 was placed by customer TORTU, Miguel Angel Paolino, from Mexico on 2017-06-23. The order includes 10 units of Chai at $18.0 each, 20 units of Gorgonzola Telino at $12.5 each, and 21 units of Gula Malacca at $19.45 each. The total price is $838.45.",
+  "summary_type": "formatted"
+}{
+  "input": "r Date: 2018-04-08\nShipped Date: 2018-04-13\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Northwoods Cranberry Sauce\nQuantity: 30\nUnit Price: 40.0\nTotal: 1200.0\n--------------------------------------------------------------------------------------------------\nProduct: Thüringer Rostbratwurst\nQuantity: 10\nUnit Price: 123.79\nTotal: 1237.9\n-----------------------------------------------------------------------------------------",
+  "output": "On April 8, 2018, an order was placed and shipped on April 13, 2018. The order included 30 units of Northwoods Cranberry Sauce, each priced at $40.0, totaling $1200.0. Additionally, 10 units of Thüringer Rostbratwurst were ordered, each priced at $123.79, totaling $1237.9.",
+  "summary_type": "formatted"
+}{
+  "input": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10524\n2017-05-01\nChristina Berglund\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n10\nIkura\n2\n31\n30\nNord-Ost Matjeshering\n10\n25.89\n43\nIpoh Coffee\n60\n46\n54\nTourtière\n15\n7.45\nPage 1\n\n--------------------------------------------------",
+  "output": "Christina Berglund placed an order (ID: 10524) on 2017-05-01. The order includes: 2 units of Ikura at $31 each, 10 units of Nord-Ost Matjeshering at $25.89 each, 60 units of Ipoh Coffee at $46 each, and 15 units of Tourtière at $7.45 each.",
+  "summary_type": "formatted"
+}{
+  "input": "ed Date: 2018-08-10\nProducts:\nProguet: Guarana Fantastica\n‘Quanity: 12\nUnit Pic: 4.5\n\n--------------------------------------------------\nUnit Price:\n34.0,\nTotal: 306.0\nTotal Price:\n‘otal Price: 7020\n\n--------------------------------------------------",
+  "output": "On August 10, 2018, 12 units of a product named Guarana Fantastica were sold. Each unit was priced at 4.5, with a total unit price of 34.0. The total cost for this transaction was 306.0. However, there seems to be a discrepancy as another total price listed is 7020.",
+  "summary_type": "formatted"
+}{
+  "input": "Invoice\nOrder ID: 10864\nCustomer ID: AROUT\nOrder Date: 2018-02-02\nCustomer Details:\nContact Name:\nThomas Hardy\nAddress:\n120 Hanover Sq.\nCity:\nLondon\nPostal Code:\nWA1 1DP\nCountry:\nUK\nPhone:\n(171) 555-7788\nFax:\n(171) 555-6750\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n35\nSteeleye Stout\n4\n18.0\n67\nLaughing Lumberjack Lager\n15\n14.0\n \n \nTotalPrice\n282.0\nPage 1\n\n--------------------------------------------------",
+  "output": "The invoice is for Order ID 10864, placed by customer AROUT (Thomas Hardy) on 2018-02-02. The customer's address is 120 Hanover Sq., London, UK, postal code WA1 1DP. Contact numbers are (171) 555-7788 (phone) and (171) 555-6750 (fax). The order includes 4 units of Steeleye Stout (Product ID 35) at $18.0/unit and 15 units of Laughing Lumberjack Lager (Product ID 67) at $14.0/unit. The total price is $282.0.",
+  "summary_type": "formatted"
+}{
+  "input": "-------------------------------------------------------------------------------------\nProduct: Gudbrandsdalsost\nQuantity: 20\n\n--------------------------------------------------\nUnit Price: 28.8\nTotal: 576.0\nTotal Price:\nTotal Price: 1106.4\n\n--------------------------------------------------",
+  "output": "The product is Gudbrandsdalsost with a quantity of 20. The unit price is 28.8, making the total 576.0. However, the final total price is 1106.4.",
+  "summary_type": "formatted"
+}{
+  "input": "------------------------------------------------------------------\nProduct: Wimmers gute Semmelknödel\nQuantity: 4\n\n--------------------------------------------------\nUnit Price: 33.25\nTotal: 133.0\nTotal Price:\nTotal Price: 1408.0\n\n--------------------------------------------------",
+  "output": "Product: Wimmers gute Semmelknödel, Quantity: 4, Unit Price: 33.25, Total: 133.0. The total price is 1408.0.",
+  "summary_type": "formatted"
+}{
+  "input": "Order ID: 10918\nShipping Details:\nShip Name: Bottom-Dollar Markets\nShip Address: 23 Tsawassen Blvd.\nShip City: Tsawassen\nShip Region: North America\nShip Postal Code: T2F 8M4\nShip Country: Canada\nCustomer Details:\nCustomer ID: BOTTM\nCustomer Name: Bottom-Dollar Markets\nEmployee Details:\nEmployee Name: Janet Leverling\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2018-03-02\nShipped Date: 2018-03-11\nProducts:\n-----------------------------------------------",
+  "output": "Order ID 10918 was placed by Bottom-Dollar Markets (Customer ID: BOTTM) on 2018-03-02 and shipped by Federal Shipping (Shipper ID: 3) on 2018-03-11. The order was handled by employee Janet Leverling. The shipping address is 23 Tsawassen Blvd., Tsawassen, North America, Canada, postal code T2F 8M4.",
+  "summary_type": "formatted"
+}{
+  "input": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10452\n2017-02-20\nJose Pavarotti\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n28\nRössle Sauerkraut\n15\n36.4\n44\nGula Malacca\n100\n15.5\nPage 1\n\n--------------------------------------------------",
+  "output": "The document is about a purchase order. The order ID is 10452, dated 2017-02-20, made by customer Jose Pavarotti. Two products were ordered: Rössle Sauerkraut (Product ID: 28) with a quantity of 15 at a unit price of 36.4, and Gula Malacca (Product ID: 44) with a quantity of 100 at a unit price of 15.5.",
+  "summary_type": "formatted"
+}{
+  "input": "Stock Report for 2016-09 \n Category : Seafood  \n id category : 8  \nProduct\nUnits Sold\nUnits in Stock\nUnit Price\nCarnarvon Tigers\n25\n42\n62.5\nNord-Ost Matjeshering\n10\n10\n25.89\nInlagd Sill\n52\n112\n19\nBoston Crab Meat\n50\n123\n18.4\nJack's New England Clam Chowder\n10\n85\n9.65\nEscargots de Bourgogne\n30\n62\n13.25\n\n--------------------------------------------------",
+  "output": "The stock report for September 2016 in the Seafood category (id: 8) includes: Carnarvon Tigers with 42 units in stock, sold 25 units at $62.5 each; Nord-Ost Matjeshering with 10 units in stock, sold 10 units at $25.89 each; Inlagd Sill with 112 units in stock, sold 52 units at $19 each; Boston Crab Meat with 123 units in stock, sold 50 units at $18.4 each; Jack's New England Clam Chowder with 85 units in stock, sold 10 units at $9.65 each; and Escargots de Bourgogne with 62 units in stock, sold 30 units at $13.25 each.",
+  "summary_type": "formatted"
+}{
+  "input": "3\n15.0\n \n \nTotalPrice\n2142.9\nPage 1\n\n--------------------------------------------------",
+  "output": "The text indicates a number 3 and 15.0, with no specific context provided. It also mentions a total price of 2142.9, possibly a currency amount. This information is found on page 1.",
+  "summary_type": "formatted"
+}{
+  "input": "---------------------------------------------------------------------\nProduct: Outback Lager\nQuantity: 20\n\n--------------------------------------------------\nUnit Price: 15.0\nTotal: 300.0\n--------------------------------------------------------------------------------------------------\nProduct: Flotemysost\nQuantity: 15\nUnit Price: 21.5\nTotal: 322.5\nTotal Price:\nTotal Price: 758.5\n\n--------------------------------------------------",
+  "output": "The summary includes two products. The first product is Outback Lager with a quantity of 20, a unit price of 15.0, and a total of 300.0. The second product is Flotemysost with a quantity of 15, a unit price of 21.5, and a total of 322.5. The total price for all products is 758.5.",
+  "summary_type": "formatted"
+}{
+  "input": "ed Date: 2018-05-05\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Lakkalikööri\nQuantity: 50\nUnit Price: 18.0\nTotal: 900.0\nTotal Price:\nTotal Price: 900.0\n\n--------------------------------------------------",
+  "output": "On May 5, 2018, 50 units of a product named Lakkalikööri were sold. The unit price was 18.0, making the total price 900.0.",
+  "summary_type": "formatted"
+}{
+  "input": "Stock Report for 2017-10 \n Category : Confections  \n id category : 3  \nProduct\nUnits Sold\nUnits in Stock\nUnit Price\nPavlova\n40\n29\n17.45\nTeatime Chocolate Biscuits\n24\n25\n9.2\nSir Rodney's Scones\n37\n3\n10\nGumbär Gummibärchen\n45\n15\n31.23\nZaanse koeken\n67\n36\n9.5\nChocolade\n24\n15\n12.75\nTarte au sucre\n68\n17\n49.3\nScottish Longbreads\n85\n6\n12.5\n\n--------------------------------------------------",
+  "output": "The stock report for October 2017 shows various confectionery products, their units sold, units in stock, and unit price. The products include Pavlova, Teatime Chocolate Biscuits, Sir Rodney's Scones, Gumbär Gummibärchen, Zaanse koeken, Chocolade, Tarte au sucre, and Scottish Longbreads. The units in stock range from 3 to 36, while the unit price ranges from 9.2 to 49.3. The highest selling product is the Scottish Longbreads with 85 units sold.",
+  "summary_type": "formatted"
+}{
+  "input": "'s Scones.\n87\n3\nConfections\nTarte au sucre\n68\n7\n\n--------------------------------------------------",
+  "output": "The text mentions 's Scones, a type of baked goods, with possibly related numbers 87 and 3. It also refers to Confections and Tarte au sucre (Sugar Tart), a French dessert, with possibly related numbers 68 and 7. The text lacks context to provide a meaningful summary or sensitive data.",
+  "summary_type": "formatted"
+}{
+  "input": "Order ID: 10369\nShipping Details:\nShip Name: Split Rail Beer & Ale\nShip Address: P.O. Box 555\nShip City: Lander\nShip Region: North America\nShip Postal Code: 82520\nShip Country: USA\nCustomer Details:\nCustomer ID: SPLIR\nCustomer Name: Split Rail Beer & Ale\nEmployee Details:\nEmployee Name: Laura Callahan\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2016-12-02\nShipped Date: 2016-12-09\nProducts:\n----------------------------------------------------------------",
+  "output": "Order ID 10369 was placed by Split Rail Beer & Ale (Customer ID: SPLIR) on 2016-12-02 and shipped on 2016-12-09 by United Package (Shipper ID: 2). The order was handled by employee Laura Callahan. The shipping address is P.O. Box 555, Lander, North America, USA, 82520.",
+  "summary_type": "formatted"
+}{
+  "input": "Shipped Date: 2018-01-05\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Queso Cabrales\nQuantity: 50\nUnit Price: 21.0\nTotal: 1050.0\n--------------------------------------------------------------------------------------------------\nProduct: Manjimup Dried Apples\nQuantity: 10\nUnit Price: 53.0\nTotal: 530.0\n--------------------------------------------------------------------------------------------------\nProduct: Tourtière\nQuanti",
+  "output": "On January 5, 2018, a shipment was made containing 50 units of Queso Cabrales priced at $21.0 each, totaling $1050.0, and 10 units of Manjimup Dried Apples priced at $53.0 each, totaling $530.0. The text cuts off before providing information about a product named Tourtière.",
+  "summary_type": "formatted"
+}{
+  "input": "---------------------------------------------------------------\nProduct: Nord-Ost Matjeshering\nQuantity: 40\n\n--------------------------------------------------\nUnit Price: 25.89\nTotal: 1035.6\nTotal Price:\nTotal Price: 1461.6\n\n--------------------------------------------------",
+  "output": "The product is Nord-Ost Matjeshering with a quantity of 40. The unit price is 25.89. The subtotal is 1035.6 and the total price is 1461.6.",
+  "summary_type": "formatted"
+}{
+  "input": "Order ID: 10331\nShipping Details:\nShip Name: Bon app:\nShip Address: 12, rue des Bouchers\nShip Ciy: Marslie\nShip Region: Wester Europe\nShip Postal Code: 13008\nShip Country: France\nCustomer Details:\n‘CustomerID: BONAP\nCustomer Name: Bon ape!\nEmployee Details:\nEmployee Name: Anne Dodsworth\nShipper Details:\nShipper ID:\n1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2016-10-16\nShipped Date: 2016-10-21\nProducts:\nProduct: Tourtore\n‘Quantity: 15\nUnit Price: 5.9\n\n------------------------------",
+  "output": "Order ID 10331 was placed by customer Bon ape (ID: BONAP) on 2016-10-16 and shipped by Speedy Express on 2016-10-21. The order was handled by employee Anne Dodsworth. The shipment was sent to 12, rue des Bouchers, Marslie, Wester Europe, 13008, France. The order contained 15 units of the product Tourtore, each priced at 5.9.",
+  "summary_type": "formatted"
+}{
+  "input": "49.3\n \n \nTotalPrice\n4422.0\nPage 1\n\n--------------------------------------------------",
+  "output": "The text indicates a total price of 4422.0. No further useful or sensitive information is provided.",
+  "summary_type": "formatted"
+}{
+  "input": "Shipped Date: 2017-12-31\nProducts:\nProduct: Carnarvon Tigers\n‘Quantity: 30\nUnit Pie:\n62.5,\n\n--------------------------------------------------\nUnt Price: 439\nTotal:\n1917.0\nProduct: Scotish Longbreads\n‘Quanity: 18\nUnit Price: 125\nTotal: 225.0\nTotal Price:\n‘otal Price:\n3687.0\n\n--------------------------------------------------",
+  "output": "On December 31, 2017, 30 units of Carnarvon Tigers were shipped at a unit price of 62.5, totaling 1917.0. Additionally, 18 units of Scottish Longbreads were shipped at a unit price of 125, totaling 225.0. The total price for all products shipped was 3687.0.",
+  "summary_type": "formatted"
+}{
+  "input": "Invoice\nOrder ID: 10338\nCustomer ID: OLDWO\nOrder Date: 2016-10-25\nCustomer Details:\nContact Name:\nRene Phillips\nAddress:\n2743 Bering St.\nCity:\nAnchorage\nPostal Code:\n99508\nCountry:\nUSA\nPhone:\n(907) 555-7584\nFax:\n(907) 555-2880\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n17\nAlice Mutton\n20\n31.2\n30\nNord-Ost Matjeshering\n15\n20.7\n \n \nTotalPrice\n934.5\nPage 1\n\n--------------------------------------------------",
+  "output": "The invoice is for Order ID 10338, placed by customer OLDWO, Rene Phillips, on 2016-10-25. The order includes 20 units of Alice Mutton at $31.2 each and 15 units of Nord-Ost Matjeshering at $20.7 each. The total price is $934.5. The delivery address is 2743 Bering St., Anchorage, 99508, USA. Contact numbers are (907) 555-7584 (phone) and (907) 555-2880 (fax).",
+  "summary_type": "formatted"
+}{
+  "input": "Invoice\nOrder ID: 10988\nCustomer ID: RATTC\nOrder Date: 2018-03-31\nCustomer Details:\nContact Name:\nPaula Wilson\nAddress:\n2817 Milton Dr.\nCity:\nAlbuquerque\nPostal Code:\n87110\nCountry:\nUSA\nPhone:\n(505) 555-5939\nFax:\n(505) 555-3620\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n7\nUncle Bob's Organic Dried Pears\n60\n30.0\n62\nTarte au sucre\n40\n49.3\n \n \nTotalPrice\n3772.0\nPage 1\n\n--------------------------------------------------",
+  "output": "The invoice is for Order ID 10988, placed by customer RATTC (Paula Wilson) on 2018-03-31. The order includes 60 units of Uncle Bob's Organic Dried Pears and 40 units of Tarte au sucre, priced at $30.0 and $49.3 per unit respectively. The total price is $3772.0. The delivery address is 2817 Milton Dr., Albuquerque, USA, 87110. Contact numbers are (505) 555-5939 (phone) and (505) 555-3620 (fax).",
+  "summary_type": "formatted"
+}{
+  "input": "Order ID: 10350\nShipping Details:\nShip Name: La maison d-Asie\nShip Address: 1 rue Alsace-Lorraine\nShip City: Toulouse\nShip Region: Western Europe\nShip Postal Code: 31000\nShip Country: France\nCustomer Details:\nCustomer ID: LAMAI\nCustomer Name: La maison d'Asie\nEmployee Details:\nEmployee Name: Michael Suyama\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2016-11-11\nShipped Date: 2016-12-03\nProducts:\n-----------------------------------------------------------",
+  "output": "Order ID 10350 was placed by La maison d'Asie (Customer ID: LAMAI) from Toulouse, France on 2016-11-11 and shipped by United Package (Shipper ID: 2) on 2016-12-03. The order was handled by employee Michael Suyama.",
+  "summary_type": "formatted"
+}{
+  "input": "--------------------------------------------------------------------------------------------------\nProduct: Lakkalikööri\nQuantity: 20\n\n--------------------------------------------------\nUnit Price: 18.0\nTotal: 360.0\nTotal Price:\nTotal Price: 1498.35\n\n--------------------------------------------------",
+  "output": "The product is Lakkalikööri with a quantity of 20 units. The unit price is 18.0, making the total 360.0. However, the total price listed is 1498.35.",
+  "summary_type": "formatted"
+}{
+  "input": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10544\n2017-05-21\nFran Wilson\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n28\nRössle Sauerkraut\n7\n45.6\n67\nLaughing Lumberjack Lager\n7\n14\nPage 1\n\n--------------------------------------------------",
+  "output": "The purchase order with ID 10544 was made by Fran Wilson on 2017-05-21. The order includes two products: Rössle Sauerkraut (Product ID: 28) with a quantity of 7 at a unit price of 45.6, and Laughing Lumberjack Lager (Product ID: 67) also with a quantity of 7 at a unit price of 14.",
+  "summary_type": "formatted"
+}{
+  "input": "Invoice\nOrder ID: 10699\nCustomer ID: MORGK\nOrder Date: 2017-10-09\nCustomer Details:\nContact Name:\nAlexander Feuer\nAddress:\nHeerstr. 22\nCity:\nLeipzig\nPostal Code:\n04179\nCountry:\nGermany\nPhone:\n0342-023176\nFax:\nNone\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n47\nZaanse koeken\n12\n9.5\n \n \nTotalPrice\n114.0\nPage 1\n\n--------------------------------------------------",
+  "output": "Invoice summary: Order ID 10699 was placed by customer MORGK, Alexander Feuer, on 2017-10-09. The order was shipped to Heerstr. 22, Leipzig, 04179, Germany. Contact phone number is 0342-023176. The order included 12 units of product 47, Zaanse koeken, at a unit price of 9.5. The total price of the order was 114.0.",
+  "summary_type": "formatted"
+}{
+  "input": "Ro&\nPurchase Orders\na\nes\n\n--------------------------------------------------",
+  "output": "<NULL>",
+  "summary_type": "formatted"
+}{
+  "input": "60.0\n--------------------------------------------------------------------------------------------------\nProduct: Longlife Tofu\nQuantity: 16\n\n--------------------------------------------------\nUnit Price: 8.0\nTotal: 128.0\nTotal Price:\nTotal Price: 1272.0\n\n--------------------------------------------------",
+  "output": "The product is Longlife Tofu with a quantity of 16. The unit price is 8.0, making the total for this item 128.0. The total price for all items is 1272.0.",
+  "summary_type": "formatted"
+}{
+  "input": "-------------------------------------------\nTotal Price: 1930.0\n\n--------------------------------------------------",
+  "output": "The total price is 1930.0.",
+  "summary_type": "formatted"
+}{
+  "input": "Stock Report for 2018-05 \n Category : Condiments  \n id category : 2  \nProduct\nUnits Sold\nUnits in Stock\nUnit Price\nAniseed Syrup\n4\n13\n10\nChef Anton's Cajun Seasoning\n1\n53\n22\nGrandma's Boysenberry Spread\n21\n120\n25\nNorthwoods Cranberry Sauce\n2\n6\n40\nLouisiana Hot Spiced Okra\n1\n4\n17\nOriginal Frankfurter grüne Soße\n30\n32\n13\n\n--------------------------------------------------",
+  "output": "The stock report for May 2018 in the condiments category shows six products. Aniseed Syrup sold 4 units, with 13 in stock at a price of $10. Chef Anton's Cajun Seasoning sold 1 unit, with 53 in stock at $22. Grandma's Boysenberry Spread sold 21 units, with 120 in stock at $25. Northwoods Cranberry Sauce sold 2 units, with 6 in stock at $40. Louisiana Hot Spiced Okra sold 1 unit, with 4 in stock at $17. Original Frankfurter grüne Soße sold 30 units, with 32 in stock at $13.",
+  "summary_type": "formatted"
+}{
+  "input": "Invoice\nOrder ID: 10542\nCustomer ID: KOENE\nOrder Date: 2017-05-20\nCustomer Details:\nContact Name:\nPhilip Cramer\nAddress:\nMaubelstr. 90\nCity:\nBrandenburg\nPostal Code:\n14776\nCountry:\nGermany\nPhone:\n0555-09876\nFax:\nNone\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n11\nQueso Cabrales\n15\n21.0\n54\nTourtière\n24\n7.45\n \n \nTotalPrice\n493.8\nPage 1\n\n--------------------------------------------------",
+  "output": "The invoice is for Order ID 10542, placed by customer KOENE (Philip Cramer) from Germany on 2017-05-20. The order includes 15 units of Queso Cabrales at $21.0 each and 24 units of Tourtière at $7.45 each. The total price is $493.8.",
+  "summary_type": "formatted"
+}{
+  "input": "te: 2018-03-24\nShipped Date: 2018-04-24\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Filo Mix\nQuantity: 40\nUnit Price: 7.0\nTotal: 280.0\nTotal Price:\nTotal Price: 280.0\n\n--------------------------------------------------",
+  "output": "On March 24, 2018, a product named \"Filo Mix\" was ordered. It was shipped on April 24, 2018. The quantity of the product ordered was 40 units, with a unit price of 7.0, making the total price 280.0.",
+  "summary_type": "formatted"
+}{
+  "input": "---------------------------------\nTotal Price: 160.0\n\n--------------------------------------------------",
+  "output": "The total price is 160.0.",
+  "summary_type": "formatted"
+}{
+  "input": "-----------------------------------------\nTotal Price: 713.4\n\n--------------------------------------------------",
+  "output": "The total price is 713.4.",
+  "summary_type": "formatted"
+}{
+  "input": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10700\n2017-10-10\nJose Pavarotti\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n1\nChai\n5\n18\n34\nSasquatch Ale\n12\n14\n68\nScottish Longbreads\n40\n12.5\n71\nFlotemysost\n60\n21.5\nPage 1\n\n--------------------------------------------------",
+  "output": "The document is a purchase order. Customer Jose Pavarotti placed an order (ID: 10700) on 2017-10-10. The order includes 5 units of Chai at $18 each, 12 units of Sasquatch Ale at $14 each, 40 units of Scottish Longbreads at $12.5 each, and 60 units of Flotemysost at $21.5 each.",
+  "summary_type": "formatted"
+}{
+  "input": "Invoice\nOrder ID: 10558\nCustomer ID: AROUT\nOrder Date: 2017-06-04\nCustomer Details:\nContact Name:\nThomas Hardy\nAddress:\n120 Hanover Sq.\nCity:\nLondon\nPostal Code:\nWA1 1DP\nCountry:\nUK\nPhone:\n(171) 555-7788\nFax:\n(171) 555-6750\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n47\nZaanse koeken\n25\n9.5\n51\nManjimup Dried Apples\n20\n53.0\n52\nFilo Mix\n30\n7.0\n53\nPerth Pasties\n18\n32.8\n73\nRöd Kaviar\n3\n15.0\n \n \nTotalPrice\n2142.9\nPage 1\n\n--------------------------------------------------",
+  "output": "The invoice is for Order ID 10558, placed by customer AROUT, Thomas Hardy, on 2017-06-04. The order includes five products: Zaanse koeken (25 units), Manjimup Dried Apples (20 units), Filo Mix (30 units), Perth Pasties (18 units), and Röd Kaviar (3 units). The total price is 2142.9. The delivery address is 120 Hanover Sq., London, UK, WA1 1DP. Contact numbers are (171) 555-7788 and fax (171) 555-6750.",
+  "summary_type": "formatted"
+}{
+  "input": "Ro&\nPurchase Orders\na\n\n--------------------------------------------------",
+  "output": "<NULL>",
+  "summary_type": "formatted"
+}{
+  "input": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10790\n2017-12-22\nAndré Fonseca\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n7\nUncle Bob's Organic Dried Pears\n3\n30\n56\nGnocchi di nonna Alice\n20\n38\nPage 1\n\n--------------------------------------------------",
+  "output": "André Fonseca placed an order (ID: 10790) on 2017-12-22 for two products: 3 units of Uncle Bob's Organic Dried Pears (Product ID: 7) at a unit price of 30, and 20 units of Gnocchi di nonna Alice (Product ID: 56) at a unit price of 38.",
+  "summary_type": "formatted"
+}{
+  "input": "Order ID: 11047\nShipping Details:\nShip Name: Eastern Connection\nShip Address: 35 King George\nShip City: London\nShip Region: British Isles\nShip Postal Code: WX3 6FW\nShip Country: UK\nCustomer Details:\nCustomer ID: EASTC\nCustomer Name: Eastern Connection\nEmployee Details:\nEmployee Name: Robert King\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2018-04-24\nShipped Date: 2018-05-01\nProducts:\n--------------------------------------------------------------------",
+  "output": "Order ID 11047 was shipped by Eastern Connection to 35 King George, London, UK (Postal Code: WX3 6FW). The customer, also Eastern Connection, had the order handled by employee Robert King. The shipping was done by Federal Shipping (Shipper ID: 3). The order was placed on 2018-04-24 and shipped on 2018-05-01.",
+  "summary_type": "formatted"
+}{
+  "input": "rice:\n\n--------------------------------------------------\nTotal Price: 851.0\n\n--------------------------------------------------",
+  "output": "The total price for rice is 851.0.",
+  "summary_type": "formatted"
+}{
+  "input": "ering\n35\n25.89\n36\nInlagd Sill\n20\n19.0\n \n \nTotalPrice\n5502.11\nPage 1\n\n--------------------------------------------------",
+  "output": "The text appears to be a list of items with associated numbers, possibly prices or quantities. \"Inlagd Sill\" is a type of Swedish pickled herring. The total price listed is 5502.11. The significance of the other numbers is unclear without additional context.",
+  "summary_type": "formatted"
+}{
+  "input": "-14\nShipped Date: 2017-08-19\nProducts:\nProduct: Chang\n‘Quantity: 30\nUnit Pie:\n13.0\n\n--------------------------------------------------\n‘otal Price:\n620.0\n\n--------------------------------------------------",
+  "output": "The text indicates a shipment made on August 19, 2017. The product shipped was 'Chang' with a quantity of 30 units. The unit price was 13.0, leading to a total price of 620.0.",
+  "summary_type": "formatted"
+}{
+  "input": "Order ID: 10389\nShipping Details:\nShip Name:\nBottom- Dollar Markets\nShip Address: 25 Tsawassen Bve\nShip Gy: Tsawassen\nShip Region: North America\nShip Postal Code: T2F BM\nShip County:Canada\nCustomer Details:\n‘CustomerID: BOTTM,\nCustomer Name: Btiom-Dola Markets\nEmployee Details:\nEmployee Name: Margaret Peacock\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2016-12-20\nShipped Date: 2016-12-24\nProducts:\nProguet: ura\nQuantity: 16\nUnit Pie:\n24.8,\n\n-------------",
+  "output": "Order ID 10389 was placed by Bottom-Dollar Markets (Customer ID: BOTTM) on 20th December 2016 and shipped on 24th December 2016 by United Package (Shipper ID: 2). The order was handled by employee Margaret Peacock. The shipping address is 25 Tsawassen Bve, Tsawassen, North America, with postal code T2F BM, Canada. The product ordered was 'ura' with a quantity of 16 units at a unit price of 24.8.",
+  "summary_type": "formatted"
+}{
+  "input": "Invoice\nOrder ID: 10310\nCustomer ID: THEBI\nOrder Date: 2016-09-20\nCustomer Details:\nContact Name:\nLiz Nixon\nAddress:\n89 Jefferson Way Suite 2\nCity:\nPortland\nPostal Code:\n97201\nCountry:\nUSA\nPhone:\n(503) 555-3612\nFax:\nNone\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n16\nPavlova\n10\n13.9\n62\nTarte au sucre\n5\n39.4\n \n \nTotalPrice\n336.0\nPage 1\n\n--------------------------------------------------",
+  "output": "The invoice is for Order ID 10310, placed by customer Liz Nixon (ID: THEBI) on 2016-09-20. The order includes 10 units of Pavlova at $13.9 each and 5 units of Tarte au sucre at $39.4 each. The total price is $336.0. The delivery address is 89 Jefferson Way Suite 2, Portland, 97201, USA. Contact number is (503) 555-3612.",
+  "summary_type": "formatted"
+}{
+  "input": "l: 210.5\nTotal Price:\n\n--------------------------------------------------\nTotal Price: 4666.9400000000005\n\n--------------------------------------------------",
+  "output": "The total price is 4666.94.",
+  "summary_type": "formatted"
+}{
+  "input": "Invoice\nOrder ID: 10584\nCustomer ID: BLONP\nOrder Date: 2017-06-30\nCustomer Details:\nContact Name:\nFrédérique Citeaux\nAddress:\n24, place Kléber\nCity:\nStrasbourg\nPostal Code:\n67000\nCountry:\nFrance\nPhone:\n88.60.15.31\nFax:\n88.60.15.32\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n31\nGorgonzola Telino\n50\n12.5\n \n \nTotalPrice\n625.0\nPage 1\n\n--------------------------------------------------",
+  "output": "The invoice is for Order ID 10584, placed by customer BLONP, Frédérique Citeaux, on June 30, 2017. The order is for 50 units of Gorgonzola Telino (Product ID 31) at a unit price of 12.5, totaling 625.0. The customer's contact details include an address in Strasbourg, France, postal code 67000, and phone and fax numbers 88.60.15.31 and 88.60.15.32 respectively.",
+  "summary_type": "formatted"
+}{
+  "input": "Order ID: 10532\nShipping Details:\nShip Name: Eastern Connection\nShip Address: 35 King George\nShip City: London\nShip Region: British Isles\nShip Postal Code: WX3 6FW\nShip Country: UK\nCustomer Details:\nCustomer ID: EASTC\nCustomer Name: Eastern Connection\nEmployee Details:\nEmployee Name: Robert King\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2017-05-09\nShipped Date: 2017-05-12\nProducts:\n--------------------------------------------------------------------",
+  "output": "Order ID 10532 was placed by Eastern Connection (Customer ID: EASTC) on 2017-05-09 and shipped by Federal Shipping (Shipper ID: 3) on 2017-05-12. The order was handled by employee Robert King. The shipping address is 35 King George, London, British Isles, WX3 6FW, UK.",
+  "summary_type": "formatted"
+}{
+  "input": "-----------------------------------------------------------------------------------------\nProduct: Chocolade\nQuantity: 8\n\n--------------------------------------------------\nUnit Price: 12.75\nTotal: 102.0\n--------------------------------------------------------------------------------------------------\nProduct: Sirop d'érable\nQuantity: 30\nUnit Price: 28.5\nTotal: 855.0\nTotal Price:\nTotal Price: 2070.0\n\n--------------------------------------------------",
+  "output": "The summary includes two products. The first product is \"Chocolade\" with a quantity of 8, unit price of 12.75, and total cost of 102.0. The second product is \"Sirop d'érable\" with a quantity of 30, unit price of 28.5, and total cost of 855.0. The total price for all products is 2070.0.",
+  "summary_type": "formatted"
+}{
+  "input": "diments\nChef Anton's Gumbo Mix\n4\n0\nCondiments\nGula Malacca\n74\na7\nCondiments\nLouisiana Fiery Hot.\n65\n76\nCondiments\nNorthwoods Cranberry...\n50\n6\nCondiments\nOriginal Frankfurter.\n30\n32\nCondiments\n__Sirop d'érable\n15\n113\nCondiments\n__Vegie-spread\n20\n24\nConfections\nChocolade\n24\n15\nConfections\nGumbar Gummibarchen\n45\n15\nConfections\nPavlova\n40\n29\nConfections\nScottish Longbreads\n85\n6\nConfections\nSir Rodney's Scones.\n87\n3\nConfections\nTarte au sucre\n68\n7\n\n--------------------------------------------------",
+  "output": "The text lists various food items, mostly condiments and confections. Some items include Chef Anton's Gumbo Mix, Gula Malacca, Louisiana Fiery Hot, Northwoods Cranberry, Original Frankfurter, Sirop d'érable, Vegie-spread, Chocolade, Gumbar Gummibarchen, Pavlova, Scottish Longbreads, Sir Rodney's Scones, and Tarte au sucre. Each item is followed by two numbers, possibly representing quantity or other specific data.",
+  "summary_type": "formatted"
+}{
+  "input": "Invoice\nOrder ID: 10664\nCustomer ID: FURIB\nOrder Date: 2017-09-10\nCustomer Details:\nContact Name:\nLino Rodriguez\nAddress:\nJardim das rosas n. 32\nCity:\nLisboa\nPostal Code:\n1675\nCountry:\nPortugal\nPhone:\n(1) 354-2534\nFax:\n(1) 354-2535\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n10\nIkura\n24\n31.0\n56\nGnocchi di nonna Alice\n12\n38.0\n65\nLouisiana Fiery Hot Pepper Sauce\n15\n21.05\n \n \nTotalPrice\n1515.75\nPage 1\n\n--------------------------------------------------",
+  "output": "Order ID 10664 was placed by customer FURIB, Lino Rodriguez, from Lisboa, Portugal on 2017-09-10. The order includes 24 units of Ikura at $31.0 each, 12 units of Gnocchi di nonna Alice at $38.0 each, and 15 units of Louisiana Fiery Hot Pepper Sauce at $21.05 each. The total price is $1515.75.",
+  "summary_type": "formatted"
+}{
+  "input": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10593\n2017-07-09\nRenate Messner\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n20\nSir Rodney's Marmalade\n21\n81\n69\nGudbrandsdalsost\n20\n36\n76\nLakkalikööri\n4\n18\nPage 1\n\n--------------------------------------------------",
+  "output": "The document is about purchase orders. Renate Messner placed an order (ID: 10593) on 2017-07-09. The order includes three products: Sir Rodney's Marmalade (Product ID: 20, Quantity: 21, Unit Price: 81), Gudbrandsdalsost (Product ID: 69, Quantity: 20, Unit Price: 36), and Lakkalikööri (Product ID: 76, Quantity: 4, Unit Price: 18).",
+  "summary_type": "formatted"
+}{
+  "input": "-----------------",
+  "output": "<NULL>",
+  "summary_type": "formatted"
+}{
+  "input": "Invoice\nOrder ID: 10457\nCustomer ID: KOENE\nOrder Date: 2017-02-25\nCustomer Details:\nContact Name:\nPhilip Cramer\nAddress:\nMaubelstr. 90\nCity:\nBrandenburg\nPostal Code:\n14776\nCountry:\nGermany\nPhone:\n0555-09876\nFax:\nNone\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n59\nRaclette Courdavault\n36\n44.0\n \n \nTotalPrice\n1584.0\nPage 1\n\n--------------------------------------------------",
+  "output": "Invoice Summary: Order ID 10457 was placed by customer KOENE, Philip Cramer, on 2017-02-25. The customer's address is Maubelstr. 90, Brandenburg, 14776, Germany, and the contact number is 0555-09876. The product ordered was Raclette Courdavault (Product ID: 59), with a quantity of 36 units at a unit price of 44.0. The total price of the order is 1584.0.",
+  "summary_type": "formatted"
+}{
+  "input": "Order ID: 10476\nShipping Details:\nShip Name: HILARION-Abastos\nShip Address: Carrera 22 con Ave. Carlos Soublette #8-35\nShip City: San Cristóbal\nShip Region: South America\nShip Postal Code: 5022\nShip Country: Venezuela\nCustomer Details:\nCustomer ID: HILAA\nCustomer Name: HILARION-Abastos\nEmployee Details:\nEmployee Name: Laura Callahan\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2017-03-17\nShipped Date: 2017-03-24\nProducts:\n------------------------------",
+  "output": "Order ID 10476 was placed by HILARION-Abastos (Customer ID: HILAA) on 2017-03-17 and shipped by Federal Shipping (Shipper ID: 3) on 2017-03-24. The order was handled by employee Laura Callahan. The shipment was sent to Carrera 22 con Ave. Carlos Soublette #8-35, San Cristóbal, South America, 5022, Venezuela.",
+  "summary_type": "formatted"
+}{
+  "input": "-11-04\nShipped Date: 2017-11-11\nProducts:\nProduct Nor Ost Matjeshering\nQuantiye 5\nUnit Price: 25.09\n\n--------------------------------------------------\nUnt Price: 240\nTotal: 288.0\nProduct: Camembert Pierrot\n(Quanity: 15\nUnit Price: 340,\nTotal: 510.0\nTotal Price:\n‘otal Price:\n1296.75\n\n--------------------------------------------------",
+  "output": "The text details two product shipments. The first, \"Nor Ost Matjeshering,\" was shipped on 2017-11-11 with a quantity of 5 at a unit price of 25.09, totaling 288.0. The second product, \"Camembert Pierrot,\" had a quantity of 15 with a unit price of 340, totaling 510.0. The total price for all products is 1296.75.",
+  "summary_type": "formatted"
+}{
+  "input": "Invoice\nOrder ID: 10818\nCustomer ID: MAGAA\nOrder Date: 2018-01-07\nCustomer Details:\nContact Name:\nGiovanni Rovelli\nAddress:\nVia Ludovico il Moro 22\nCity:\nBergamo\nPostal Code:\n24100\nCountry:\nItaly\nPhone:\n035-640230\nFax:\n035-640231\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n32\nMascarpone Fabioli\n20\n32.0\n41\nJack's New England Clam Chowder\n20\n9.65\n \n \nTotalPrice\n833.0\nPage 1\n\n--------------------------------------------------",
+  "output": "The text is an invoice for Order ID: 10818, placed by customer MAGAA (Giovanni Rovelli) from Bergamo, Italy on 2018-01-07. The order includes 20 units of Mascarpone Fabioli and 20 units of Jack's New England Clam Chowder, with a total price of 833.0.",
+  "summary_type": "formatted"
+}{
+  "input": "Order ID: 10263\nShipping Details:\nShip Name: Ernst Handel\nShip Address: Kirchgasse 6\nShip City: Graz\nShip Region: Western Europe\nShip Postal Code: 8010\nShip Country: Austria\nCustomer Details:\nCustomer ID: ERNSH\nCustomer Name: Ernst Handel\nEmployee Details:\nEmployee Name: Anne Dodsworth\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2016-07-23\nShipped Date: 2016-07-31\nProducts:\n------------------------------------------------------------------------------",
+  "output": "Order ID 10263 was placed by Ernst Handel (Customer ID: ERNSH) on 2016-07-23 and shipped by Federal Shipping (Shipper ID: 3) on 2016-07-31. The order was handled by employee Anne Dodsworth. The shipping address is Kirchgasse 6, Graz, Western Europe, 8010, Austria.",
+  "summary_type": "formatted"
+}{
+  "input": "er\n21\n12.0\n \n \nTotalPrice\n1746.2\nPage 1\n\n--------------------------------------------------",
+  "output": "The text appears to contain fragmented data. It mentions \"er 21 12.0\" and \"TotalPrice 1746.2\" on \"Page 1\". However, without further context, it's difficult to provide a meaningful summary.",
+  "summary_type": "formatted"
+}{
+  "input": "Order ID: 10756\nShipping Details:\nShip Name: Split Rail Beer & Ale\nShip Address: P.O. Box 555\nShip City: Lander\nShip Region: North America\nShip Postal Code: 82520\nShip Country: USA\nCustomer Details:\nCustomer ID: SPLIR\nCustomer Name: Split Rail Beer & Ale\nEmployee Details:\nEmployee Name: Laura Callahan\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2017-11-27\nShipped Date: 2017-12-02\nProducts:\n----------------------------------------------------------------",
+  "output": "Order ID 10756 was placed by Split Rail Beer & Ale (Customer ID: SPLIR) on 2017-11-27 and shipped by United Package (Shipper ID: 2) on 2017-12-02. The order was handled by employee Laura Callahan. The shipping address is P.O. Box 555, Lander, North America, 82520, USA.",
+  "summary_type": "formatted"
+}{
+  "input": "-------------------------",
+  "output": "<NULL>",
+  "summary_type": "formatted"
+}{
+  "input": "-----------------------------------------------------------------\nProduct: Longlife Tofu\nQuantity: 20\n\n--------------------------------------------------\nUnit Price: 8.0\nTotal: 160.0\nTotal Price:\nTotal Price: 1174.0\n\n--------------------------------------------------",
+  "output": "The product is Longlife Tofu with a quantity of 20 units. The unit price is 8.0, making the total for this item 160.0. The overall total price is 1174.0.",
+  "summary_type": "formatted"
+}{
+  "input": "Invoice\nOrder ID: 10623\nCustomer ID: FRANK\nOrder Date: 2017-08-07\nCustomer Details:\nContact Name:\nPeter Franken\nAddress:\nBerliner Platz 43\nCity:\nMünchen\nPostal Code:\n80805\nCountry:\nGermany\nPhone:\n089-0877310\nFax:\n089-0877451\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n14\nTofu\n21\n23.25\n19\nTeatime Chocolate Biscuits\n15\n9.2\n21\nSir Rodney's Scones\n25\n10.0\n24\nGuaraná Fantástica\n3\n4.5\n35\nSteeleye Stout\n30\n18.0\n \n \nTotalPrice\n1429.75\nPage 1\n\n--------------------------------------------",
+  "output": "The invoice is for Order ID: 10623, placed by customer FRANK (Peter Franken) from Berliner Platz 43, München, Germany, with the postal code 80805. The order was made on 2017-08-07. The products ordered include Tofu, Teatime Chocolate Biscuits, Sir Rodney's Scones, Guaraná Fantástica, and Steeleye Stout. The total price is 1429.75.",
+  "summary_type": "formatted"
+}{
+  "input": "6-11-15\nShipped Date: 2016-11-20\nProducts:\nProduct: Guarana Fantasica\n‘Quantity: 25\nUnit Price: 3.6\n\n--------------------------------------------------\n‘otal Price: 480.0\n\n--------------------------------------------------",
+  "output": "On November 20, 2016, 25 units of a product named Guarana Fantasica were shipped. The unit price for each product was 3.6, making the total price 480.0.",
+  "summary_type": "formatted"
+}{
+  "input": "95.5\nPage 1\n\n--------------------------------------------------",
+  "output": "<NULL>",
+  "summary_type": "formatted"
+}{
+  "input": "Order ID: 10623\nShipping Details:\nShip Name: Frankenversand\nShip Address: Berliner Platz 43\nShip City: München\nShip Region: Western Europe\nShip Postal Code: 80805\nShip Country: Germany\nCustomer Details:\nCustomer ID: FRANK\nCustomer Name: Frankenversand\nEmployee Details:\nEmployee Name: Laura Callahan\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2017-08-07\nShipped Date: 2017-08-12\nProducts:\n-------------------------------------------------------------------",
+  "output": "Order ID 10623 was placed by customer Frankenversand (ID: FRANK) on 2017-08-07 and shipped by United Package (ID: 2) on 2017-08-12. The order was handled by employee Laura Callahan. The shipping address is Berliner Platz 43, München, Western Europe, 80805, Germany.",
+  "summary_type": "formatted"
+}{
+  "input": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10742\n2017-11-14\nElizabeth Lincoln\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n3\nAniseed Syrup\n20\n10\n60\nCamembert Pierrot\n50\n34\n72\nMozzarella di Giovanni\n35\n34.8\nPage 1\n\n--------------------------------------------------",
+  "output": "Elizabeth Lincoln placed an order (ID: 10742) on 2017-11-14 for three products: 20 units of Aniseed Syrup (Product ID: 3) at $10 each, 50 units of Camembert Pierrot (Product ID: 60) at $34 each, and 35 units of Mozzarella di Giovanni (Product ID: 72) at $34.8 each.",
+  "summary_type": "formatted"
+}{
+  "input": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10252\n2016-07-09\nPascale Cartrain\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n20\nSir Rodney's Marmalade\n40\n64.8\n33\nGeitost\n25\n2\n60\nCamembert Pierrot\n40\n27.2\nPage 1\n\n--------------------------------------------------",
+  "output": "The document is a purchase order. Customer Pascale Cartrain placed an order (ID: 10252) on 2016-07-09. The order includes 40 units of Sir Rodney's Marmalade (Product ID: 20) at $64.8 each, 25 units of Geitost (Product ID: 33) at $2 each, and 40 units of Camembert Pierrot (Product ID: 60) at $27.2 each.",
+  "summary_type": "formatted"
+}{
+  "input": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10295\n2016-09-02\nPaul Henriot\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n56\nGnocchi di nonna Alice\n4\n30.4\nPage 1\n\n--------------------------------------------------",
+  "output": "The document is a purchase order. The order ID is 10295, dated 2016-09-02, made by a customer named Paul Henriot. The product purchased is 'Gnocchi di nonna Alice' with a product ID of 56. The quantity ordered is 4 units, each priced at 30.4.",
+  "summary_type": "formatted"
+}{
+  "input": "Invoice\nOrder ID: 10878\nCustomer ID: QUICK\nOrder Date: 2018-02-10\nCustomer Details:\nContact Name:\nHorst Kloss\nAddress:\nTaucherstraße 10\nCity:\nCunewalde\nPostal Code:\n01307\nCountry:\nGermany\nPhone:\n0372-035188\nFax:\nNone\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n20\nSir Rodney's Marmalade\n20\n81.0\n \n \nTotalPrice\n1620.0\nPage 1\n\n--------------------------------------------------",
+  "output": "Order ID 10878 was placed by customer QUICK, Horst Kloss, from Cunewalde, Germany on 2018-02-10. The order included 20 units of Sir Rodney's Marmalade at a unit price of 81.0, totaling 1620.0. The customer's contact number is 0372-035188.",
+  "summary_type": "formatted"
+}{
+  "input": "----------------------------------------------------------------------------------\nProduct: Boston Crab Meat\nQuantity: 50\n\n--------------------------------------------------\nUnit Price: 18.4\nTotal: 919.9999999999999\n--------------------------------------------------------------------------------------------------\nProduct: Rhönbräu Klosterbier\nQuantity: 15\nUnit Price: 7.75\nTotal: 116.25\nTotal Price:\nTotal Price: 1565.6499999999999\n\n--------------------------------------------------",
+  "output": "The summary includes two products. The first product is Boston Crab Meat with a quantity of 50, unit price of 18.4, and a total price of 919.99. The second product is Rhönbräu Klosterbier with a quantity of 15, unit price of 7.75, and a total price of 116.25. The total price for all products is 1565.65.",
+  "summary_type": "formatted"
+}{
+  "input": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10411\n2017-01-10\nElizabeth Lincoln\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n41\nJack's New England Clam Chowder\n25\n7.7\n44\nGula Malacca\n40\n15.5\n59\nRaclette Courdavault\n9\n44\nPage 1\n\n--------------------------------------------------",
+  "output": "Elizabeth Lincoln placed an order (ID: 10411) on 2017-01-10 for three products: 25 units of Jack's New England Clam Chowder at $7.7/unit, 40 units of Gula Malacca at $15.5/unit, and 9 units of Raclette Courdavault at $44/unit.",
+  "summary_type": "formatted"
+}{
+  "input": "Invoice\nOrder ID: 10916\nCustomer ID: RANCH\nOrder Date: 2018-02-27\nCustomer Details:\nContact Name:\nSergio Gutiérrez\nAddress:\nAv. del Libertador 900\nCity:\nBuenos Aires\nPostal Code:\n1010\nCountry:\nArgentina\nPhone:\n(1) 123-5555\nFax:\n(1) 123-5556\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n16\nPavlova\n6\n17.45\n32\nMascarpone Fabioli\n6\n32.0\n57\nRavioli Angelo\n20\n19.5\n \n \nTotalPrice\n686.7\nPage 1\n\n--------------------------------------------------",
+  "output": "The invoice is for Order ID 10916, placed by customer RANCH on 2018-02-27. The contact person is Sergio Gutiérrez, located at Av. del Libertador 900, Buenos Aires, Argentina, postal code 1010. The order includes 6 units of Pavlova at $17.45 each, 6 units of Mascarpone Fabioli at $32.00 each, and 20 units of Ravioli Angelo at $19.5 each. The total price is $686.7.",
+  "summary_type": "formatted"
+}{
+  "input": "Shipped Date: 2018-04-20\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Gumbär Gummibärchen\nQuantity: 12\nUnit Price: 31.23\nTotal: 374.76\n--------------------------------------------------------------------------------------------------\nProduct: Geitost\nQuantity: 30\nUnit Price: 2.5\nTotal: 75.0\n--------------------------------------------------------------------------------------------------\nProduct: Louisiana Fiery Hot Pepper",
+  "output": "On April 20, 2018, 12 units of Gumbär Gummibärchen were shipped at a unit price of $31.23, totaling $374.76. Additionally, 30 units of Geitost were shipped at a unit price of $2.5, totaling $75. The text also mentions a product called Louisiana Fiery Hot Pepper, but no further details are provided.",
+  "summary_type": "formatted"
+}{
+  "input": "Order ID: 10361\nShipping Details:\nShip Name: QUICK-Stop\nShip Address: Taucherstraße 10\nShip City: Cunewalde\nShip Region: Western Europe\nShip Postal Code: 1307\nShip Country: Germany\nCustomer Details:\nCustomer ID: QUICK\nCustomer Name: QUICK-Stop\nEmployee Details:\nEmployee Name: Nancy Davolio\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2016-11-22\nShipped Date: 2016-12-03\nProducts:\n----------------------------------------------------------------------------",
+  "output": "Order ID 10361 was placed by QUICK-Stop on 2016-11-22 and shipped on 2016-12-03 by United Package. The order was handled by employee Nancy Davolio. The shipping address is Taucherstraße 10, Cunewalde, Western Europe, Germany, postal code 1307.",
+  "summary_type": "formatted"
+}{
+  "input": "-----------------------------------\nTotal Price: 2160.0\n\n--------------------------------------------------",
+  "output": "The total price is 2160.0.",
+  "summary_type": "formatted"
+}{
+  "input": "Invoice\nOrder ID: 10703\nCustomer ID: FOLKO\nOrder Date: 2017-10-14\nCustomer Details:\nContact Name:\nMaria Larsson\nAddress:\nÅkergatan 24\nCity:\nBräcke\nPostal Code:\nS-844 67\nCountry:\nSweden\nPhone:\n0695-34 67 21\nFax:\nNone\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n2\nChang\n5\n19.0\n59\nRaclette Courdavault\n35\n55.0\n73\nRöd Kaviar\n35\n15.0\n \n \nTotalPrice\n2545.0\nPage 1\n\n--------------------------------------------------",
+  "output": "The invoice is for customer FOLKO (Maria Larsson) from Bräcke, Sweden. The order ID is 10703, dated 2017-10-14. Three products were purchased: 5 units of Chang at $19.0 each, 35 units of Raclette Courdavault at $55.0 each, and 35 units of Röd Kaviar at $15.0 each. The total price is $2545.0.",
+  "summary_type": "formatted"
+}{
+  "input": "Invoice\nOrder ID: 10588\nCustomer ID: QUICK\nOrder Date: 2017-07-03\nCustomer Details:\nContact Name:\nHorst Kloss\nAddress:\nTaucherstraße 10\nCity:\nCunewalde\nPostal Code:\n01307\nCountry:\nGermany\nPhone:\n0372-035188\nFax:\nNone\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n18\nCarnarvon Tigers\n40\n62.5\n42\nSingaporean Hokkien Fried Mee\n100\n14.0\n \n \nTotalPrice\n3900.0\nPage 1\n\n--------------------------------------------------",
+  "output": "The invoice is for Order ID 10588, placed by customer QUICK on 2017-07-03. The customer, Horst Kloss, is located in Cunewalde, Germany. Two products were ordered: 40 units of Carnarvon Tigers at $62.5 each, and 100 units of Singaporean Hokkien Fried Mee at $14.0 each. The total price is $3900.0.",
+  "summary_type": "formatted"
+}{
+  "input": "er Date: 2017-06-16\nShipped Date: 2017-07-11\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Gorgonzola Telino\nQuantity: 35\nUnit Price: 12.5\nTotal: 437.5\n--------------------------------------------------------------------------------------------------\nProduct: Lakkalikööri\nQuantity: 30\nUnit Price: 18.0\nTotal: 540.0\nTotal Price:\n\n--------------------------------------------------\nTotal Price: 977.5\n\n---------------------------",
+  "output": "The order was placed on 2017-06-16 and shipped on 2017-07-11. It included 35 units of Gorgonzola Telino at $12.5 each, totaling $437.5, and 30 units of Lakkalikööri at $18.0 each, totaling $540.0. The total price of the order was $977.5.",
+  "summary_type": "formatted"
+}{
+  "input": "-----------------------------------------------------\nProduct: Filo Mix\nQuantity: 10\n\n--------------------------------------------------\nUnit Price: 7.0\nTotal: 70.0\nTotal Price:\nTotal Price: 326.0\n\n--------------------------------------------------",
+  "output": "The product is Filo Mix with a quantity of 10. The unit price is 7.0, making the total for this item 70.0. The overall total price is 326.0.",
+  "summary_type": "formatted"
+}{
+  "input": "ter grüne Soße\n15\n10.4\n \n \nTotalPrice\n1119.9\nPage 1\n\n--------------------------------------------------",
+  "output": "The text refers to a green sauce (ter grüne Soße) with the numbers 15 and 10.4 possibly indicating quantities or measurements. The total price mentioned is 1119.9. This is the information on page 1.",
+  "summary_type": "formatted"
+}{
+  "input": "18-05-04\nShipped Date: 2018-05-06\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Chartreuse verte\nQuantity: 20\nUnit Price: 18.0\nTotal: 360.0\nTotal Price:\nTotal Price: 360.0\n\n--------------------------------------------------",
+  "output": "On May 6, 2018, 20 units of the product \"Chartreuse verte\" were shipped. The unit price for each product was 18.0, making the total price 360.0.",
+  "summary_type": "formatted"
+}{
+  "input": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10802\n2017-12-29\nJytte Petersen\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n30\nNord-Ost Matjeshering\n25\n25.89\n51\nManjimup Dried Apples\n30\n53\n55\nPâté chinois\n60\n24\n62\nTarte au sucre\n5\n49.3\nPage 1\n\n--------------------------------------------------",
+  "output": "The document contains purchase order details. Order ID 10802 was made by Jytte Petersen on 2017-12-29. The products ordered include Nord-Ost Matjeshering (25 units at $25.89 each), Manjimup Dried Apples (30 units), Pâté chinois (60 units), and Tarte au sucre (5 units at $49.3 each). Product IDs are 30, 51, 53, 55, 24, and 62.",
+  "summary_type": "formatted"
+}{
+  "input": "-06-03\nProducts:\nProduct: Queso Cabrales\nQuantity: 15\nUnit Pie:\n21.0,\n\n--------------------------------------------------\nUnit Price:\n21.0,\nTotal: 504.0\nProduct: Gorgonzola Telino\n‘Quanity: 20,\nUnit Price: 125\nTotal: 375.0\nProduct: Steeleye Stout\nQuanity: 6\nUnit Price:\n18.0\nTotal:\n108.0\nTotal Price:\nTotal Price:\n1546.3\n\n--------------------------------------------------",
+  "output": "On June 3, three products were purchased: Queso Cabrales (15 units at $21.0 each, total $504.0), Gorgonzola Telino (20 units at $125 each, total $375.0), and Steeleye Stout (6 units at $18.0 each, total $108.0). The total price for all products is $1546.3.",
+  "summary_type": "formatted"
+}{
+  "input": "Invoice\nOrder ID: 10713\nCustomer ID: SAVEA\nOrder Date: 2017-10-22\nCustomer Details:\nContact Name:\nJose Pavarotti\nAddress:\n187 Suffolk Ln.\nCity:\nBoise\nPostal Code:\n83720\nCountry:\nUSA\nPhone:\n(208) 555-8097\nFax:\nNone\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n10\nIkura\n18\n31.0\n26\nGumbär Gummibärchen\n30\n31.23\n45\nRogede sild\n110\n9.5\n46\nSpegesild\n24\n12.0\n \n \nTotalPrice\n2827.9\nPage 1\n\n--------------------------------------------------",
+  "output": "The invoice is for Order ID: 10713, placed by customer SAVEA (Jose Pavarotti) on 2017-10-22. The order includes 18 units of Ikura at $31.0 each, 30 units of Gumbär Gummibärchen at $31.23 each, 110 units of Rogede sild at $9.5 each, and 24 units of Spegesild at $12.0 each. The total price is $2827.9. The order will be shipped to 187 Suffolk Ln., Boise, USA, 83720. The contact phone is (208) 555-8097.",
+  "summary_type": "formatted"
+}{
+  "input": "Shipped Date: 2017-02-14\nProducts:\nProduct:\nPatéchinois\n‘Quantity: 10\nUnit Pie:\n19.2\n\n--------------------------------------------------\n‘otal Price: 480.0\n\n--------------------------------------------------",
+  "output": "The text indicates a shipment date of February 14, 2017. The product shipped was \"Patéchinois\" with a quantity of 10 units. The unit price was 19.2, resulting in a total price of 480.0.",
+  "summary_type": "formatted"
+}{
+  "input": "pped Date: 2017-05-12\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Nord-Ost Matjeshering\nQuantity: 15\nUnit Price: 25.89\nTotal: 388.35\n--------------------------------------------------------------------------------------------------\nProduct: Louisiana Hot Spiced Okra\nQuantity: 24\nUnit Price: 17.0\nTotal: 408.0\nTotal Price:\n\n--------------------------------------------------\nTotal Price: 796.35\n\n------------------------------",
+  "output": "The text is a purchase summary from 2017-05-12. Two products were bought: 15 units of Nord-Ost Matjeshering at $25.89 each, totaling $388.35, and 24 units of Louisiana Hot Spiced Okra at $17.00 each, totaling $408.00. The total purchase price is $796.35.",
+  "summary_type": "formatted"
+}{
+  "input": ": 2018-02-13\nShipped Date: 2018-02-16\nProducts:\nProduct: NuNuCa NuS-Nougat-Creme\n‘Quantity:\nUnit Pie:\n14.0,\n\n--------------------------------------------------",
+  "output": "The text indicates a transaction that occurred on February 13, 2018, with the shipped date being February 16, 2018. The product involved in this transaction is NuNuCa NuS-Nougat-Creme, with a unit quantity of 14.0.",
+  "summary_type": "formatted"
+}{
+  "input": "te: 2017-06-12\nShipped Date: 2017-06-18\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Queso Cabrales\nQuantity: 35\nUnit Price: 21.0\nTotal: 735.0\n--------------------------------------------------------------------------------------------------\nProduct: Carnarvon Tigers\nQuantity: 18\nUnit Price: 62.5\nTotal: 1125.0\n--------------------------------------------------------------------------------------------------\nProduct: Lakkali",
+  "output": "On June 12, 2017, an order was placed and shipped on June 18, 2017. The order included 35 units of Queso Cabrales at a unit price of 21.0 (totaling 735.0), and 18 units of Carnarvon Tigers at a unit price of 62.5 (totaling 1125.0). The product 'Lakkali' was also mentioned but without any further details.",
+  "summary_type": "formatted"
+}{
+  "input": "Invoice\nOrder ID: 10802\nCustomer ID: SIMOB\nOrder Date: 2017-12-29\nCustomer Details:\nContact Name:\nJytte Petersen\nAddress:\nVinbæltet 34\nCity:\nKobenhavn\nPostal Code:\n1734\nCountry:\nDenmark\nPhone:\n31 12 34 56\nFax:\n31 13 35 57\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n30\nNord-Ost Matjeshering\n25\n25.89\n51\nManjimup Dried Apples\n30\n53.0\n55\nPâté chinois\n60\n24.0\n62\nTarte au sucre\n5\n49.3\n \n \nTotalPrice\n3923.75\nPage 1\n\n--------------------------------------------------",
+  "output": "Order ID 10802 was placed by customer SIMOB, Jytte Petersen, from Denmark on 2017-12-29. The order includes 25 units of Nord-Ost Matjeshering at $25.89 each, 30 units of Manjimup Dried Apples at $53.00 each, 60 units of Pâté chinois at $24.00 each, and 5 units of Tarte au sucre at $49.3 each. The total price is $3923.75.",
+  "summary_type": "formatted"
+}{
+  "input": "----------------------------------------\nTotal Price: 945.0\n\n--------------------------------------------------",
+  "output": "The total price is 945.0.",
+  "summary_type": "formatted"
+}{
+  "input": "8-03-20\nShipped Date: 2018-03-24\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Carnarvon Tigers\nQuantity: 6\nUnit Price: 62.5\nTotal: 375.0\n--------------------------------------------------------------------------------------------------\nProduct: Côte de Blaye\nQuantity: 5\nUnit Price: 263.5\nTotal: 1317.5\n--------------------------------------------------------------------------------------------------\nProduct: Gudbrandsdalsost",
+  "output": "On March 24, 2018, three products were shipped: 6 units of Carnarvon Tigers at $62.5 each, totaling $375; 5 units of Côte de Blaye at $263.5 each, totaling $1317.5; and an unspecified quantity of Gudbrandsdalsost.",
+  "summary_type": "formatted"
+}{
+  "input": "----------",
+  "output": "<NULL>",
+  "summary_type": "formatted"
+}{
+  "input": "999999998\nTotal Price:\nTotal Price: 2545.2\n\n--------------------------------------------------",
+  "output": "The total price is 2545.2.",
+  "summary_type": "formatted"
+}{
+  "input": "---------------------------------\nTotal Price: 245.0\n\n--------------------------------------------------",
+  "output": "The total price is 245.0.",
+  "summary_type": "formatted"
+}{
+  "input": "Shipped Date: 2016-10-04\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Jack's New England Clam Chowder\nQuantity: 20\nUnit Price: 7.7\nTotal: 154.0\n--------------------------------------------------------------------------------------------------\nProduct: Lakkalikööri\nQuantity: 6\nUnit Price: 14.4\nTotal: 86.4\nTotal Price:\n\n--------------------------------------------------\nTotal Price: 240.4\n\n-----------------------------------",
+  "output": "The shipment made on October 4, 2016, included 20 units of Jack's New England Clam Chowder, priced at $7.7 each, totaling $154.0. Additionally, 6 units of Lakkalikööri were shipped, each priced at $14.4, amounting to $86.4. The total price of the shipment was $240.4.",
+  "summary_type": "formatted"
+}{
+  "input": "--------------------------------------------------------\nProduct: Tunnbröd\nQuantity: 50\n\n--------------------------------------------------\nUnit Price: 9.0\nTotal: 450.0\n--------------------------------------------------------------------------------------------------\nProduct: Scottish Longbreads\nQuantity: 20\nUnit Price: 12.5\nTotal: 250.0\nTotal Price:\nTotal Price: 1630.0\n\n--------------------------------------------------",
+  "output": "The text lists two products: Tunnbröd with a quantity of 50, unit price of 9.0, and total cost of 450.0; and Scottish Longbreads with a quantity of 20, unit price of 12.5, and total cost of 250.0. The total price for all items is 1630.0.",
+  "summary_type": "formatted"
+}{
+  "input": "Invoice\nOrder ID: 10634\nCustomer ID: FOLIG\nOrder Date: 2017-08-15\nCustomer Details:\nContact Name:\nMartine Rancé\nAddress:\n184, chaussée de Tournai\nCity:\nLille\nPostal Code:\n59000\nCountry:\nFrance\nPhone:\n20.16.10.16\nFax:\n20.16.10.17\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n7\nUncle Bob's Organic Dried Pears\n35\n30.0\n18\nCarnarvon Tigers\n50\n62.5\n51\nManjimup Dried Apples\n15\n53.0\n75\nRhönbräu Klosterbier\n2\n7.75\n \n \nTotalPrice\n4985.5\nPage 1\n\n----------------------------------------------",
+  "output": "Order ID 10634 was placed by customer FOLIG, Martine Rancé, from Lille, France on 2017-08-15. The order includes 35 units of Uncle Bob's Organic Dried Pears, 50 units of Carnarvon Tigers, 15 units of Manjimup Dried Apples, and 2 units of Rhönbräu Klosterbier. The total price is 4985.5.",
+  "summary_type": "formatted"
+}{
+  "input": "Invoice\nOrder ID: 10698\nCustomer ID: ERNSH\nOrder Date: 2017-10-09\nCustomer Details:\nContact Name:\nRoland Mendel\nAddress:\nKirchgasse 6\nCity:\nGraz\nPostal Code:\n8010\nCountry:\nAustria\nPhone:\n7675-3425\nFax:\n7675-3426\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n11\nQueso Cabrales\n15\n21.0\n17\nAlice Mutton\n8\n39.0\n29\nThüringer Rostbratwurst\n12\n123.79\n65\nLouisiana Fiery Hot Pepper Sauce\n65\n21.05\n70\nOutback Lager\n8\n15.0\n \n \nTotalPrice\n3600.73\nPage 1\n\n-----------------------------------------",
+  "output": "The invoice with Order ID: 10698 is for customer ERNSH, Roland Mendel, from Graz, Austria. The order was placed on 2017-10-09 and includes five products: Queso Cabrales, Alice Mutton, Thüringer Rostbratwurst, Louisiana Fiery Hot Pepper Sauce, and Outback Lager. The total price is 3600.73.",
+  "summary_type": "formatted"
+}{
+  "input": "Order ID: 10607\nShipping Details:\nShip Name: Save-a-lot Markets\nShip Address: 187 Suffolk Ln.\nShip City: Boise\nShip Region: North America\nShip Postal Code: 83720\nShip Country: USA\nCustomer Details:\nCustomer ID: SAVEA\nCustomer Name: Save-a-lot Markets\nEmployee Details:\nEmployee Name: Steven Buchanan\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2017-07-22\nShipped Date: 2017-07-25\nProducts:\n-------------------------------------------------------------------",
+  "output": "Order ID 10607 was placed by Save-a-lot Markets (Customer ID: SAVEA) on 2017-07-22 and shipped on 2017-07-25 by Speedy Express (Shipper ID: 1). The shipping address is 187 Suffolk Ln., Boise, North America, 83720, USA. The employee handling the order was Steven Buchanan.",
+  "summary_type": "formatted"
+}{
+  "input": "Purchase Orders\n\n--------------------------------------------------",
+  "output": "<NULL>",
+  "summary_type": "formatted"
+}{
+  "input": "Order ID: 10611\nShipping Details:\nShip Name: Wolski Zajazd\nShip Address: ul. Filtrowa 68\nShip City: Warszawa\nShip Region: Eastern Europe\nShip Postal Code: 01-012\nShip Country: Poland\nCustomer Details:\nCustomer ID: WOLZA\nCustomer Name: Wolski Zajazd\nEmployee Details:\nEmployee Name: Michael Suyama\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2017-07-25\nShipped Date: 2017-08-01\nProducts:\n----------------------------------------------------------------------",
+  "output": "Order ID 10611 was placed by customer Wolski Zajazd (ID: WOLZA) from Warszawa, Poland on 2017-07-25 and shipped by United Package (Shipper ID: 2) on 2017-08-01. The order was handled by employee Michael Suyama.",
+  "summary_type": "formatted"
+}{
+  "input": "Invoice\nOrder ID: 10335\nCustomer ID: HUNGO\nOrder Date: 2016-10-22\nCustomer Details:\nContact Name:\nPatricia McKenna\nAddress:\n8 Johnstown Road\nCity:\nCork\nPostal Code:\nNone\nCountry:\nIreland\nPhone:\n2967 542\nFax:\n2967 3333\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n2\nChang\n7\n15.2\n31\nGorgonzola Telino\n25\n10.0\n32\nMascarpone Fabioli\n6\n25.6\n51\nManjimup Dried Apples\n48\n42.4\n \n \nTotalPrice\n2545.2\nPage 1\n\n--------------------------------------------------",
+  "output": "The invoice is for Order ID: 10335, placed by customer HUNGO on 2016-10-22. The customer, Patricia McKenna, is located at 8 Johnstown Road, Cork, Ireland. The order includes 7 units of Chang at $15.2 each, 25 units of Gorgonzola Telino at $10 each, 6 units of Mascarpone Fabioli at $25.6 each, and 48 units of Manjimup Dried Apples at $42.4 each. The total price is $2545.2.",
+  "summary_type": "formatted"
+}{
+  "input": "ate: 2017-02-05\nShipped Date: 2017-02-11\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Spegesild\nQuantity: 5\nUnit Price: 9.6\nTotal: 48.0\n--------------------------------------------------------------------------------------------------\nProduct: Gnocchi di nonna Alice\nQuantity: 40\nUnit Price: 30.4\nTotal: 1216.0\n--------------------------------------------------------------------------------------------------\nProduct: Wimmers",
+  "output": "On February 5, 2017, an order was placed and shipped on February 11, 2017. The order included 5 units of Spegesild at a unit price of 9.6 (total 48.0), and 40 units of Gnocchi di nonna Alice at a unit price of 30.4 (total 1216.0). The text ends before the details for the product \"Wimmers\" are provided.",
+  "summary_type": "formatted"
+}{
+  "input": "Price: 14.0\nTotal: 70.0\n--------------------------------------------------------------------------------------------------\nProduct: Camembert Pierrot\nQuantity: 10\n\n--------------------------------------------------\nUnit Price: 34.0\nTotal: 340.0\nTotal Price:\nTotal Price: 479.75\n\n--------------------------------------------------",
+  "output": "The text provides transaction details for a product named 'Camembert Pierrot'. The quantity purchased is 10 units at a unit price of 34.0, totaling 340.0. However, the final total price is 479.75. The text also mentions another price of 14.0 and a total of 70.0, but the context or relation to the product is not clear.",
+  "summary_type": "formatted"
+}{
+  "input": "Invoice\nOrder ID: 10376\nCustomer ID: MEREP\nOrder Date: 2016-12-09\nCustomer Details:\nContact Name:\nJean Fresnière\nAddress:\n43 rue St. Laurent\nCity:\nMontréal\nPostal Code:\nH1J 1C3\nCountry:\nCanada\nPhone:\n(514) 555-8054\nFax:\n(514) 555-8055\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n31\nGorgonzola Telino\n42\n10.0\n \n \nTotalPrice\n420.0\nPage 1\n\n--------------------------------------------------",
+  "output": "The invoice is for Order ID: 10376, placed by customer ID: MEREP, Jean Fresnière, on 2016-12-09. The customer's address is 43 rue St. Laurent, Montréal, Canada, H1J 1C3. Contact numbers are (514) 555-8054 (phone) and (514) 555-8055 (fax). The order includes 42 units of Gorgonzola Telino (Product ID: 31) at a unit price of 10.0, making a total price of 420.0.",
+  "summary_type": "formatted"
+}{
+  "input": "er Details:\nOrder Date: 2018-02-02\nShipped Date: 2018-02-17\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Chai\nQuantity: 20\nUnit Price: 18.0\nTotal: 360.0\n--------------------------------------------------------------------------------------------------\nProduct: Escargots de Bourgogne\nQuantity: 12\nUnit Price: 13.25\nTotal: 159.0\nTotal Price:\n\n--------------------------------------------------\nTotal Price: 519.0\n\n--------------",
+  "output": "The order was placed on February 2, 2018, and shipped on February 17, 2018. It included 20 units of Chai at $18.0 each, totaling $360.0, and 12 units of Escargots de Bourgogne at $13.25 each, totaling $159.0. The total price of the order was $519.0.",
+  "summary_type": "formatted"
+}{
+  "input": "Purchase Orders\n\n--------------------------------------------------",
+  "output": "<NULL>",
+  "summary_type": "formatted"
+}{
+  "input": "Stock Report for 2017-10 \n Category : Grains/Cereals  \n id category : 5  \nProduct\nUnits Sold\nUnits in Stock\nUnit Price\nFilo Mix\n4\n38\n7\nGnocchi di nonna Alice\n68\n21\n38\nRavioli Angelo\n40\n36\n19.5\n\n--------------------------------------------------",
+  "output": "The stock report for October 2017 in the Grains/Cereals category (id 5) shows three products: Filo Mix with 4 units sold, 38 in stock, priced at 7 per unit; Gnocchi di nonna Alice with 68 units sold, 21 in stock, priced at 38 per unit; and Ravioli Angelo with 40 units sold, 36 in stock, priced at 19.5 per unit.",
+  "summary_type": "formatted"
+}{
+  "input": "Purchase Orders\n\n--------------------------------------------------",
+  "output": "<NULL>",
+  "summary_type": "formatted"
+}{
+  "input": "Order ID: 10636\nShipping Details:\nShip Name: Wartian Herkku\nShip Address: Tokatu 38\nShip Gy: Oulu\nShip Region: Scandinavia\nShip Postal Code: 90110\nShip Country: Finland\nCustomer Details:\n‘CustomerID: WARTH\n‘Customer Name:\nWarian Herkku\nEmployee Details:\nEmployee Name: Margaret Peacock\nShipper Details:\nShipper ID:\n1\nShipper Name: Speedy Express\nOrder Details:\n(Order Date: 2017-08-19\nShipped Date: 2017-08-26\nProducts:\nProduct: Chef Anton's Cajun Seasoning\n‘Quantity: 25\nUnit Pie: 22.0\n\n------------",
+  "output": "Order ID 10636 was shipped to Wartian Herkku at Tokatu 38, Oulu, Scandinavia, Finland, postal code 90110. The customer ID is WARTH. The order was handled by employee Margaret Peacock and shipped by Speedy Express (Shipper ID: 1). The order, placed on 2017-08-19 and shipped on 2017-08-26, included 25 units of Chef Anton's Cajun Seasoning, each priced at 22.0.",
+  "summary_type": "formatted"
+}{
+  "input": "Order ID: 10905\nShipping Details:\nShip Name: Wellington Importadora\nShip Address: Rua do Mercado, 12\nShip City: Resende\nShip Region: South America\nShip Postal Code: 08737-363\nShip Country: Brazil\nCustomer Details:\nCustomer ID: WELLI\nCustomer Name: Wellington Importadora\nEmployee Details:\nEmployee Name: Anne Dodsworth\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2018-02-24\nShipped Date: 2018-03-06\nProducts:\n------------------------------------------------",
+  "output": "Order ID 10905 was placed by Wellington Importadora from Resende, Brazil on 2018-02-24 and shipped by United Package on 2018-03-06. The order was handled by employee Anne Dodsworth.",
+  "summary_type": "formatted"
+}{
+  "input": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10510\n2017-04-18\nJose Pavarotti\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n29\nThüringer Rostbratwurst\n36\n123.79\n75\nRhönbräu Klosterbier\n36\n7.75\nPage 1\n\n--------------------------------------------------",
+  "output": "Jose Pavarotti placed an order (ID: 10510) on 2017-04-18. The order included 36 units of Thüringer Rostbratwurst (Product ID: 29) at a unit price of 123.79, and 36 units of Rhönbräu Klosterbier (Product ID: 75) at a unit price of 7.75.",
+  "summary_type": "formatted"
+}{
+  "input": "Order ID: 10703\nShipping Details:\nShip Name: Fok och f& HB\nShip Address: Akergatan 24\nShip City: Bracke\nShip Region: Northern Europe\nShip Postal Code: 584467\nShip Country: Sweden\nCustomer Details:\n‘CustomerID: FOLKO\n‘Customer Name: Fok och 18 HB\nEmployee Details:\nEmployee Name: Michael Suyama\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2017-10-14\nShipped Date: 2017-10-20\nProducts:\nProduct: Chang\n‘Quantity:\nUnit Pie:\n18.0\n\n-------------------------------",
+  "output": "Order ID 10703 was placed by Fok och 18 HB (CustomerID: FOLKO) from Sweden on 2017-10-14 and shipped by United Package (Shipper ID: 2) on 2017-10-20. The order was handled by employee Michael Suyama. The product ordered was Chang with a unit price of 18.0. Shipping address is Akergatan 24, Bracke, Northern Europe, 584467.",
+  "summary_type": "formatted"
+}{
+  "input": "Order Details:\nOrder Date: 2017-01-09\nShipped Date: 2017-01-14\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Tofu\nQuantity: 12\nUnit Price: 18.6\nTotal: 223.20000000000002\n--------------------------------------------------------------------------------------------------\nProduct: Sir Rodney's Scones\nQuantity: 12\nUnit Price: 8.0\nTotal: 96.0\nTotal Price:\n\n--------------------------------------------------\nTotal Price: 319.2000000",
+  "output": "The order was placed on January 9, 2017, and shipped on January 14, 2017. It included 12 units of Tofu priced at 18.6 each, totaling 223.2, and 12 units of Sir Rodney's Scones priced at 8.0 each, totaling 96.0. The total price of the order was 319.2.",
+  "summary_type": "formatted"
+}{
+  "input": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n11055\n2018-04-28\nCarlos Hernández\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n24\nGuaraná Fantástica\n15\n4.5\n25\nNuNuCa Nuß-Nougat-Creme\n15\n14\n51\nManjimup Dried Apples\n20\n53\n57\nRavioli Angelo\n20\n19.5\nPage 1\n\n--------------------------------------------------",
+  "output": "Carlos Hernández placed an order (ID: 11055) on 2018-04-28 for the following products: 15 units of Guaraná Fantástica at $4.5 each, 15 units of NuNuCa Nuß-Nougat-Creme at $14 each, 20 units of Manjimup Dried Apples at $53 each, and 20 units of Ravioli Angelo at $19.5 each.",
+  "summary_type": "formatted"
+}{
+  "input": "Stock Report for 2017-12 \n Category : Dairy Products  \n id category : 4  \nProduct\nUnits Sold\nUnits in Stock\nUnit Price\nQueso Cabrales\n85\n22\n21\nGorgonzola Telino\n149\n0\n12.5\nRaclette Courdavault\n65\n79\n55\nCamembert Pierrot\n15\n19\n34\nGudbrandsdalsost\n24\n26\n36\nFlotemysost\n28\n26\n21.5\nMozzarella di Giovanni\n40\n14\n34.8\n\n--------------------------------------------------",
+  "output": "The 2017-12 stock report for Dairy Products (category id: 4) lists seven products. Queso Cabrales sold 85 units, with 22 left in stock at a price of $21 each. Gorgonzola Telino sold out with 149 units sold at $12.5 each. Raclette Courdavault sold 65 units, 79 remain at $55 each. Camembert Pierrot sold 15 units, 19 remain at $34 each. Gudbrandsdalsost sold 24 units, 26 remain at $36 each. Flotemysost sold 28 units, 26 remain at $21.5 each. Mozzarella di Giovanni sold 40 units, 14 remain at $34.8 each.",
+  "summary_type": "formatted"
+}{
+  "input": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10738\n2017-11-12\nDominique Perrier\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n16\nPavlova\n3\n17.45\nPage 1\n\n--------------------------------------------------",
+  "output": "The document is a purchase order. The order ID is 10738, dated 2017-11-12, made by customer Dominique Perrier. The product purchased is Pavlova, with a product ID of 16. The quantity ordered is 3, with a unit price of 17.45.",
+  "summary_type": "formatted"
+}{
+  "input": "7-10-14\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Northwoods Cranberry Sauce\nQuantity: 10\nUnit Price: 40.0\nTotal: 400.0\n--------------------------------------------------------------------------------------------------\nProduct: Queso Manchego La Pastora\nQuantity: 4\nUnit Price: 38.0\nTotal: 152.0\n--------------------------------------------------------------------------------------------------\nProduct: Guaraná Fantástica\nQ",
+  "output": "On 7-10-14, three products were listed: Northwoods Cranberry Sauce with a quantity of 10, unit price of 40.0, and total of 400.0; Queso Manchego La Pastora with a quantity of 4, unit price of 38.0, and total of 152.0; and Guaraná Fantástica, but the quantity, unit price, and total for this product were not provided.",
+  "summary_type": "formatted"
+}{
+  "input": "Order ID: 10883\nShipping Details:\nShip Name: Lonesome Pine Restaurant\nShip Address: 89 Chiaroscuro Ra\nShip Gy: Portiand\nShip Region: North America\nShip Postal Code: 97219\nShip Country:USA\nCustomer Details:\n‘Customer ID: LONEP\nCustomer Name: Lanesome Pine Restaurant\nEmployee Details:\nEmployee Name: Laura Callahan\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2018-02-12\nShipped Date: 2018-02-20\nProducts:\nProduct: Guarana Fantasica\nQuanity:\nUnit Pie: 4.5",
+  "output": "Order ID 10883 was placed by Lonesome Pine Restaurant, located at 89 Chiaroscuro Ra, Portland, North America, 97219, USA. The order was handled by employee Laura Callahan and shipped via Federal Shipping (Shipper ID: 3). The order was placed on 2018-02-12 and shipped on 2018-02-20. The product ordered was Guarana Fantasica with an unspecified quantity at a unit price of 4.5.",
+  "summary_type": "formatted"
+}{
+  "input": "Invoice\nOrder ID: 10257\nCustomer ID: HILAA\nOrder Date: 2016-07-16\nCustomer Details:\nContact Name:\nCarlos Hernández\nAddress:\nCarrera 22 con Ave. Carlos Soublette #8-35\nCity:\nSan Cristóbal\nPostal Code:\n5022\nCountry:\nVenezuela\nPhone:\n(5) 555-1340\nFax:\n(5) 555-1948\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n27\nSchoggi Schokolade\n25\n35.1\n39\nChartreuse verte\n6\n14.4\n77\nOriginal Frankfurter grüne Soße\n15\n10.4\n \n \nTotalPrice\n1119.9\nPage 1\n\n-----------------------------------------------",
+  "output": "Order ID 10257 was placed by customer HILAA, Carlos Hernández, from San Cristóbal, Venezuela on 2016-07-16. The order includes 25 units of Schoggi Schokolade at $35.1 each, 6 units of Chartreuse verte at $14.4 each, and 15 units of Original Frankfurter grüne Soße at $10.4 each. The total price is $1119.9.",
+  "summary_type": "formatted"
+}{
+  "input": "Order ID: 10471\nShipping Details:\nShip Name: B-s Beverages\nShip Address: Fauntleroy Circus\nShip City: London\nShip Region: British Isles\nShip Postal Code: EC2 5NT\nShip Country: UK\nCustomer Details:\nCustomer ID: BSBEV\nCustomer Name: B's Beverages\nEmployee Details:\nEmployee Name: Andrew Fuller\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2017-03-11\nShipped Date: 2017-03-18\nProducts:\n-------------------------------------------------------------------------",
+  "output": "Order ID 10471 was placed by B's Beverages (Customer ID: BSBEV) on 2017-03-11 and shipped by Federal Shipping (Shipper ID: 3) on 2017-03-18. The order was shipped to B-s Beverages at Fauntleroy Circus, London, British Isles, EC2 5NT, UK. The employee handling the order was Andrew Fuller.",
+  "summary_type": "formatted"
+}{
+  "input": "Order ID: 10725\nShipping Details:\nShip Name: Familia Arquibaldo\nShip Address: Rua Orós, 92\nShip City: Sao Paulo\nShip Region: South America\nShip Postal Code: 05442-030\nShip Country: Brazil\nCustomer Details:\nCustomer ID: FAMIA\nCustomer Name: Familia Arquibaldo\nEmployee Details:\nEmployee Name: Margaret Peacock\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2017-10-31\nShipped Date: 2017-11-05\nProducts:\n--------------------------------------------------------",
+  "output": "Order ID 10725 was placed by Familia Arquibaldo from Sao Paulo, Brazil on 2017-10-31 and shipped by Federal Shipping on 2017-11-05. The shipping address is Rua Orós, 92, Sao Paulo, South America, 05442-030. The customer and employee details are Customer ID: FAMIA, Customer Name: Familia Arquibaldo, and Employee Name: Margaret Peacock.",
+  "summary_type": "formatted"
+}{
+  "input": "Order ID: 10377\nShipping Details:\nShip Name: Seven Seas Imports\nShip Address: 90 Wadhurst Rd.\nShip City: London\nShip Region: British Isles\nShip Postal Code: OX15 4NB\nShip Country: UK\nCustomer Details:\nCustomer ID: SEVES\nCustomer Name: Seven Seas Imports\nEmployee Details:\nEmployee Name: Nancy Davolio\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2016-12-09\nShipped Date: 2016-12-13\nProducts:\n----------------------------------------------------------------",
+  "output": "Order ID 10377 was placed by Seven Seas Imports (Customer ID: SEVES) on 2016-12-09 and shipped on 2016-12-13 by Federal Shipping (Shipper ID: 3). The order was handled by employee Nancy Davolio. The shipping address is 90 Wadhurst Rd., London, British Isles, OX15 4NB, UK.",
+  "summary_type": "formatted"
+}{
+  "input": "Order ID: 10909\nShipping Details:\nShip Name: Santé Gourmet\nShip Address: Erling Skakkes gate 78\nShip City: Stavern\nShip Region: Scandinavia\nShip Postal Code: 4110\nShip Country: Norway\nCustomer Details:\nCustomer ID: SANTG\nCustomer Name: Santé Gourmet\nEmployee Details:\nEmployee Name: Nancy Davolio\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2018-02-26\nShipped Date: 2018-03-10\nProducts:\n----------------------------------------------------------------------",
+  "output": "Order ID 10909 was placed by Santé Gourmet (Customer ID: SANTG) on 2018-02-26 and shipped by United Package (Shipper ID: 2) on 2018-03-10. The order was handled by employee Nancy Davolio. The shipping address is Erling Skakkes gate 78, Stavern, Scandinavia, 4110, Norway.",
+  "summary_type": "formatted"
+}{
+  "input": "Purchase Orders\n\n--------------------------------------------------",
+  "output": "<NULL>",
+  "summary_type": "formatted"
+}{
+  "input": "30\n26.6\n \n \nTotalPrice\n10495.6\nPage 1\n\n--------------------------------------------------",
+  "output": "The text provides numerical data, possibly related to a transaction or calculation. The specific numbers are 30, 26.6, and the total price is 10495.6. The context of these numbers is not provided, hence their exact significance is unclear.",
+  "summary_type": "formatted"
+}{
+  "input": "Invoice\nOrder ID: 10378\nCustomer ID: FOLKO\nOrder Date: 2016-12-10\nCustomer Details:\nContact Name:\nMaria Larsson\nAddress:\nÅkergatan 24\nCity:\nBräcke\nPostal Code:\nS-844 67\nCountry:\nSweden\nPhone:\n0695-34 67 21\nFax:\nNone\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n71\nFlotemysost\n6\n17.2\n \n \nTotalPrice\n103.19999999999999\nPage 1\n\n--------------------------------------------------",
+  "output": "The text is an invoice for Order ID 10378, placed by customer FOLKO on 2016-12-10. The customer's contact name is Maria Larsson, located at Åkergatan 24, Bräcke, Sweden, with postal code S-844 67. The phone number is 0695-34 67 21. The product purchased is Flotemysost (Product ID 71), with a quantity of 6 at a unit price of 17.2. The total price is approximately 103.2.",
+  "summary_type": "formatted"
+}{
+  "input": "---------------------------------------------------------------------------\nProduct: Escargots de Bourgogne\nQuantity: 20\n\n--------------------------------------------------\nUnit Price: 13.25\nTotal: 265.0\n--------------------------------------------------------------------------------------------------\nProduct: Mozzarella di Giovanni\nQuantity: 21\nUnit Price: 34.8\nTotal: 730.8\n--------------------------------------------------------------------------------------------------\nProduct: Röd Kaviar\nQua",
+  "output": "The text lists three products with their quantities and prices. The first product is \"Escargots de Bourgogne\" with a quantity of 20, unit price of 13.25, and a total of 265.0. The second product is \"Mozzarella di Giovanni\" with a quantity of 21, unit price of 34.8, and a total of 730.8. The third product is \"Röd Kaviar\", but the quantity and price details are missing.",
+  "summary_type": "formatted"
+}{
+  "input": "Stock Report for 2018-05 \n Category : Seafood  \n id category : 8  \nProduct\nUnits Sold\nUnits in Stock\nUnit Price\nIkura\n1\n31\n31\nKonbu\n14\n24\n6\nNord-Ost Matjeshering\n4\n10\n25.89\nJack's New England Clam Chowder\n64\n85\n9.65\nSpegesild\n33\n95\n12\nRöd Kaviar\n2\n101\n15\n\n--------------------------------------------------",
+  "output": "The May 2018 stock report for the seafood category shows six products. Ikura has 31 units in stock, sold 1 unit at a price of $31. Konbu sold 14 units, has 24 in stock, priced at $6. Nord-Ost Matjeshering sold 4 units, has 10 in stock, priced at $25.89. Jack's New England Clam Chowder sold 64 units, has 85 in stock, priced at $9.65. Spegesild sold 33 units, has 95 in stock, priced at $12. Röd Kaviar sold 2 units, has 101 in stock, priced at $15.",
+  "summary_type": "formatted"
+}{
+  "input": "----------------------------------------------------------------------\nProduct: Guaraná Fantástica\nQuantity: 20\n\n--------------------------------------------------\nUnit Price: 4.5\nTotal: 90.0\nTotal Price:\nTotal Price: 642.0\n\n--------------------------------------------------",
+  "output": "Product: Guaraná Fantástica. Quantity: 20 units. Unit Price: 4.5. Total for this item: 90.0. The overall total price is 642.0.",
+  "summary_type": "formatted"
+}{
+  "input": "2017-12-08\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Aniseed Syrup\nQuantity: 20\nUnit Price: 10.0\nTotal: 200.0\n--------------------------------------------------------------------------------------------------\nProduct: Chartreuse verte\nQuantity: 130\nUnit Price: 18.0\nTotal: 2340.0\nTotal Price:\n\n--------------------------------------------------\nTotal Price: 2540.0\n\n--------------------------------------------------",
+  "output": "On December 8, 2017, two products were sold. The first product, Aniseed Syrup, had a quantity of 20 with a unit price of 10.0, totaling 200.0. The second product, Chartreuse verte, had a quantity of 130 with a unit price of 18.0, totaling 2340.0. The total price for all products sold was 2540.0.",
+  "summary_type": "formatted"
+}{
+  "input": "Order ID: 10620\nShipping Details:\nShip Name: Laughing Bacchus Wine Gelars\nShip Address: 2519 Elm St\nShip Cy: Vancouver\nShip Region: North America\nShip Postal Code: V3F 2K1\nShip County:Canada\nCustomer Details:\n‘CustomerID: LAUGE\nCustomer Name: Laughing Bacchus Wine Celars\nEmployee Details:\nEmployee Name: Andrew Fuller\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\n(Order Date: 2017-08-05\nShipped Date: 2017-08-14\nProducts:\nProduct: Guarana Fantasica\n‘Quantity:\nUnit Pr",
+  "output": "Order ID 10620 was shipped to Laughing Bacchus Wine Gelars at 2519 Elm St, Vancouver, Canada, V3F 2K1. The customer is also Laughing Bacchus Wine Celars with CustomerID LAUGE. The employee handling the order was Andrew Fuller. The order was shipped by Federal Shipping (Shipper ID: 3). The order was placed on 2017-08-05 and shipped on 2017-08-14. The product ordered was Guarana Fantasica.",
+  "summary_type": "formatted"
+}{
+  "input": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10566\n2017-06-12\nFrédérique Citeaux\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n11\nQueso Cabrales\n35\n21\n18\nCarnarvon Tigers\n18\n62.5\n76\nLakkalikööri\n10\n18\nPage 1\n\n--------------------------------------------------",
+  "output": "The document is a purchase order. Order ID 10566 was made by Frédérique Citeaux on 2017-06-12. The order includes three products: 35 units of Queso Cabrales (Product ID: 11) at a unit price of 21, 18 units of Carnarvon Tigers (Product ID: 18) at a unit price of 62.5, and 10 units of Lakkalikööri (Product ID: 76) at a unit price of 18.",
+  "summary_type": "formatted"
+}{
+  "input": "Order ID: 10818\nShipping Details:\nShip Name: Magazzini Alimentar Riu\nShip Address: Via Ludovico i Moro 22\nShip Giy: Bergamo\nShip Region: Souther Europe\nShip Postal Code: 24100\nShip County: aly\nCustomer Details:\nCustomer ID: MAGA\nCustomer Name: MagazziniAimentar Riunit\nEmployee Details:\nEmployee Name: Robert King\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2018-01-07\nShipped Date: 2018-01-12\nProducts:\nProduct Mascarpone Fabio\n‘Quantity: 20\nUnit Pie: 32",
+  "output": "Order ID 10818 was placed by customer MagazziniAimentar Riunit (ID: MAGA) on 2018-01-07 and shipped by Federal Shipping (ID: 3) on 2018-01-12. The order was handled by employee Robert King. The shipment was sent to Magazzini Alimentar Riu at Via Ludovico i Moro 22, Bergamo, Southern Europe, 24100, Italy. The order included 20 units of Mascarpone Fabio, priced at 32 per unit.",
+  "summary_type": "formatted"
+}{
+  "input": "Invoice\n——\nee\na\nepee\nProduct Details:\naio reais\n[oy \ncoe\n7\nosessrconeteiten F\nee\n\n--------------------------------------------------",
+  "output": "<NULL>",
+  "summary_type": "formatted"
+}{
+  "input": "Stock Report for 2016-12 \n Category : Produce  \n id category : 7  \nProduct\nUnits Sold\nUnits in Stock\nUnit Price\nUncle Bob's Organic Dried Pears\n10\n15\n30\nTofu\n57\n35\n23.25\nRössle Sauerkraut\n26\n26\n45.6\nManjimup Dried Apples\n18\n20\n53\nLonglife Tofu\n84\n4\n10\n\n--------------------------------------------------",
+  "output": "The 2016-12 stock report for category \"Produce\" (id category: 7) lists five products. Uncle Bob's Organic Dried Pears sold 10 units, with 15 in stock at a unit price of $30. Tofu sold 57 units, with 35 in stock at $23.25 each. Rössle Sauerkraut sold 26 units, with 26 in stock at $45.6 each. Manjimup Dried Apples sold 18 units, with 20 in stock at $53 each. Longlife Tofu sold 84 units, with 4 in stock at $10 each.",
+  "summary_type": "formatted"
+}{
+  "input": "Order ID: 10768\nShipping Details:\nShip Name: Around the Horn\nShip Address: Brook Farm Stratford St. Mary\nShip City: Colchester\nShip Region: British Isles\nShip Postal Code: CO7 6JX\nShip Country: UK\nCustomer Details:\nCustomer ID: AROUT\nCustomer Name: Around the Horn\nEmployee Details:\nEmployee Name: Janet Leverling\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2017-12-08\nShipped Date: 2017-12-15\nProducts:\n-----------------------------------------------------",
+  "output": "Order ID 10768 was shipped by United Package (Shipper ID: 2) to Around the Horn in Colchester, UK (Postal Code: CO7 6JX) from Brook Farm Stratford St. Mary. The order was placed on 2017-12-08 and shipped on 2017-12-15. The employee handling the order was Janet Leverling.",
+  "summary_type": "formatted"
+}{
+  "input": "r Details:\nOrder Date: 2017-06-19\nShipped Date: 2017-06-30\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Geitost\nQuantity: 14\nUnit Price: 2.5\nTotal: 35.0\n--------------------------------------------------------------------------------------------------\nProduct: Boston Crab Meat\nQuantity: 2\nUnit Price: 18.4\nTotal: 36.8\n--------------------------------------------------------------------------------------------------\nProduct:",
+  "output": "An order was placed on 2017-06-19 and shipped on 2017-06-30. The order included 14 units of Geitost at a unit price of 2.5, totaling 35.0, and 2 units of Boston Crab Meat at a unit price of 18.4, totaling 36.8.",
+  "summary_type": "formatted"
+}{
+  "input": "lPrice\n936.0\nPage 1\n\n--------------------------------------------------",
+  "output": "<NULL>",
+  "summary_type": "formatted"
+}{
+  "input": "Purchase Orders\n\n--------------------------------------------------",
+  "output": "<NULL>",
+  "summary_type": "formatted"
+}{
+  "input": "Order ID: 10644\nShipping Details:\nShip Name: Welingtonimportadora\nShip Address: Rua do Mercado, 12\nShip Ciy: Resende\nShip Region: South America\nShip Postal Code: 08737-353\nShip County: Brazil\nCustomer Details:\n‘CustomerID: WELL\nCustomer Name: Welington importadora\nEmployee Details:\nEmployee Name: Janel Levering\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\n(Order Date: 2017-08-25\nShipped Date: 2017-08-01\nProducts:\nProduct: Carnarvon Tigers\n‘Quantity: 4\nUnit Pie: 625,",
+  "output": "Order ID 10644 was placed by Welington Importadora from Resende, Brazil on 2017-08-25 and shipped on 2017-08-01 by United Package. The order included 4 units of Carnarvon Tigers, each priced at 625. The order was handled by employee Janel Levering.",
+  "summary_type": "formatted"
+}{
+  "input": "Order ID: 10775\nShipping Details:\nShip Name: The Cracker Box\nShip Address: 55 Grizzly Peak Rd.\nShip City: Butte\nShip Region: North America\nShip Postal Code: 59801\nShip Country: USA\nCustomer Details:\nCustomer ID: THECR\nCustomer Name: The Cracker Box\nEmployee Details:\nEmployee Name: Robert King\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2017-12-12\nShipped Date: 2017-12-26\nProducts:\n-------------------------------------------------------------------------",
+  "output": "Order ID 10775 was placed by The Cracker Box (Customer ID: THECR) on 2017-12-12 and shipped by Speedy Express (Shipper ID: 1) on 2017-12-26. The order was handled by employee Robert King. The shipping address is 55 Grizzly Peak Rd., Butte, North America, 59801, USA.",
+  "summary_type": "formatted"
+}{
+  "input": "d Date: 2017-10-13\nProducts:\nProduct: Vegie-spread\n‘Quantity: 20\nUnit Pie: 43.9\n\n--------------------------------------------------",
+  "output": "On October 13, 2017, 20 units of a product called Vegie-spread were recorded. The unit price for each Vegie-spread is 43.9.",
+  "summary_type": "formatted"
+}{
+  "input": "Order ID: 10458\nShipping Details:\nShip Name: Suprêmes délices\nShip Address: Boulevard Tirou, 255\nShip City: Charleroi\nShip Region: Western Europe\nShip Postal Code: B-6000\nShip Country: Belgium\nCustomer Details:\nCustomer ID: SUPRD\nCustomer Name: Suprêmes délices\nEmployee Details:\nEmployee Name: Robert King\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2017-02-26\nShipped Date: 2017-03-04\nProducts:\n----------------------------------------------------------",
+  "output": "Order ID 10458 was placed by Suprêmes délices (Customer ID: SUPRD) on 2017-02-26 and shipped by Federal Shipping (Shipper ID: 3) on 2017-03-04. The order was shipped to Boulevard Tirou, 255, Charleroi, Western Europe, B-6000, Belgium. The employee handling the order was Robert King.",
+  "summary_type": "formatted"
+}{
+  "input": "Invoice\nOrder ID: 10732\nCustomer ID: BONAP\nOrder Date: 2017-11-06\nCustomer Details:\nContact Name:\nLaurence Lebihan\nAddress:\n12, rue des Bouchers\nCity:\nMarseille\nPostal Code:\n13008\nCountry:\nFrance\nPhone:\n91.24.45.40\nFax:\n91.24.45.41\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n76\nLakkalikööri\n20\n18.0\n \n \nTotalPrice\n360.0\nPage 1\n\n--------------------------------------------------",
+  "output": "Invoice summary: Order ID 10732 was placed by customer BONAP, Laurence Lebihan, on 2017-11-06. The order was shipped to 12, rue des Bouchers, Marseille, 13008, France. The customer's contact number is 91.24.45.40 and fax is 91.24.45.41. The product ordered was Lakkalikööri (Product ID: 76) with a quantity of 20 at a unit price of 18.0, making a total price of 360.0.",
+  "summary_type": "formatted"
+}{
+  "input": "2564.4\nPage 1\n\n--------------------------------------------------",
+  "output": "<NULL>",
+  "summary_type": "formatted"
+}{
+  "input": "---------------------------------------------------------------------------------\nProduct: Geitost\nQuantity: 14\n\n--------------------------------------------------\nUnit Price: 2.5\nTotal: 35.0\n--------------------------------------------------------------------------------------------------\nProduct: Boston Crab Meat\nQuantity: 42\nUnit Price: 18.4\nTotal: 772.8\n--------------------------------------------------------------------------------------------------\nProduct: Mozzarella di Giovanni\nQuantity:",
+  "output": "The text lists three products: Geitost, Boston Crab Meat, and Mozzarella di Giovanni. There are 14 units of Geitost priced at 2.5 each, totaling 35.0. There are 42 units of Boston Crab Meat priced at 18.4 each, totaling 772.8. The quantity and pricing information for Mozzarella di Giovanni is not provided.",
+  "summary_type": "formatted"
+}{
+  "input": "Order ID: 10262\nShipping Details:\nShip Name: Rattlesnake Canyon Grocery\nShip Address: 2817 Milton Dr.\nShip City: Albuquerque\nShip Region: North America\nShip Postal Code: 87110\nShip Country: USA\nCustomer Details:\nCustomer ID: RATTC\nCustomer Name: Rattlesnake Canyon Grocery\nEmployee Details:\nEmployee Name: Laura Callahan\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2016-07-22\nShipped Date: 2016-07-25\nProducts:\n--------------------------------------------",
+  "output": "Order ID 10262 was placed by Rattlesnake Canyon Grocery (Customer ID: RATTC) on 2016-07-22 and shipped by Federal Shipping (Shipper ID: 3) on 2016-07-25. The order was handled by employee Laura Callahan. The shipping address is 2817 Milton Dr., Albuquerque, North America, USA, postal code 87110.",
+  "summary_type": "formatted"
+}{
+  "input": "Invoice\nOrder ID: 10918\nCustomer ID: BOTTM\nOrder Date: 2018-03-02\nCustomer Details:\nContact Name:\nElizabeth Lincoln\nAddress:\n23 Tsawassen Blvd.\nCity:\nTsawassen\nPostal Code:\nT2F 8M4\nCountry:\nCanada\nPhone:\n(604) 555-4729\nFax:\n(604) 555-3745\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n1\nChai\n60\n18.0\n60\nCamembert Pierrot\n25\n34.0\n \n \nTotalPrice\n1930.0\nPage 1\n\n--------------------------------------------------",
+  "output": "Invoice summary: Order ID 10918 was placed by customer BOTTM (Elizabeth Lincoln) on 2018-03-02. The order, shipped to 23 Tsawassen Blvd., Tsawassen, Canada, included 60 units of Chai at $18.0/unit and 25 units of Camembert Pierrot at $34.0/unit. The total price was $1930.0. Contact phone: (604) 555-4729, Fax: (604) 555-3745.",
+  "summary_type": "formatted"
+}{
+  "input": "Order ID: 10464\nShipping Details:\nShip Name: Furia Bacalhau e Frutos do Mar\nShip Address: Jardim das rosas n. 32\nShip City: Lisboa\nShip Region: Southern Europe\nShip Postal Code: 1675\nShip Country: Portugal\nCustomer Details:\nCustomer ID: FURIB\nCustomer Name: Furia Bacalhau e Frutos do Mar\nEmployee Details:\nEmployee Name: Margaret Peacock\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2017-03-04\nShipped Date: 2017-03-14\nProducts:\n----------------------------",
+  "output": "Order ID 10464 was placed by Furia Bacalhau e Frutos do Mar from Lisboa, Portugal on 2017-03-04 and shipped by United Package on 2017-03-14. The shipping address is Jardim das rosas n. 32, Lisboa, Southern Europe, 1675. The order was handled by employee Margaret Peacock.",
+  "summary_type": "formatted"
+}{
+  "input": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10521\n2017-04-29\nPatricio Simpson\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n35\nSteeleye Stout\n3\n18\n41\nJack's New England Clam Chowder\n10\n9.65\n68\nScottish Longbreads\n6\n12.5\nPage 1\n\n--------------------------------------------------",
+  "output": "Patricio Simpson placed an order (ID: 10521) on 2017-04-29. The order includes 3 units of Steeleye Stout (Product ID: 35) at $18/unit, 10 units of Jack's New England Clam Chowder (Product ID: 41) at $9.65/unit, and 6 units of Scottish Longbreads (Product ID: 68) at $12.5/unit.",
+  "summary_type": "formatted"
+}{
+  "input": "pped Date: 2018-05-04\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Camembert Pierrot\nQuantity: 4\nUnit Price: 34.0\nTotal: 136.0\n--------------------------------------------------------------------------------------------------\nProduct: Original Frankfurter grüne Soße\nQuantity: 10\nUnit Price: 13.0\nTotal: 130.0\nTotal Price:\n\n--------------------------------------------------\nTotal Price: 266.0\n\n--------------------------------",
+  "output": "On May 4, 2018, two products were purchased. Four units of Camembert Pierrot were bought at a unit price of $34.0, totaling $136.0. Ten units of Original Frankfurter grüne Soße were bought at a unit price of $13.0, totaling $130.0. The total price for all products was $266.0.",
+  "summary_type": "formatted"
+}{
+  "input": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10690\n2017-10-02\nMario Pontes\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n56\nGnocchi di nonna Alice\n20\n38\n77\nOriginal Frankfurter grüne Soße\n30\n13\nPage 1\n\n--------------------------------------------------",
+  "output": "The document is about purchase orders. Customer Mario Pontes placed an order (ID 10690) on 2017-10-02 for two products: 20 units of 'Gnocchi di nonna Alice' (Product ID 56) at a unit price of 38, and 30 units of 'Original Frankfurter grüne Soße' (Product ID 77) at a unit price of 13.",
+  "summary_type": "formatted"
+}{
+  "input": "Order ID: 10538\nShipping Details:\nShip Name: B-s Beverages\nShip Address: Fauntleroy Circus\nShip City: London\nShip Region: British Isles\nShip Postal Code: EC2 5NT\nShip Country: UK\nCustomer Details:\nCustomer ID: BSBEV\nCustomer Name: B's Beverages\nEmployee Details:\nEmployee Name: Anne Dodsworth\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2017-05-15\nShipped Date: 2017-05-16\nProducts:\n------------------------------------------------------------------------",
+  "output": "Order ID 10538 was placed by B's Beverages (Customer ID: BSBEV) on 15th May 2017 and shipped the next day by Federal Shipping (Shipper ID: 3). The order was handled by employee Anne Dodsworth. The shipping address was Fauntleroy Circus, London, British Isles, EC2 5NT, UK.",
+  "summary_type": "formatted"
+}{
+  "input": "Order ID: 10408\nShipping Details:\nShip Name: Flies gourmandes\nShip Address: 184,chaussée\nde Tournal\nShip Cy Lile\nShip Region: Western Europe\nShip Postal Code: 59000\nShip County: France\nCustomer Details:\n‘CustomerID:\nFOLIG\nCustomer Name: Foies gourmandes\nEmployee Details:\nEmployee Name: Laura Callahan\nShipper Details:\nShipper ID:\n1\nShipper Name: Speedy Express\nOrder Details:\n(Order Date: 2017-01-08\nShipped Date: 2017-01-14\nProducts:\nProduct: Gravad lx\nQuanty: 10\nUnit Pie: 208,\n\n------------------",
+  "output": "Order ID 10408 was placed by Foies gourmandes (Customer ID: FOLIG) on 2017-01-08 and shipped by Laura Callahan via Speedy Express (Shipper ID: 1) on 2017-01-14. The order, consisting of 10 units of Gravad lx priced at 208 each, was shipped to Flies gourmandes at 184, chaussée de Tournal, Lile, Western Europe, France, postal code 59000.",
+  "summary_type": "formatted"
+}{
+  "input": "Purchase Orders\n\n--------------------------------------------------",
+  "output": "<NULL>",
+  "summary_type": "formatted"
+}{
+  "input": "Invoice\nOrder ID: 10641\nCustomer ID: HILAA\nOrder Date: 2017-08-22\nCustomer Details:\nContact Name:\nCarlos Hernández\nAddress:\nCarrera 22 con Ave. Carlos Soublette #8-35\nCity:\nSan Cristóbal\nPostal Code:\n5022\nCountry:\nVenezuela\nPhone:\n(5) 555-1340\nFax:\n(5) 555-1948\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n2\nChang\n50\n19.0\n40\nBoston Crab Meat\n60\n18.4\n \n \nTotalPrice\n2054.0\nPage 1\n\n--------------------------------------------------",
+  "output": "The invoice is for Order ID 10641, placed by customer HILAA (Carlos Hernández) on 2017-08-22. The order includes 50 units of Chang at $19.0/unit and 60 units of Boston Crab Meat at $18.4/unit, totaling $2054.0. The delivery address is Carrera 22 con Ave. Carlos Soublette #8-35, San Cristóbal, Venezuela, 5022. Contact phone is (5) 555-1340 and fax is (5) 555-1948.",
+  "summary_type": "formatted"
+}{
+  "input": "Order ID: 10727\nShipping Details:\nShip Name: Reggiani Caseifici\nShip Address: Strada Provinciale 124\nShip City: Reggio Emilia\nShip Region: Southern Europe\nShip Postal Code: 42100\nShip Country: Italy\nCustomer Details:\nCustomer ID: REGGC\nCustomer Name: Reggiani Caseifici\nEmployee Details:\nEmployee Name: Andrew Fuller\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2017-11-03\nShipped Date: 2017-12-05\nProducts:\n--------------------------------------------------",
+  "output": "Order ID 10727 was placed by Reggiani Caseifici (Customer ID: REGGC) from Reggio Emilia, Italy on 2017-11-03 and shipped by Andrew Fuller via Speedy Express (Shipper ID: 1) on 2017-12-05. The shipping address is Strada Provinciale 124, Southern Europe, postal code 42100.",
+  "summary_type": "formatted"
+}{
+  "input": "TotalPrice\n1770.8000000000002\nPage 1\n\n--------------------------------------------------",
+  "output": "The text indicates a total price of 1770.80 on page 1.",
+  "summary_type": "formatted"
+}{
+  "input": "Ro&\nPurchase Orders\nco\na oC\nee\na\n\n--------------------------------------------------",
+  "output": "<NULL>",
+  "summary_type": "formatted"
+}{
+  "input": "Purchase Orders\n\n--------------------------------------------------",
+  "output": "<NULL>",
+  "summary_type": "formatted"
+}{
+  "input": "TotalPrice\n1701.46\nPage 1\n\n--------------------------------------------------",
+  "output": "The text indicates a total price of 1701.46. This information is found on page 1.",
+  "summary_type": "formatted"
+}{
+  "input": "2\nShipped Date: 2018-08-29\nProducts:\nProduct: Queso Cabrales\n‘uanty: 10\nUnit Pic:\n21.0,\n\n--------------------------------------------------",
+  "output": "The information indicates that a product named \"Queso Cabrales\" was shipped on the date 2018-08-29. The quantity of the product shipped was 10 units. The unit price is 21.0.",
+  "summary_type": "formatted"
+}{
+  "input": "--------------------------------------------------------------------------------------------\nProduct: Maxilaku\nQuantity: 15\n\n--------------------------------------------------\nUnit Price: 16.0\nTotal: 240.0\n--------------------------------------------------------------------------------------------------\nProduct: Original Frankfurter grüne Soße\nQuantity: 10\nUnit Price: 10.4\nTotal: 104.0\nTotal Price:\nTotal Price: 2169.0\n\n--------------------------------------------------",
+  "output": "The text provides information on two products. The first product is Maxilaku with a quantity of 15, a unit price of 16.0, and a total cost of 240.0. The second product is Original Frankfurter grüne Soße with a quantity of 10, a unit price of 10.4, and a total cost of 104.0. The total price for all items is 2169.0.",
+  "summary_type": "formatted"
+}{
+  "input": "Invoice\nOrder ID: 10696\nCustomer ID: WHITC\nOrder Date: 2017-10-08\nCustomer Details:\nContact Name:\nKarl Jablonski\nAddress:\n305 - 14th Ave. S. Suite 3B\nCity:\nSeattle\nPostal Code:\n98128\nCountry:\nUSA\nPhone:\n(206) 555-4112\nFax:\n(206) 555-4115\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n17\nAlice Mutton\n20\n39.0\n46\nSpegesild\n18\n12.0\n \n \nTotalPrice\n996.0\nPage 1\n\n--------------------------------------------------",
+  "output": "Order ID 10696 was placed by customer WHITC, Karl Jablonski, on 2017-10-08. The order, delivered to 305 - 14th Ave. S. Suite 3B, Seattle, USA, 98128, includes 20 units of Alice Mutton at $39.0 each and 18 units of Spegesild at $12.0 each. The total price is $996.0. Contact phone is (206) 555-4112 and fax is (206) 555-4115.",
+  "summary_type": "formatted"
+}{
+  "input": "Purchase Orders\nee\n\n--------------------------------------------------",
+  "output": "<NULL>",
+  "summary_type": "formatted"
+}{
+  "input": "ate: 2017-04-17\nShipped Date: 2017-04-29\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Rössle Sauerkraut\nQuantity: 3\nUnit Price: 45.6\nTotal: 136.8\nTotal Price:\nTotal Price: 136.8\n\n--------------------------------------------------",
+  "output": "On April 17, 2017, an order was placed for 3 units of Rössle Sauerkraut, each priced at 45.6. The order was shipped on April 29, 2017. The total cost of the order was 136.8.",
+  "summary_type": "formatted"
+}{
+  "input": "Order ID: 10497\nShipping Details:\nShip Name: Lehmanns Markistand\nShip Address: Magazinneg7\nShip Cy: Frankiut aM\nShip Region: Wester Europe\nShip Postal Code: 60528\nShip Country:Germany\nCustomer Details:\n‘Customer ID: LEHMS\n‘Customer Name: Lohmanns Markistand\nEmployee Details:\nEmployee Name: Robert King\nShipper Details:\nShipper ID:\n1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2017-04-08\nShipped Date: 2017-08-07\nProducts:\nProguet: Gnocchi\nnonna Alice\nQuantity: 14\nUnit Pie: 30.4\n\n------",
+  "output": "Order ID 10497 was placed by Lehmanns Markistand (Customer ID: LEHMS) from Frankfurt, Germany on 2017-04-08 and shipped on 2017-08-07 by Speedy Express. The product ordered was Gnocchi nonna Alice with a quantity of 14 units at a unit price of 30.4. The order was handled by employee Robert King.",
+  "summary_type": "formatted"
+}{
+  "input": "Invoice\nOrder ID: 10834\nCustomer ID: TRADH\nOrder Date: 2018-01-15\nCustomer Details:\nContact Name:\nAnabela Domingues\nAddress:\nAv. Inês de Castro, 414\nCity:\nSao Paulo\nPostal Code:\n05634-030\nCountry:\nBrazil\nPhone:\n(11) 555-2167\nFax:\n(11) 555-2168\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n29\nThüringer Rostbratwurst\n8\n123.79\n30\nNord-Ost Matjeshering\n20\n25.89\n \n \nTotalPrice\n1508.12\nPage 1\n\n--------------------------------------------------",
+  "output": "The text is an invoice for Order ID: 10834, placed by customer Anabela Domingues from Sao Paulo, Brazil. The order, dated 2018-01-15, includes 8 units of Thüringer Rostbratwurst at $123.79 each, and 20 units of Nord-Ost Matjeshering at $25.89 each. The total price is $1508.12.",
+  "summary_type": "formatted"
+}{
+  "input": "Purchase Orders\n\n--------------------------------------------------",
+  "output": "<NULL>",
+  "summary_type": "formatted"
+}{
+  "input": "Invoice\nOrder ID: 10451\nCustomer ID: QUICK\nOrder Date: 2017-02-19\nCustomer Details:\nContact Name:\nHorst Kloss\nAddress:\nTaucherstraße 10\nCity:\nCunewalde\nPostal Code:\n01307\nCountry:\nGermany\nPhone:\n0372-035188\nFax:\nNone\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n55\nPâté chinois\n120\n19.2\n64\nWimmers gute Semmelknödel\n35\n26.6\n65\nLouisiana Fiery Hot Pepper Sauce\n28\n16.8\n77\nOriginal Frankfurter grüne Soße\n55\n10.4\n \n \nTotalPrice\n4277.4\nPage 1\n\n-------------------------------------------",
+  "output": "The invoice with Order ID: 10451 is for customer QUICK, Horst Kloss, from Cunewalde, Germany. The order was placed on 2017-02-19. The products ordered include Pâté chinois (120 units), Wimmers gute Semmelknödel (35 units), Louisiana Fiery Hot Pepper Sauce (28 units), and Original Frankfurter grüne Soße (55 units). The total price is 4277.4.",
+  "summary_type": "formatted"
+}{
+  "input": "Invoice\n——\nee\nmee fev\nProduct Details:\nais\n[oy \na\ni\n\n--------------------------------------------------",
+  "output": "<NULL>",
+  "summary_type": "formatted"
+}{
+  "input": "Date: 2017-05-12\nProducts:\nProduct:\nAlice Multon\n‘Quantity: 40\nUnit Pie:\n39.0,\n\n--------------------------------------------------\nUnit Price:\n28.5,\nTotal:570.0\nProduct:\nLakkalnon\n‘Quantity: 50\nUnit Pie:\n18.0,\n“otal 900.0\nTotal Price:\n“otal Price: 4180.0\n\n--------------------------------------------------",
+  "output": "On 2017-05-12, two products were sold. Alice Multon with a quantity of 40 units at a unit price of 39.0, totaling 570.0. The second product, Lakkalnon, had a quantity of 50 units at a unit price of 18.0, totaling 900.0. The total price for all products was 4180.0.",
+  "summary_type": "formatted"
+}{
+  "input": "Purchase Orders\n\n--------------------------------------------------",
+  "output": "<NULL>",
+  "summary_type": "formatted"
+}{
+  "input": "Sauce\n39\n21.05\n75\nRhönbräu Klosterbier\n50\n7.75\n \n \nTotalPrice\n8623.45\nPage 1\n\n--------------------------------------------------",
+  "output": "The text appears to be a list or inventory, possibly related to a product named \"Rhönbräu Klosterbier\". The numbers might represent quantities, prices, or other data. The total price is 8623.45, possibly in a currency not specified. The text is from page 1.",
+  "summary_type": "formatted"
+}{
+  "input": "Ro&\nPurchase Orders\neC\nes\nee\n\n--------------------------------------------------",
+  "output": "<NULL>",
+  "summary_type": "formatted"
+}{
+  "input": "tails:\nOrder Date: 2018-03-16\nShipped Date: 2018-03-23\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Chef Anton's Cajun Seasoning\nQuantity: 5\nUnit Price: 22.0\nTotal: 110.0\nTotal Price:\nTotal Price: 110.0\n\n--------------------------------------------------",
+  "output": "An order was placed on March 16, 2018, and shipped on March 23, 2018. The product ordered was Chef Anton's Cajun Seasoning, with a quantity of 5 units at a unit price of $22.0. The total price for the order was $110.0.",
+  "summary_type": "formatted"
+}{
+  "input": "Invoice\nOrder ID: 10987\nCustomer ID: EASTC\nOrder Date: 2018-03-31\nCustomer Details:\nContact Name:\nAnn Devon\nAddress:\n35 King George\nCity:\nLondon\nPostal Code:\nWX3 6FW\nCountry:\nUK\nPhone:\n(171) 555-0297\nFax:\n(171) 555-3373\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n7\nUncle Bob's Organic Dried Pears\n60\n30.0\n43\nIpoh Coffee\n6\n46.0\n72\nMozzarella di Giovanni\n20\n34.8\n \n \nTotalPrice\n2772.0\nPage 1\n\n--------------------------------------------------",
+  "output": "Order ID 10987 was placed by customer EASTC, Ann Devon, on 2018-03-31. The order, shipped to 35 King George, London, UK, included 60 units of Uncle Bob's Organic Dried Pears, 6 units of Ipoh Coffee, and 20 units of Mozzarella di Giovanni. The total price was 2772.0.",
+  "summary_type": "formatted"
+}{
+  "input": "Invoice\nOrder ID: 10853\nCustomer ID: BLAUS\nOrder Date: 2018-01-27\nCustomer Details:\nContact Name:\nHanna Moos\nAddress:\nForsterstr. 57\nCity:\nMannheim\nPostal Code:\n68306\nCountry:\nGermany\nPhone:\n0621-08460\nFax:\n0621-08924\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n18\nCarnarvon Tigers\n10\n62.5\n \n \nTotalPrice\n625.0\nPage 1\n\n--------------------------------------------------",
+  "output": "Invoice summary: Order ID 10853 was placed by customer BLAUS (Hanna Moos) on 2018-01-27. The order was for 10 units of Carnarvon Tigers (Product ID: 18) at a unit price of 62.5, totaling 625.0. The order was shipped to Forsterstr. 57, Mannheim, Germany, 68306. Contact phone is 0621-08460 and fax is 0621-08924.",
+  "summary_type": "formatted"
+}{
+  "input": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10895\n2018-02-18\nRoland Mendel\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n24\nGuaraná Fantástica\n110\n4.5\n39\nChartreuse verte\n45\n18\n40\nBoston Crab Meat\n91\n18.4\n60\nCamembert Pierrot\n100\n34\nPage 1\n\n--------------------------------------------------",
+  "output": "The document is a purchase order made by Roland Mendel on 2018-02-18. The order includes four products: Guaraná Fantástica (110 units at $4.5 each), Chartreuse verte (45 units at $18 each), Boston Crab Meat (91 units at $18.4 each), and Camembert Pierrot (100 units at $34 each). The order ID is 10895.",
+  "summary_type": "formatted"
+}{
+  "input": "Invoice\nOrder ID: 10595\nCustomer ID: ERNSH\nOrder Date: 2017-07-10\nCustomer Details:\nContact Name:\nRoland Mendel\nAddress:\nKirchgasse 6\nCity:\nGraz\nPostal Code:\n8010\nCountry:\nAustria\nPhone:\n7675-3425\nFax:\n7675-3426\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n35\nSteeleye Stout\n30\n18.0\n61\nSirop d'érable\n120\n28.5\n69\nGudbrandsdalsost\n65\n36.0\n \n \nTotalPrice\n6300.0\nPage 1\n\n--------------------------------------------------",
+  "output": "The invoice is for Order ID 10595, placed by customer ERNSH, Roland Mendel, on 2017-07-10. The delivery address is Kirchgasse 6, Graz, 8010, Austria. The order includes 30 units of Steeleye Stout (Product ID 35), 120 units of Sirop d'érable (Product ID 61), and 65 units of Gudbrandsdalsost (Product ID 69). The total price is 6300.0.",
+  "summary_type": "formatted"
+}{
+  "input": "Order ID: 10531\nShipping Details:\nShip Name: Océano Atlántico Ltda.\nShip Address: Ing. Gustavo Moncada 8585 Piso 20-A\nShip City: Buenos Aires\nShip Region: South America\nShip Postal Code: 1010\nShip Country: Argentina\nCustomer Details:\nCustomer ID: OCEAN\nCustomer Name: Océano Atlántico Ltda.\nEmployee Details:\nEmployee Name: Robert King\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2017-05-08\nShipped Date: 2017-05-19\nProducts:\n-------------------------------",
+  "output": "Order ID 10531 was placed by Océano Atlántico Ltda. from Buenos Aires, Argentina on 2017-05-08 and shipped by Speedy Express on 2017-05-19. The order was handled by employee Robert King.",
+  "summary_type": "formatted"
+}{
+  "input": "Invoice\nOrder ID: 10983\nCustomer ID: SAVEA\nOrder Date: 2018-03-27\nCustomer Details:\nContact Name:\nJose Pavarotti\nAddress:\n187 Suffolk Ln.\nCity:\nBoise\nPostal Code:\n83720\nCountry:\nUSA\nPhone:\n(208) 555-8097\nFax:\nNone\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n13\nKonbu\n84\n6.0\n57\nRavioli Angelo\n15\n19.5\n \n \nTotalPrice\n796.5\nPage 1\n\n--------------------------------------------------",
+  "output": "The invoice is for Order ID: 10983, placed by customer SAVEA (Jose Pavarotti) on 2018-03-27. The delivery address is 187 Suffolk Ln., Boise, USA, postal code 83720. The customer can be contacted at (208) 555-8097. The order includes 84 units of Konbu at $6.0 each and 15 units of Ravioli Angelo at $19.5 each. The total price is $796.5.",
+  "summary_type": "formatted"
+}{
+  "input": "Purchase Orders\n(|iinge Rostra\n[\n\n--------------------------------------------------",
+  "output": "<NULL>",
+  "summary_type": "formatted"
+}{
+  "input": "Shipped Date: 2017-06-18\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Guaraná Fantástica\nQuantity: 25\nUnit Price: 4.5\nTotal: 112.5\n--------------------------------------------------------------------------------------------------\nProduct: Wimmers gute Semmelknödel\nQuantity: 18\nUnit Price: 33.25\nTotal: 598.5\nTotal Price:\n\n--------------------------------------------------\nTotal Price: 711.0\n\n---------------------------------",
+  "output": "On June 18, 2017, two products were shipped. The first product is Guaraná Fantástica with a quantity of 25, each unit priced at 4.5, totaling 112.5. The second product is Wimmers gute Semmelknödel with a quantity of 18, each unit priced at 33.25, totaling 598.5. The total price for all products is 711.0.",
+  "summary_type": "formatted"
+}{
+  "input": "Order ID: 10621\nShipping Details:\nShip Name: Island Trading\nShip Address: Garden House Crowther Way\nShip City: Cowes\nShip Region: British Isles\nShip Postal Code: PO31 7PJ\nShip Country: UK\nCustomer Details:\nCustomer ID: ISLAT\nCustomer Name: Island Trading\nEmployee Details:\nEmployee Name: Margaret Peacock\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2017-08-05\nShipped Date: 2017-08-11\nProducts:\n--------------------------------------------------------------",
+  "output": "Order ID 10621 was placed by Island Trading (Customer ID: ISLAT) on 2017-08-05 and shipped by United Package (Shipper ID: 2) on 2017-08-11. The order was handled by employee Margaret Peacock. The shipping address is Garden House Crowther Way, Cowes, British Isles, PO31 7PJ, UK.",
+  "summary_type": "formatted"
+}{
+  "input": "Date: 2017-08-19\nProducts:\nProduct\nRéssle Sauerkraut\n‘Quantiy: 10\nUnit Price 45.6\n\n--------------------------------------------------\nUnit Price:\n19.45\nTotal:\n194.5\nTotal Price:\n‘otal Price:\n1399.24\n\n--------------------------------------------------",
+  "output": "On 19th August 2017, 10 units of Réssle Sauerkraut were purchased, each at a unit price of 45.6. Another product was bought at a unit price of 19.45, with a total cost of 194.5. The overall total price for all products was 1399.24.",
+  "summary_type": "formatted"
+}{
+  "input": "Purchase Orders\n\n--------------------------------------------------",
+  "output": "<NULL>",
+  "summary_type": "formatted"
+}{
+  "input": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10640\n2017-08-21\nRita Müller\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n69\nGudbrandsdalsost\n20\n36\n70\nOutback Lager\n15\n15\nPage 1\n\n--------------------------------------------------",
+  "output": "Rita Müller placed an order (ID: 10640) on August 21, 2017. She purchased 20 units of Gudbrandsdalsost (Product ID: 69) at a unit price of 36, and 15 units of Outback Lager (Product ID: 70) at a unit price of 15.",
+  "summary_type": "formatted"
+}{
+  "input": "Invoice\nOrder ID: 10877\nCustomer ID: RICAR\nOrder Date: 2018-02-09\nCustomer Details:\nContact Name:\nJanete Limeira\nAddress:\nAv. Copacabana, 267\nCity:\nRio de Janeiro\nPostal Code:\n02389-890\nCountry:\nBrazil\nPhone:\n(21) 555-3412\nFax:\nNone\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n16\nPavlova\n30\n17.45\n18\nCarnarvon Tigers\n25\n62.5\n \n \nTotalPrice\n2086.0\nPage 1\n\n--------------------------------------------------",
+  "output": "The text is an invoice for Order ID: 10877, placed by customer Janete Limeira from Rio de Janeiro, Brazil. The order, dated 2018-02-09, includes 30 units of Pavlova at $17.45 each and 25 units of Carnarvon Tigers at $62.5 each. The total price is $2086.00.",
+  "summary_type": "formatted"
+}{
+  "input": "--------------------------",
+  "output": "<NULL>",
+  "summary_type": "formatted"
+}{
+  "input": "98\n--------------------------------------------------------------------------------------------------\nProduct: Laughing Lumberjack Lager\nQuantity: 30\n\n--------------------------------------------------\nUnit Price: 14.0\nTotal: 420.0\nTotal Price:\nTotal Price: 816.3\n\n--------------------------------------------------",
+  "output": "The product is Laughing Lumberjack Lager with a quantity of 30 units. The unit price is 14.0, making a subtotal of 420.0. The total price is 816.3.",
+  "summary_type": "formatted"
+}{
+  "input": "Invoice\nOrder ID: 10907\nCustomer ID: SPECD\nOrder Date: 2018-02-25\nCustomer Details:\nContact Name:\nDominique Perrier\nAddress:\n25, rue Lauriston\nCity:\nParis\nPostal Code:\n75016\nCountry:\nFrance\nPhone:\n(1) 47.55.60.10\nFax:\n(1) 47.55.60.20\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n75\nRhönbräu Klosterbier\n14\n7.75\n \n \nTotalPrice\n108.5\nPage 1\n\n--------------------------------------------------",
+  "output": "Invoice summary: Order ID 10907 was placed by customer SPECD, Dominique Perrier, on 2018-02-25. The order was for 14 units of Rhönbräu Klosterbier (Product ID 75) at a unit price of 7.75. The total price was 108.5. The order was shipped to 25, rue Lauriston, Paris, 75016, France. Contact phone and fax are (1) 47.55.60.10 and (1) 47.55.60.20 respectively.",
+  "summary_type": "formatted"
+}{
+  "input": "-----------------------------------------",
+  "output": "<NULL>",
+  "summary_type": "formatted"
+}{
+  "input": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10377\n2016-12-09\nHari Kumar\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n28\nRössle Sauerkraut\n20\n36.4\n39\nChartreuse verte\n20\n14.4\nPage 1\n\n--------------------------------------------------",
+  "output": "The document is a purchase order. Order ID 10377 was placed by Hari Kumar on 2016-12-09. Two products were ordered: 20 units of Rössle Sauerkraut (Product ID: 28) at a unit price of 36.4, and 20 units of Chartreuse verte (Product ID: 39) at a unit price of 14.4.",
+  "summary_type": "formatted"
+}{
+  "input": "Purchase Orders\n( ______ [lowsanareytaremersace\n(is\n__\n\n--------------------------------------------------",
+  "output": "<NULL>",
+  "summary_type": "formatted"
+}{
+  "input": "te: 2018-03-23\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Uncle Bob's Organic Dried Pears\nQuantity: 45\nUnit Price: 30.0\nTotal: 1350.0\n--------------------------------------------------------------------------------------------------\nProduct: Konbu\nQuantity: 77\nUnit Price: 6.0\nTotal: 462.0\n--------------------------------------------------------------------------------------------------\nProduct: Perth Pasties\nQuantity: 20",
+  "output": "On March 23, 2018, three products were sold: Uncle Bob's Organic Dried Pears (45 units at $30.0 each, total $1350.0), Konbu (77 units at $6.0 each, total $462.0), and Perth Pasties (20 units).",
+  "summary_type": "formatted"
+}{
+  "input": "----------------------------------------------------------------------\nProduct: Gorgonzola Telino\nQuantity: 24\nUnit Price: 12.5\nTotal: 300.0\n--------------------------------------------------------------------------------------------------\nProduct: Vegie-spread\nQuantity: 35\nUnit Price: 43.9\nTotal: 1536.5\nTotal Price:\nTotal Price: 4813.5\n\n--------------------------------------------------",
+  "output": "The summary includes two products: Gorgonzola Telino and Vegie-spread. The quantity of Gorgonzola Telino is 24 with a unit price of 12.5, totaling 300.0. The quantity of Vegie-spread is 35 with a unit price of 43.9, totaling 1536.5. The total price for all products is 4813.5.",
+  "summary_type": "formatted"
+}{
+  "input": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10470\n2017-03-11\nLaurence Lebihan\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n18\nCarnarvon Tigers\n30\n50\n23\nTunnbröd\n15\n7.2\n64\nWimmers gute Semmelknödel\n8\n26.6\nPage 1\n\n--------------------------------------------------",
+  "output": "The purchase order with ID 10470 was made by Laurence Lebihan on 2017-03-11. The order includes 30 units of Carnarvon Tigers at $50 each, 15 units of Tunnbröd at $7.2 each, and 8 units of Wimmers gute Semmelknödel at $26.6 each.",
+  "summary_type": "formatted"
+}{
+  "input": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10768\n2017-12-08\nThomas Hardy\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n22\nGustaf's Knäckebröd\n4\n21\n31\nGorgonzola Telino\n50\n12.5\n60\nCamembert Pierrot\n15\n34\n71\nFlotemysost\n12\n21.5\nPage 1\n\n--------------------------------------------------",
+  "output": "This is a purchase order from Thomas Hardy, dated 2017-12-08, with Order ID 10768. The order includes 4 units of Gustaf's Knäckebröd at $21/unit, 50 units of Gorgonzola Telino at $12.5/unit, 15 units of Camembert Pierrot at $34/unit, and 12 units of Flotemysost at $21.5/unit.",
+  "summary_type": "formatted"
+}{
+  "input": "Purchase Orders\na\n\n--------------------------------------------------",
+  "output": "<NULL>",
+  "summary_type": "formatted"
+}{
+  "input": "Shipped Date: 2017-10-13\nProducts:\nProduct: Zaanse Kocken\n‘Quant: 12\nUnit Price: 9.5\n\n--------------------------------------------------",
+  "output": "The product \"Zaanse Kocken\" was shipped on the date 2017-10-13. The quantity of the product shipped was 12 units, with each unit priced at 9.5.",
+  "summary_type": "formatted"
+}{
+  "input": "-----------------------------------------------------------------\nProduct: Filo Mix\nQuantity: 25\n\n--------------------------------------------------\nUnit Price: 7.0\nTotal: 175.0\nTotal Price:\nTotal Price: 1459.0\n\n--------------------------------------------------",
+  "output": "The product is Filo Mix with a quantity of 25. The unit price is 7.0, making the total 175.0. However, there is a discrepancy with the total price listed as 1459.0.",
+  "summary_type": "formatted"
+}{
+  "input": "Invoice\nOrder ID: 10995\nCustomer ID: PERIC\nOrder Date: 2018-04-02\nCustomer Details:\nContact Name:\nGuillermo Fernández\nAddress:\nCalle Dr. Jorge Cash 321\nCity:\nMéxico D.F.\nPostal Code:\n05033\nCountry:\nMexico\nPhone:\n(5) 552-3745\nFax:\n(5) 545-3745\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n51\nManjimup Dried Apples\n20\n53.0\n60\nCamembert Pierrot\n4\n34.0\n \n \nTotalPrice\n1196.0\nPage 1\n\n--------------------------------------------------",
+  "output": "The text is an invoice for Order ID 10995, made by customer Guillermo Fernández (ID: PERIC) on 2018-04-02. The order includes 20 units of Manjimup Dried Apples (Product ID: 51) at $53.0 each, and 4 units of Camembert Pierrot (Product ID: 60) at $34.0 each. The total price is $1196.0. The customer's address is Calle Dr. Jorge Cash 321, México D.F., Mexico, 05033. Contact numbers are (5) 552-3745 and (5) 545-3745.",
+  "summary_type": "formatted"
+}{
+  "input": "Invoice\nOrder ID: 10665\nCustomer ID: LONEP\nOrder Date: 2017-09-11\nCustomer Details:\nContact Name:\nFran Wilson\nAddress:\n89 Chiaroscuro Rd.\nCity:\nPortland\nPostal Code:\n97219\nCountry:\nUSA\nPhone:\n(503) 555-9573\nFax:\n(503) 555-9646\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n51\nManjimup Dried Apples\n20\n53.0\n59\nRaclette Courdavault\n1\n55.0\n76\nLakkalikööri\n10\n18.0\n \n \nTotalPrice\n1295.0\nPage 1\n\n--------------------------------------------------",
+  "output": "The invoice is for Order ID: 10665, placed by customer LONEP (Fran Wilson) on 2017-09-11. The order includes 20 Manjimup Dried Apples at $53.0 each, 1 Raclette Courdavault at $55.0, and 10 Lakkalikööri at $18.0 each. The total price is $1295.0. The delivery address is 89 Chiaroscuro Rd., Portland, 97219, USA. Contact numbers are (503) 555-9573 (phone) and (503) 555-9646 (fax).",
+  "summary_type": "formatted"
+}{
+  "input": "Order ID: 10917\nShipping Details:\nShip Name: Romero y tomillo\nShip Address: Gran Vía, 1\nShip City: Madrid\nShip Region: Southern Europe\nShip Postal Code: 28001\nShip Country: Spain\nCustomer Details:\nCustomer ID: ROMEY\nCustomer Name: Romero y tomillo\nEmployee Details:\nEmployee Name: Margaret Peacock\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2018-03-02\nShipped Date: 2018-03-11\nProducts:\n---------------------------------------------------------------------",
+  "output": "Order ID 10917 was placed by Romero y tomillo (Customer ID: ROMEY) on 2018-03-02 and shipped on 2018-03-11 by United Package (Shipper ID: 2). The shipping address is Gran Vía, 1, Madrid, Southern Europe, 28001, Spain. The employee handling the order was Margaret Peacock.",
+  "summary_type": "formatted"
+}{
+  "input": "Order ID: 10971\nShipping Details:\nShip Name: France restauration\nShip Address: 58, rue Royale\nShip Gy: Nantes\nShip Region: Western Europe\nShip Postal Code: 44000\nShip County: France\nCustomer Details:\n‘CustomerID: FRANR.\nCustomer Name:\nFrance restauration\nEmployee Details:\nEmployee Name: Andrew Fuller\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2018-03-26\nShipped Date: 2018-04-02\nProducts:\nProduct: Tharinger Rostbratwurst\n‘Quantity: 14\nUnit Pie:\n123.78",
+  "output": "Order ID 10971 was placed by France Restauration, located at 58, rue Royale, Nantes, Western Europe, 44000, France. The order was handled by employee Andrew Fuller and shipped by United Package (Shipper ID: 2). The order was placed on 2018-03-26 and shipped on 2018-04-02. The product ordered was Tharinger Rostbratwurst with a quantity of 14 units at a unit price of 123.78.",
+  "summary_type": "formatted"
+}{
+  "input": "463.0\nPage 1\n\n--------------------------------------------------",
+  "output": "<NULL>",
+  "summary_type": "formatted"
+}{
+  "input": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10451\n2017-02-19\nHorst Kloss\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n55\nPâté chinois\n120\n19.2\n64\nWimmers gute Semmelknödel\n35\n26.6\n65\nLouisiana Fiery Hot Pepper Sauce\n28\n16.8\n77\nOriginal Frankfurter grüne Soße\n55\n10.4\nPage 1\n\n--------------------------------------------------",
+  "output": "The document details a purchase order made by Horst Kloss on 2017-02-19. The order includes four products: Pâté chinois (120 units at $19.2 each), Wimmers gute Semmelknödel (35 units at $26.6 each), Louisiana Fiery Hot Pepper Sauce (28 units at $16.8 each), and Original Frankfurter grüne Soße (55 units at $10.4 each). The order ID is 10451.",
+  "summary_type": "formatted"
+}{
+  "input": "ice:\n\n--------------------------------------------------\nTotal Price: 382.5\n\n--------------------------------------------------",
+  "output": "The total price is 382.5.",
+  "summary_type": "formatted"
+}{
+  "input": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10318\n2016-10-01\nHelen Bennett\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n41\nJack's New England Clam Chowder\n20\n7.7\n76\nLakkalikööri\n6\n14.4\nPage 1\n\n--------------------------------------------------",
+  "output": "The document is a purchase order. Customer Helen Bennett placed an order (ID: 10318) on October 1, 2016. She ordered 20 units of Jack's New England Clam Chowder (Product ID: 41) at $7.7 per unit, and 6 units of Lakkalikööri (Product ID: 76) at $14.4 per unit.",
+  "summary_type": "formatted"
+}{
+  "input": "per Sauce\n20\n16.8\n \n \nTotalPrice\n959.2\nPage 1\n\n--------------------------------------------------",
+  "output": "The text refers to a quantity of 20 units of a product called \"per Sauce\", each priced at 16.8. The total price for these units is 959.2. This information is found on page 1.",
+  "summary_type": "formatted"
+}{
+  "input": "Invoice\nOrder ID: 10254\nCustomer ID: CHOPS\nOrder Date: 2016-07-11\nCustomer Details:\nContact Name:\nYang Wang\nAddress:\nHauptstr. 29\nCity:\nBern\nPostal Code:\n3012\nCountry:\nSwitzerland\nPhone:\n0452-076545\nFax:\nNone\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n24\nGuaraná Fantástica\n15\n3.6\n55\nPâté chinois\n21\n19.2\n74\nLonglife Tofu\n21\n8.0\n \n \nTotalPrice\n625.2\nPage 1\n\n--------------------------------------------------",
+  "output": "The text is an invoice for Order ID 10254, placed by customer Yang Wang (ID: CHOPS) from Bern, Switzerland on July 11, 2016. The order includes 15 units of Guaraná Fantástica, 21 units of Pâté chinois, and 21 units of Longlife Tofu. The total price is 625.2.",
+  "summary_type": "formatted"
+}{
+  "input": "Invoice\nOrder ID: 10419\nCustomer ID: RICSU\nOrder Date: 2017-01-20\nCustomer Details:\nContact Name:\nMichael Holz\nAddress:\nGrenzacherweg 237\nCity:\nGenève\nPostal Code:\n1203\nCountry:\nSwitzerland\nPhone:\n0897-034214\nFax:\nNone\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n60\nCamembert Pierrot\n60\n27.2\n69\nGudbrandsdalsost\n20\n28.8\n \n \nTotalPrice\n2208.0\nPage 1\n\n--------------------------------------------------",
+  "output": "The text is an invoice for Order ID 10419, dated 2017-01-20, made by customer Michael Holz from Genève, Switzerland. The order includes 60 units of Camembert Pierrot at $27.2 each and 20 units of Gudbrandsdalsost at $28.8 each. The total price is $2208.0.",
+  "summary_type": "formatted"
+}{
+  "input": "Order ID: 10410\nShipping Details:\nShip Name: Bottom-Dollar Markets\nShip Address: 23 Tsawassen Blvd.\nShip City: Tsawassen\nShip Region: North America\nShip Postal Code: T2F 8M4\nShip Country: Canada\nCustomer Details:\nCustomer ID: BOTTM\nCustomer Name: Bottom-Dollar Markets\nEmployee Details:\nEmployee Name: Janet Leverling\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2017-01-10\nShipped Date: 2017-01-15\nProducts:\n-----------------------------------------------",
+  "output": "Order ID 10410 was placed by Bottom-Dollar Markets (Customer ID: BOTTM) on 2017-01-10 and shipped on 2017-01-15 by Federal Shipping (Shipper ID: 3). The order was handled by employee Janet Leverling. The shipment was sent to 23 Tsawassen Blvd., Tsawassen, North America, Canada, postal code T2F 8M4.",
+  "summary_type": "formatted"
+}{
+  "input": "--------------------------------------------------------------------\nProduct: Outback Lager\nQuantity: 30\n\n--------------------------------------------------\nUnit Price: 15.0\nTotal: 450.0\n--------------------------------------------------------------------------------------------------\nProduct: Original Frankfurter grüne Soße\nQuantity: 25\nUnit Price: 13.0\nTotal: 325.0\nTotal Price:\nTotal Price: 1209.0\n\n--------------------------------------------------",
+  "output": "The summary includes two products: Outback Lager with a quantity of 30, unit price of 15.0, and total cost of 450.0; and Original Frankfurter grüne Soße with a quantity of 25, unit price of 13.0, and total cost of 325.0. The total price for all items is 1209.0.",
+  "summary_type": "formatted"
+}{
+  "input": "--------------------------------------------------",
+  "output": "<NULL>",
+  "summary_type": "formatted"
+}{
+  "input": "2\nShipped Date: 2017-10-03\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Gnocchi di nonna Alice\nQuantity: 20\nUnit Price: 38.0\nTotal: 760.0\n--------------------------------------------------------------------------------------------------\nProduct: Original Frankfurter grüne Soße\nQuantity: 30\nUnit Price: 13.0\nTotal: 390.0\nTotal Price:\n\n--------------------------------------------------\nTotal Price: 1150.0\n\n--------------------",
+  "output": "On October 3, 2017, two products were shipped. The first product, Gnocchi di nonna Alice, had a quantity of 20 units with a unit price of $38.0, totaling $760.0. The second product, Original Frankfurter grüne Soße, had a quantity of 30 units with a unit price of $13.0, totaling $390.0. The total price for all products was $1150.0.",
+  "summary_type": "formatted"
+}{
+  "input": "Invoice\nOrder ID: 10259\nCustomer ID: CENTC\nOrder Date: 2016-07-18\nCustomer Details:\nContact Name:\nFrancisco Chang\nAddress:\nSierras de Granada 9993\nCity:\nMéxico D.F.\nPostal Code:\n05022\nCountry:\nMexico\nPhone:\n(5) 555-3392\nFax:\n(5) 555-7293\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n21\nSir Rodney's Scones\n10\n8.0\n37\nGravad lax\n1\n20.8\n \n \nTotalPrice\n100.8\nPage 1\n\n--------------------------------------------------",
+  "output": "The invoice is for Order ID 10259, placed by customer CENTC (Francisco Chang) on 2016-07-18. The order includes 10 units of Sir Rodney's Scones at $8.0 each and 1 unit of Gravad lax at $20.8. The total price is $100.8. The delivery address is Sierras de Granada 9993, México D.F., Mexico, 05022. Contact numbers are (5) 555-3392 (phone) and (5) 555-7293 (fax).",
+  "summary_type": "formatted"
+}{
+  "input": "otalPrice\n1980.0\nPage 1\n\n--------------------------------------------------",
+  "output": "<NULL>",
+  "summary_type": "formatted"
+}{
+  "input": "Order ID: 10839\nShipping Details:\nShip Name: Tradgao Hipermercados\nShip Address: Av. Ins\nde Casto, 414\nShip Gy: Sao Paulo\nShip Region: South America\nShip Postal Code: 05634-030\nShip County: Brazil\nCustomer Details:\n‘CustomerID: TRADH\nCustomer Name: Tradi¢do Hipermercados\nEmployee Details:\nEmployee Name: Janel Levering\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2018-01-19\nShipped Date: 2018-01-22\nProducts:\nProduct: Escargots de Bourgogne\n‘Quantity: 30",
+  "output": "Order ID 10839 was placed by Tradgao Hipermercados in Sao Paulo, Brazil on 2018-01-19 and shipped by Federal Shipping on 2018-01-22. The product ordered was Escargots de Bourgogne with a quantity of 30. The order was handled by employee Janel Levering.",
+  "summary_type": "formatted"
+}{
+  "input": "Purchase Orders\n\n--------------------------------------------------",
+  "output": "<NULL>",
+  "summary_type": "formatted"
+}{
+  "input": "Order ID: 10385\nShipping Details:\nShip Name: Split Rail Beer & Ale\nShip Address: P.O. Box 555\nShip City: Lander\nShip Region: North America\nShip Postal Code: 82520\nShip Country: USA\nCustomer Details:\nCustomer ID: SPLIR\nCustomer Name: Split Rail Beer & Ale\nEmployee Details:\nEmployee Name: Nancy Davolio\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2016-12-17\nShipped Date: 2016-12-23\nProducts:\n-----------------------------------------------------------------",
+  "output": "Order ID 10385 was placed by Split Rail Beer & Ale (Customer ID: SPLIR) on 2016-12-17 and shipped by United Package (Shipper ID: 2) on 2016-12-23. The shipping address is P.O. Box 555, Lander, North America, 82520, USA. The employee handling the order was Nancy Davolio.",
+  "summary_type": "formatted"
+}{
+  "input": "Date: 2017-10-20\nProducts:\nProduct: Chang\n‘Quantity:\nUnit Pie:\n18.0\n\n--------------------------------------------------\nUnt Price:\n15.0\nTotal: 525.0\nTotal Price:\n“otal Price:\n2545.0\n\n--------------------------------------------------",
+  "output": "On 2017-10-20, 18 units of a product named Chang were purchased. The unit price was 15.0, resulting in a total of 525.0 for this product. The overall total price for all products was 2545.0.",
+  "summary_type": "formatted"
+}{
+  "input": "-01-14\nShipped Date: 2017-01-16\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Chai\nQuantity: 24\nUnit Price: 14.4\nTotal: 345.6\n--------------------------------------------------------------------------------------------------\nProduct: Tarte au sucre\nQuantity: 40\nUnit Price: 39.4\nTotal: 1576.0\n--------------------------------------------------------------------------------------------------\nProduct: Lakkalikööri\nQuantity: 14",
+  "output": "The shipment was sent on January 16, 2017, and included three products. The first product, Chai, had a quantity of 24 units, each priced at $14.4, totaling $345.6. The second product, Tarte au sucre, had a quantity of 40 units, each priced at $39.4, totaling $1576.0. The third product, Lakkalikööri, had a quantity of 14 units.",
+  "summary_type": "formatted"
+}{
+  "input": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10454\n2017-02-21\nAnnette Roulet\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n16\nPavlova\n20\n13.9\n33\nGeitost\n20\n2\n46\nSpegesild\n10\n9.6\nPage 1\n\n--------------------------------------------------",
+  "output": "The document is a purchase order from Annette Roulet dated 2017-02-21. It includes three products: 20 units of Pavlova at $13.9 each, 20 units of Geitost at $2 each, and 10 units of Spegesild at $9.6 each. The order ID is 10454.",
+  "summary_type": "formatted"
+}{
+  "input": "Invoice\nOrder ID: 10596\nCustomer ID: WHITC\nOrder Date: 2017-07-11\nCustomer Details:\nContact Name:\nKarl Jablonski\nAddress:\n305 - 14th Ave. S. Suite 3B\nCity:\nSeattle\nPostal Code:\n98128\nCountry:\nUSA\nPhone:\n(206) 555-4112\nFax:\n(206) 555-4115\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n56\nGnocchi di nonna Alice\n5\n38.0\n63\nVegie-spread\n24\n43.9\n75\nRhönbräu Klosterbier\n30\n7.75\n \n \nTotalPrice\n1476.1\nPage 1\n\n--------------------------------------------------",
+  "output": "Order ID 10596 was placed by customer WHITC, Karl Jablonski, on 2017-07-11. The order includes 5 units of Gnocchi di nonna Alice at $38.0 each, 24 units of Vegie-spread at $43.9 each, and 30 units of Rhönbräu Klosterbier at $7.75 each. The total price is $1476.1. The order will be shipped to 305 - 14th Ave. S. Suite 3B, Seattle, USA, 98128. Contact number is (206) 555-4112.",
+  "summary_type": "formatted"
+}{
+  "input": "Invoice\nOrder ID: 10630\nCustomer ID: KOENE\nOrder Date: 2017-08-13\nCustomer Details:\nContact Name:\nPhilip Cramer\nAddress:\nMaubelstr. 90\nCity:\nBrandenburg\nPostal Code:\n14776\nCountry:\nGermany\nPhone:\n0555-09876\nFax:\nNone\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n55\nPâté chinois\n12\n24.0\n76\nLakkalikööri\n35\n18.0\n \n \nTotalPrice\n918.0\nPage 1\n\n--------------------------------------------------",
+  "output": "The invoice is for Order ID 10630, placed by customer KOENE (Philip Cramer) from Brandenburg, Germany. The order, dated 2017-08-13, includes 12 units of Pâté chinois at $24.0 each and 35 units of Lakkalikööri at $18.0 each. The total price is $918.0.",
+  "summary_type": "formatted"
+}{
+  "input": "9999999995\nTotal Price:\n\n--------------------------------------------------\nTotal Price: 537.5999999999999\n\n--------------------------------------------------",
+  "output": "The total price is 537.6.",
+  "summary_type": "formatted"
+}{
+  "input": "Invoice\nOrder ID: 11058\nCustomer ID: BLAUS\nOrder Date: 2018-04-29\nCustomer Details:\nContact Name:\nHanna Moos\nAddress:\nForsterstr. 57\nCity:\nMannheim\nPostal Code:\n68306\nCountry:\nGermany\nPhone:\n0621-08460\nFax:\n0621-08924\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n21\nSir Rodney's Scones\n3\n10.0\n60\nCamembert Pierrot\n21\n34.0\n61\nSirop d'érable\n4\n28.5\n \n \nTotalPrice\n858.0\nPage 1\n\n--------------------------------------------------",
+  "output": "The invoice is for Order ID: 11058, placed by customer BLAUS (Hanna Moos) on 2018-04-29. The order includes 3 units of Sir Rodney's Scones at $10.0 each, 21 units of Camembert Pierrot at $34.0 each, and 4 units of Sirop d'érable at $28.5 each. The total price is $858.0. The order is to be shipped to Forsterstr. 57, Mannheim, Germany, 68306. Contact numbers are 0621-08460 (phone) and 0621-08924 (fax).",
+  "summary_type": "formatted"
+}{
+  "input": "Stock Report for 2017-08\nCategory\nProduct\nUnits Sold\nUnits in Stock\nUnit Price\nBeverages\nChai\n40\n39\n18\nBeverages\nChang\n100\n17\n19\nBeverages\nChartreuse verte\n41\n69\n18\nBeverages\nGuaraná Fantástica\n23\n20\n4.5\nBeverages\nIpoh Coffee\n20\n17\n46\nBeverages\nLakkalikööri\n35\n57\n18\nBeverages\nOutback Lager\n35\n15\n15\nBeverages\nRhönbräu Klosterbier\n10\n125\n7.75\nBeverages\nSteeleye Stout\n30\n20\n18\nCondiments\nChef Anton's Cajun..\n35\n53\n22\nCondiments\nChef Anton's Gumbo Mix\n15\n0\n21.35\nCondiments\nGrandma's Boysenberry..\n70",
+  "output": "The stock report for August 2017 shows various beverages and condiments with their units sold, units in stock, and unit price. For example, 'Chai' sold 40 units, has 39 in stock, and costs $18 per unit. 'Chang' sold 100 units, has 17 in stock, and costs $19 per unit. 'Chef Anton's Gumbo Mix' sold 15 units, has none in stock, and costs $21.35 per unit.",
+  "summary_type": "formatted"
+}{
+  "input": "Invoice\nOrder ID: 10443\nCustomer ID: REGGC\nOrder Date: 2017-02-12\nCustomer Details:\nContact Name:\nMaurizio Moroni\nAddress:\nStrada Provinciale 124\nCity:\nReggio Emilia\nPostal Code:\n42100\nCountry:\nItaly\nPhone:\n0522-556721\nFax:\n0522-556722\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n11\nQueso Cabrales\n6\n16.8\n28\nRössle Sauerkraut\n12\n36.4\n \n \nTotalPrice\n537.5999999999999\nPage 1\n\n--------------------------------------------------",
+  "output": "Order ID 10443 was placed by customer REGGC, Maurizio Moroni, from Reggio Emilia, Italy on 2017-02-12. The order included 6 units of Queso Cabrales and 12 units of Rössle Sauerkraut, priced at 16.8 and 36.4 respectively. The total price was 537.6.",
+  "summary_type": "formatted"
+}{
+  "input": "ails:\nOrder Date: 2016-12-06\nShipped Date: 2016-12-09\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Tofu\nQuantity: 15\nUnit Price: 18.6\nTotal: 279.0\n--------------------------------------------------------------------------------------------------\nProduct: Tourtière\nQuantity: 10\nUnit Price: 5.9\nTotal: 59.0\nTotal Price:\n\n--------------------------------------------------\nTotal Price: 338.0\n\n------------------------------------",
+  "output": "An order was placed on December 6, 2016, and shipped on December 9, 2016. The order included 15 units of Tofu priced at $18.6 each, totaling $279.0, and 10 units of Tourtière priced at $5.9 each, totaling $59.0. The total price of the order was $338.0.",
+  "summary_type": "formatted"
+}{
+  "input": "Invoice\nOrder ID: 10861\nCustomer ID: WHITC\nOrder Date: 2018-01-30\nCustomer Details:\nContact Name:\nKarl Jablonski\nAddress:\n305 - 14th Ave. S. Suite 3B\nCity:\nSeattle\nPostal Code:\n98128\nCountry:\nUSA\nPhone:\n(206) 555-4112\nFax:\n(206) 555-4115\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n17\nAlice Mutton\n42\n39.0\n18\nCarnarvon Tigers\n20\n62.5\n21\nSir Rodney's Scones\n40\n10.0\n33\nGeitost\n35\n2.5\n62\nTarte au sucre\n3\n49.3\n \n \nTotalPrice\n3523.4\nPage 1\n\n---------------------------------------------",
+  "output": "Order ID 10861 was placed by customer WHITC, Karl Jablonski, from Seattle, USA on 2018-01-30. The order includes 42 units of Alice Mutton, 20 units of Carnarvon Tigers, 40 units of Sir Rodney's Scones, 35 units of Geitost, and 3 units of Tarte au sucre. The total price is 3523.4.",
+  "summary_type": "formatted"
+}{
+  "input": "Order ID: 10566\nShipping Details:\nShip Name: Blondel père et fils\nShip Address: 24, place Kléber\nShip City: Strasbourg\nShip Region: Western Europe\nShip Postal Code: 67000\nShip Country: France\nCustomer Details:\nCustomer ID: BLONP\nCustomer Name: Blondesddsl père et fils\nEmployee Details:\nEmployee Name: Anne Dodsworth\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2017-06-12\nShipped Date: 2017-06-18\nProducts:\n--------------------------------------------------",
+  "output": "Order ID 10566 is for Blondel père et fils, located at 24, place Kléber, Strasbourg, Western Europe, 67000, France. The customer ID is BLONP. The order was handled by employee Anne Dodsworth and shipped by Speedy Express (Shipper ID: 1). The order was placed on 2017-06-12 and shipped on 2017-06-18.",
+  "summary_type": "formatted"
+}{
+  "input": "----------------------------------------------------------------------\nProduct: Flotemysost\nQuantity: 15\n\n--------------------------------------------------\nUnit Price: 17.2\nTotal: 258.0\nTotal Price:\nTotal Price: 1194.0\n\n--------------------------------------------------",
+  "output": "The product is Flotemysost, with a quantity of 15 units. The unit price is 17.2. There seems to be a discrepancy in the total price, with one listed as 258.0 and another as 1194.0.",
+  "summary_type": "formatted"
+}{
+  "input": "Order ID: 10646\nShipping Details:\nShip Name: Hungry On Al-Night Grocers\nShip Address:\n8 Johnstown Road\nShip Gy: Cork\nShip Region:\nBritish isles\nShip Postal Code: None\nShip County Ireland\nCustomer Details:\n‘CustomerID: HUNGO\nCustomer Name: Hungry Owl ANght Grocers\nEmployee Details:\nEmployee Name: Anne Dodsworth\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2017-08-27\nShipped Date: 2017-09-03\nProducts:\nProduct: Chai\nQuantity: 15\nUnit Pie:\n18.0\n\n----------",
+  "output": "Order ID 10646 was placed by Hungry Owl ANght Grocers (CustomerID: HUNGO) on 2017-08-27 and shipped on 2017-09-03 by Federal Shipping (Shipper ID: 3). The order, handled by employee Anne Dodsworth, was sent to 8 Johnstown Road, Cork, Ireland in the British Isles region. The product ordered was Chai with a quantity of 15 units at a unit price of 18.0. No postal code was provided.",
+  "summary_type": "formatted"
+}{
+  "input": "Order ID: 10674\nShipping Details:\nShip Name: Island Trading\nShip Address: Garden House Crowther Way\nShip City: Cowes\nShip Region: British Isles\nShip Postal Code: PO31 7PJ\nShip Country: UK\nCustomer Details:\nCustomer ID: ISLAT\nCustomer Name: Island Trading\nEmployee Details:\nEmployee Name: Margaret Peacock\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2017-09-18\nShipped Date: 2017-09-30\nProducts:\n--------------------------------------------------------------",
+  "output": "Order ID 10674 was placed by Island Trading (Customer ID: ISLAT) on 2017-09-18 and shipped on 2017-09-30 by United Package (Shipper ID: 2). The order was handled by employee Margaret Peacock. The shipping address is Garden House Crowther Way, Cowes, British Isles, UK, PO31 7PJ.",
+  "summary_type": "formatted"
+}{
+  "input": "018-02-02\nShipped Date: 2018-02-09\nProducts:\nProduct: Steleye Stout\n‘Quantity: 4\nUnit Pie:\n18.0,\n\n--------------------------------------------------\n‘otal Price: 282.0\n\n--------------------------------------------------",
+  "output": "The data indicates that a product named \"Steleye Stout\" was shipped on 2018-02-09. The quantity of the product shipped was 4 units, each priced at 18.0. The total price for the shipment was 282.0.",
+  "summary_type": "formatted"
+}{
+  "input": "Invoice\nOrder ID: 10496\nCustomer ID: TRADH\nOrder Date: 2017-04-04\nCustomer Details:\nContact Name:\nAnabela Domingues\nAddress:\nAv. Inês de Castro, 414\nCity:\nSao Paulo\nPostal Code:\n05634-030\nCountry:\nBrazil\nPhone:\n(11) 555-2167\nFax:\n(11) 555-2168\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n31\nGorgonzola Telino\n20\n10.0\n \n \nTotalPrice\n200.0\nPage 1\n\n--------------------------------------------------",
+  "output": "The text is an invoice for Order ID: 10496, placed by customer TRADH, Anabela Domingues, from Sao Paulo, Brazil. The order was made on 2017-04-04 for 20 units of Gorgonzola Telino (Product ID: 31) at a unit price of 10.0, making a total price of 200.0.",
+  "summary_type": "formatted"
+}{
+  "input": "Order ID: 10345\nShipping Details:\nShip Name: QUICK-Stop\nShip Address: Taucherstraße 10\nShip City: Cunewalde\nShip Region: Western Europe\nShip Postal Code: 1307\nShip Country: Germany\nCustomer Details:\nCustomer ID: QUICK\nCustomer Name: QUICK-Stop\nEmployee Details:\nEmployee Name: Andrew Fuller\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2016-11-04\nShipped Date: 2016-11-11\nProducts:\n----------------------------------------------------------------------------",
+  "output": "Order ID 10345 was placed by QUICK-Stop in Cunewalde, Germany on 2016-11-04 and shipped by United Package on 2016-11-11. The order was handled by employee Andrew Fuller.",
+  "summary_type": "formatted"
+}{
+  "input": "--------------------------------------------------------------------------\nProduct: Maxilaku\nQuantity: 30\n\n--------------------------------------------------\nUnit Price: 16.0\nTotal: 480.0\nTotal Price:\nTotal Price: 3063.0\n\n--------------------------------------------------",
+  "output": "The product is Maxilaku with a quantity of 30 units. The unit price is 16.0, making the total 480.0. However, there seems to be a discrepancy as the total price is listed as 3063.0.",
+  "summary_type": "formatted"
+}{
+  "input": "Order ID: 10801\nShipping Details:\nShip Name: Bólido Comidas preparadas\nShip Address: C/ Araquil, 67\nShip City: Madrid\nShip Region: Southern Europe\nShip Postal Code: 28023\nShip Country: Spain\nCustomer Details:\nCustomer ID: BOLID\nCustomer Name: Bólido Comidas preparadas\nEmployee Details:\nEmployee Name: Margaret Peacock\nShipper Details:\nShipper ID: 2\nShipper Name: United Package\nOrder Details:\nOrder Date: 2017-12-29\nShipped Date: 2017-12-31\nProducts:\n------------------------------------------------",
+  "output": "Order ID 10801 was placed by Bólido Comidas preparadas (Customer ID: BOLID) from Madrid, Spain on 2017-12-29 and shipped by United Package (Shipper ID: 2) on 2017-12-31. The order was handled by employee Margaret Peacock. The shipping address is C/ Araquil, 67, Madrid, Southern Europe, 28023, Spain.",
+  "summary_type": "formatted"
+}{
+  "input": "Order ID: 10559\nShipping Details:\nShip Name: Blondel père et fils\nShip Address: 24, place Kléber\nShip City: Strasbourg\nShip Region: Western Europe\nShip Postal Code: 67000\nShip Country: France\nCustomer Details:\nCustomer ID: BLONP\nCustomer Name: Blondesddsl père et fils\nEmployee Details:\nEmployee Name: Michael Suyama\nShipper Details:\nShipper ID: 1\nShipper Name: Speedy Express\nOrder Details:\nOrder Date: 2017-06-05\nShipped Date: 2017-06-13\nProducts:\n--------------------------------------------------",
+  "output": "Order ID 10559 was placed by Blondesddsl père et fils (Customer ID: BLONP) on June 5, 2017, and shipped by Speedy Express (Shipper ID: 1) on June 13, 2017. The order was handled by employee Michael Suyama. The shipping address is 24, place Kléber, Strasbourg, Western Europe, 67000, France.",
+  "summary_type": "formatted"
+}{
+  "input": "Shipped Date: 2018-02-13\nProducts:\nProduct Si Rodney's Scones\n‘Quant: 40\nUnit Price:\n10.0\n\n--------------------------------------------------\nUnit Price: 21.05\n“Total: 252.60000000000002\nTotal Price:\n‘otal Price:\n1450.6\n\n--------------------------------------------------",
+  "output": "The shipped date was on February 13, 2018. The product was Si Rodney's Scones with a quantity of 40 units, each priced at 10.0. The total for this unit was 252.60. The overall total price was 1450.6.",
+  "summary_type": "formatted"
+}{
+  "input": "--------------",
+  "output": "<NULL>",
+  "summary_type": "formatted"
+}{
+  "input": "Invoice\nOrder ID: 10434\nCustomer ID: FOLKO\nOrder Date: 2017-02-03\nCustomer Details:\nContact Name:\nMaria Larsson\nAddress:\nÅkergatan 24\nCity:\nBräcke\nPostal Code:\nS-844 67\nCountry:\nSweden\nPhone:\n0695-34 67 21\nFax:\nNone\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n11\nQueso Cabrales\n6\n16.8\n76\nLakkalikööri\n18\n14.4\n \n \nTotalPrice\n360.0\nPage 1\n\n--------------------------------------------------",
+  "output": "Invoice summary: Order ID 10434 was placed by customer FOLKO (Maria Larsson) on 2017-02-03. The order includes 6 units of Queso Cabrales and 18 units of Lakkalikööri, priced at 16.8 and 14.4 respectively. The customer's address is Åkergatan 24, Bräcke, Sweden, S-844 67. Contact number is 0695-34 67 21. The total price is 360.0.",
+  "summary_type": "formatted"
+}{
+  "input": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10465\n2017-03-05\nPalle Ibsen\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n24\nGuaraná Fantástica\n25\n3.6\n29\nThüringer Rostbratwurst\n18\n99\n40\nBoston Crab Meat\n20\n14.7\n45\nRogede sild\n30\n7.6\n50\nValkoinen suklaa\n25\n13\nPage 1\n\n--------------------------------------------------",
+  "output": "The text is about a purchase order made by Palle Ibsen on 2017-03-05. The order includes five products: Guaraná Fantástica (25 units at $3.6 each), Thüringer Rostbratwurst (18 units at $99 each), Boston Crab Meat (20 units at $14.7 each), Rogede sild (30 units at $7.6 each), and Valkoinen suklaa (25 units at $13 each). The order ID is 10465.",
+  "summary_type": "formatted"
+}{
+  "input": "---------------------------------------------------------------\nProduct: Zaanse koeken\nQuantity: 6\n\n--------------------------------------------------\nUnit Price: 9.5\nTotal: 57.0\nTotal Price:\nTotal Price: 671.35\n\n--------------------------------------------------",
+  "output": "The product is Zaanse koeken with a quantity of 6. The unit price is 9.5, making the total 57.0. However, the total price mentioned is 671.35.",
+  "summary_type": "formatted"
+}{
+  "input": "otal Price:\n\n--------------------------------------------------\nTotal Price: 100.8\n\n--------------------------------------------------",
+  "output": "The total price is 100.8.",
+  "summary_type": "formatted"
+}{
+  "input": "Order ID: 10510\nShipping Details:\nShip Name: Save-aot Markets\nShip Address: 187 SutfokLn.\nShip\nCi: Boise\nShip Region: North America\nShip Postal Code: 83720\nShip Coury:USA\nCustomer Details:\n‘CustomerID: SAVEA\nCustomer Namo: Save-a-ot Markets\nEmployee Details:\nEmployee Name: Michael Suyama\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\n(Order Date: 2017-08-18\nShipped Date: 2017-08-28\nProducts:\nProduct: Tharinger Rostbratwurst\nQuantity: 38\nUnit Price:\n123.78\n\n---------",
+  "output": "Order ID 10510 was placed by Save-a-lot Markets (Customer ID: SAVEA) on 2017-08-18 and shipped on 2017-08-28 by Federal Shipping (Shipper ID: 3). The order was handled by employee Michael Suyama. The product ordered was Tharinger Rostbratwurst with a quantity of 38 at a unit price of 123.78. The shipping address is 187 SutfokLn, Boise, North America, USA, postal code 83720.",
+  "summary_type": "formatted"
+}{
+  "input": "-------------------------------------------",
+  "output": "<NULL>",
+  "summary_type": "formatted"
+}{
+  "input": "Purchase Orders\na\n\n--------------------------------------------------",
+  "output": "<NULL>",
+  "summary_type": "formatted"
+}{
+  "input": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n10923\n2018-03-03\nAnnette Roulet\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n42\nSingaporean Hokkien Fried Mee\n10\n14\n43\nIpoh Coffee\n10\n46\n67\nLaughing Lumberjack Lager\n24\n14\nPage 1\n\n--------------------------------------------------",
+  "output": "The document is about purchase orders. Customer Annette Roulet placed an order (ID: 10923) on 2018-03-03. The order includes three products: 10 units of Singaporean Hokkien Fried Mee (Product ID: 42) at $14 each, 10 units of Ipoh Coffee (Product ID: 43) at $46 each, and 24 units of Laughing Lumberjack Lager (Product ID: 67) at $14 each.",
+  "summary_type": "formatted"
+}{
+  "input": "Stock Report for 2018-03 \n Category : Meat/Poultry  \n id category : 6  \nProduct\nUnits Sold\nUnits in Stock\nUnit Price\nAlice Mutton\n27\n0\n39\nThüringer Rostbratwurst\n14\n0\n123.79\nPerth Pasties\n22\n0\n32.8\nPâté chinois\n29\n115\n24\n\n--------------------------------------------------",
+  "output": "The 2018-03 stock report for the Meat/Poultry category (id 6) shows four products. Alice Mutton sold 27 units, none left in stock, priced at 39. Thüringer Rostbratwurst sold 14 units, none left in stock, priced at 123.79. Perth Pasties sold 22 units, none left in stock, priced at 32.8. Pâté chinois sold 29 units, 115 left in stock, priced at 24.",
+  "summary_type": "formatted"
+}{
+  "input": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n11063\n2018-04-30\nPatricia McKenna\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n34\nSasquatch Ale\n30\n14\n40\nBoston Crab Meat\n40\n18.4\n41\nJack's New England Clam Chowder\n30\n9.65\nPage 1\n\n--------------------------------------------------",
+  "output": "This is a purchase order from Patricia McKenna dated 2018-04-30. She ordered 30 units of Sasquatch Ale at $14/unit, 40 units of Boston Crab Meat at $18.4/unit, and 30 units of Jack's New England Clam Chowder at $9.65/unit. The order ID is 11063.",
+  "summary_type": "formatted"
+}{
+  "input": "------------------------------------------------",
+  "output": "<NULL>",
+  "summary_type": "formatted"
+}{
+  "input": "Purchase Orders\nOrder ID\nOrder Date\nCustomer Name\n11022\n2018-04-14\nMario Pontes\nProducts\nProduct ID:\nProduct:\nQuantity:\nUnit Price:\n19\nTeatime Chocolate Biscuits\n35\n9.2\n69\nGudbrandsdalsost\n30\n36\nPage 1\n\n--------------------------------------------------",
+  "output": "A purchase order was made by Mario Pontes on 2018-04-14. The order, ID 11022, includes 35 units of Teatime Chocolate Biscuits (Product ID: 19) at a unit price of 9.2, and 30 units of Gudbrandsdalsost (Product ID: 69) at a unit price of 36.",
+  "summary_type": "formatted"
+}{
+  "input": "-----------------\nTotal Price: 796.5\n\n--------------------------------------------------",
+  "output": "The total price is 796.5.",
+  "summary_type": "formatted"
+}{
+  "input": "der Date: 2017-01-29\nShipped Date: 2017-02-07\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Valkoinen suklaa\nQuantity: 40\nUnit Price: 13.0\nTotal: 520.0\n--------------------------------------------------------------------------------------------------\nProduct: Vegie-spread\nQuantity: 35\nUnit Price: 35.1\nTotal: 1228.5\nTotal Price:\n\n--------------------------------------------------\nTotal Price: 1748.5\n\n-------------------------",
+  "output": "Order was placed on January 29, 2017, and shipped on February 7, 2017. The order included 40 units of Valkoinen suklaa at $13.0 each, totaling $520.0, and 35 units of Vegie-spread at $35.1 each, totaling $1228.5. The total price of the order was $1748.5.",
+  "summary_type": "formatted"
+}{
+  "input": "Stock Report for 2017-08 \n Category : Condiments  \n id category : 2  \nProduct\nUnits Sold\nUnits in Stock\nUnit Price\nChef Anton's Cajun Seasoning\n35\n53\n22\nChef Anton's Gumbo Mix\n15\n0\n21.35\nGrandma's Boysenberry Spread\n70\n120\n25\nGula Malacca\n10\n27\n19.45\nSirop d'érable\n20\n113\n28.5\nLouisiana Fiery Hot Pepper Sauce\n21\n76\n21.05\nOriginal Frankfurter grüne Soße\n35\n32\n13\n\n--------------------------------------------------",
+  "output": "The stock report for August 2017 in the condiments category shows various products, their units sold, units in stock, and unit price. Chef Anton's Cajun Seasoning sold 35 units, with 53 in stock at $22 each. Chef Anton's Gumbo Mix sold 15 units, none left in stock, priced at $21.35. Grandma's Boysenberry Spread sold 70 units, 120 in stock, priced at $25. Gula Malacca sold 10 units, 27 in stock, priced at $19.45. Sirop d'érable sold 20 units, 113 in stock, priced at $28.5. Louisiana Fiery Hot Pepper Sauce sold 21 units, 76 in stock, priced at $21.05. Original Frankfurter grüne Soße sold 35 units, 32 in stock, priced at $13.",
+  "summary_type": "formatted"
+}{
+  "input": "1.6\nTotal Price:\n\n--------------------------------------------------\nTotal Price: 268.79999999999995\n\n--------------------------------------------------",
+  "output": "The total price is approximately 268.8.",
+  "summary_type": "formatted"
+}{
+  "input": "Order ID: 10785\nShipping Details:\nShip Name: GROSELLA-Restaurante\nShip Address: 5ª Ave. Los Palos Grandes\nShip City: Caracas\nShip Region: South America\nShip Postal Code: 1081\nShip Country: Venezuela\nCustomer Details:\nCustomer ID: GROSR\nCustomer Name: GROSELLA-Restaurante\nEmployee Details:\nEmployee Name: Nancy Davolio\nShipper Details:\nShipper ID: 3\nShipper Name: Federal Shipping\nOrder Details:\nOrder Date: 2017-12-18\nShipped Date: 2017-12-24\nProducts:\n----------------------------------------------",
+  "output": "Order ID 10785 was placed by GROSELLA-Restaurante in Caracas, Venezuela on 2017-12-18 and shipped by Federal Shipping on 2017-12-24. The customer and shipping details are provided, including the address and postal code. The employee handling the order was Nancy Davolio.",
+  "summary_type": "formatted"
+}{
+  "input": "e: 2017-09-11\nShipped Date: 2017-09-17\nProducts:\n--------------------------------------------------------------------------------------------------\nProduct: Manjimup Dried Apples\nQuantity: 20\nUnit Price: 53.0\nTotal: 1060.0\n--------------------------------------------------------------------------------------------------\nProduct: Raclette Courdavault\nQuantity: 1\nUnit Price: 55.0\nTotal: 55.0\n--------------------------------------------------------------------------------------------------\nProduct:",
+  "output": "On September 11, 2017, an order was placed and shipped on September 17, 2017. The order included 20 units of Manjimup Dried Apples priced at $53.0 each, totaling $1060.0, and 1 unit of Raclette Courdavault priced at $55.0.",
+  "summary_type": "formatted"
+}{
+  "input": "Invoice\nOrder ID: 10389\nCustomer ID: BOTTM\nOrder Date: 2016-12-20\nCustomer Details:\nContact Name:\nElizabeth Lincoln\nAddress:\n23 Tsawassen Blvd.\nCity:\nTsawassen\nPostal Code:\nT2F 8M4\nCountry:\nCanada\nPhone:\n(604) 555-4729\nFax:\n(604) 555-3745\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n10\nIkura\n16\n24.8\n55\nPâté chinois\n15\n19.2\n62\nTarte au sucre\n20\n39.4\n70\nOutback Lager\n30\n12.0\n \n \nTotalPrice\n1832.8\nPage 1\n\n--------------------------------------------------",
+  "output": "The invoice is for Order ID 10389, placed by customer BOTTM (Elizabeth Lincoln) on 2016-12-20. The order includes 16 units of Ikura at $24.8 each, 15 units of Pâté chinois at $19.2 each, 20 units of Tarte au sucre at $39.4 each, and 30 units of Outback Lager at $12.0 each. The total price is $1832.8. The order will be shipped to 23 Tsawassen Blvd., Tsawassen, Canada, postal code T2F 8M4. Contact numbers are (604) 555-4729 (phone) and (604) 555-3745 (fax).",
+  "summary_type": "formatted"
+}{
+  "input": "Purchase Orders\nee\noo\nl\n\n--------------------------------------------------",
+  "output": "<NULL>",
+  "summary_type": "formatted"
+}{
+  "input": "Invoice\nOrder ID: 10408\nCustomer ID: FOLIG\nOrder Date: 2017-01-08\nCustomer Details:\nContact Name:\nMartine Rancé\nAddress:\n184, chaussée de Tournai\nCity:\nLille\nPostal Code:\n59000\nCountry:\nFrance\nPhone:\n20.16.10.16\nFax:\n20.16.10.17\nProduct Details:\nProduct ID\nProduct Name\nQuantity\nUnit Price\n37\nGravad lax\n10\n20.8\n54\nTourtière\n6\n5.9\n62\nTarte au sucre\n35\n39.4\n \n \nTotalPrice\n1622.4\nPage 1\n\n--------------------------------------------------",
+  "output": "An invoice with Order ID 10408 was issued to customer FOLIG on 2017-01-08. The customer, Martine Rancé, resides at 184, chaussée de Tournai, Lille, France, 59000. Contact details include phone number 20.16.10.16 and fax 20.16.10.17. The order includes 10 units of Gravad lax at $20.8 each, 6 units of Tourtière at $5.9 each, and 35 units of Tarte au sucre at $39.4 each. The total price is $1622.4.",
+  "summary_type": "formatted"
+}{
+  "input": "--------------------------------------------------\nProduct: Scottish Longbreads\nQuantity: 40\n\n--------------------------------------------------\nUnit Price: 12.5\nTotal: 500.0\n--------------------------------------------------------------------------------------------------\nProduct: Flotemysost\nQuantity: 60\nUnit Price: 21.5\nTotal: 1290.0\nTotal Price:\nTotal Price: 2048.0\n\n--------------------------------------------------",
+  "output": "The summary includes two products: Scottish Longbreads and Flotemysost. The quantity for Scottish Longbreads is 40, with a unit price of 12.5, totaling 500.0. The quantity for Flotemysost is 60, with a unit price of 21.5, totaling 1290.0. The total price for all items is 2048.0.",
+  "summary_type": "formatted"
+}{
+  "input": "------------------------------------",
+  "output": "<NULL>",
+  "summary_type": "formatted"
+}{
+  "input": "Purchase Orders\neeeC\neC\na\n\n--------------------------------------------------",
+  "output": "<NULL>",
+  "summary_type": "formatted"
+}
