@@ -1,0 +1,741 @@
+@ OCHA
+centre fo
+Predictive Analytics for Anticipatory Ac
+Challenges and Opportunities
+by Nicholas Bodanac
+2020 Data Fellow (Predictive Analytics)
+OCHA Centre for Humanitarian Data
+
+--------------------------------------------------
+Table of Contents
+Executive Summary
+Introduction: Predictive Analytics in the Humanitarian Sector
+case Studies
+FAO early warning early actionfor drought
+and food security inColombia
+and Sud
+‘OCHA Bangladesh early action river flood mechanism
+Implementing Predictive Analytics inSupport
+of Anticipatory Action
+Recommendations and Conclusion
+References
+‘Acknowledgements
+‘Te research fr this report was conducted by Nicholas Bodanacin June and July 2020 as part
+Centre
+for Humanitarian Data's Data Fellows Programme. The research was supervised by Stu
+lead fo the Data Fellows Programme; and Leonardo Milano, team leadfor predictive analyti
+
+--------------------------------------------------
+Executive Summary
+In June and July 2020, the Urited Nations Ofice forthe Coordination of Humanitarian
+‘Centre for Humanitarian Data conducted research through
+ts Data FellowsProgramm
+understand
+the existing processes for implementing predictive analytes in humanita
+“Through this esearch, the Centre aimed to answer the following questions:
+‘© What are the emerging best practices for model development and use?
+‘© What pitfalls do organizations face in using predictive models for anticipato
+‘© How can weimprove the implementation of predictive analytisin humanita
+“The research consisted ofaiteature review, a series
+ofkey informantinterviews, and
+development ofase studies. The literature review focused on technical academie pa
+humanitarian project documents, and independent reviews
+ofthe application of pred
+within the development
+and humanitarian sectors. (A complete list ofresources revi
+atthe end ofthis paper.
+“The key informant interviews involved individuals working on predictive analytics wit
+humanitarian organizations: the international Federation ofthe Red Cross and Red Cr
+(IFRC), the START Network, the Food and Agriculture Organization of the United Natio
+the United Nations Ofie forthe Coordination of Humanitarian Affairs (OCHA). The ca
+FAO-led pilots in Colombia and Sudan and an OCHAted pila in Bangladesh.
+“The key findings from the esearch are as follows:
+‘© Many organizations are not elearon the questions driving modeling work 
+predictive analytes ts into ther overall situational avareness.
+‘© Many organizations have insufficient expertise related tothe technical deve
+contextual adaptation, and programmatic use of models. This may lead to in
+inaccurate model development and could also present ethical concerns
+ofpredictive mo
+‘often
+
+--------------------------------------------------
+‘©
+Significant challenges persist n elation to data gaps/availability and qualit
+viability and accuracy of model development.
+Based on these findings, the Centee offers the following sixrecammendations for imp
+implementation of predictive models in support of anticipatory action:
+1.
+Invest in filling data gaps and ensuring that data used formodelingisacc
+‘complete. Accurate data is key to rigorous model development, Predictive mo
+incomplete or inaccurate data are of litle use,While proxy information suc
+sensing ean be helpfulin some circumstances, there isa need to invest in prim
+gathering to further enhance a model's accuracy.
+2.
+Involve technical partners, localstakeholders
+and implementing organiza
+development
+of triggers and related disaster risk financing frameworks. 
+‘accuracy of models and foster buyin for models by local governments
+and ot
+stakeholders,
+3.
+Build and retain internal technical capacity for model development
+and u
+technical capacity should complement working with technical partners and i
+accurately develop models, ut also to ensure oversight throughout the prog
+4.
+Use predictive models in conjunction with traditional methods of analysis
+‘evaluation. While predictive models can highlightthe onset ofa shock, they 
+alongside other methods such as needs assessments and community percept
+5.
+Ensure that trigger mechanisms are linked to financial plans. The develop
+standard operating procedures regarding
+the financial response
+toatrigger w
+delays once a triggers activated.
+6.
+Engage in multi stakeholder peer review processes with technical
+and loc
+can help ensure the modeling is both technically sound and als reflective of 
+
+--------------------------------------------------
+Introduction: Predictive Analytics in the Humanitarian Sec
+Predictive analytics refers to the use of current and past data to make forecasts about 
+‘This growing area of analysis includes the application of a range ofstatistical methods
+data analysis, machine learning and other modelling techniques that aecurrently us
+range of disciplines inside and outside ofthe humanitarian sector.
+Humanitarian action has generally been undertaken in response toa shocker criss, w
+increased costs and a delayed response. As the United Nations Under-Secretary-Gener
+Humanitarian affairs Mark Lowcock has said, humanitarian responses “typically pro
+disaster
+isin full wing...suffering
+is widespread by then... casts perhaps 50 times 
+Child
+who is already suffering from malnutrition asit does to intervene earlier The i
+‘of
+anticipatory action has the potential to improve the efficiency and speed of humani
+\While this sa relatively new area for the sector,
+anumber of humanitarian organizati
+IFRC, FAO, the World Health Organization (WHO) and Médecins Sans Frontiares, have 
+predictive modelling in response to hazards, migration, disease and famine for many 
+‘example, the IFRC has progressively developed and improved its forecast based finan
+since 2008.
+As one key informant noted, “there
+is now new palitcal interest in engagi
+‘on the work previously conducted" to better integrate predictive analytics within the 
+Predictive models are particularly well-suited to supporting anticipatory action frame
+Anticipatory action relies on forecasts to trigger funding for predetermined actions ah
+‘The aim isto reduce or mitigate the impactof social, environmental or conflict shocks
+humanitarian response
+toacriss, Such frameworks are aleeady in use by a range of o
+financing mechanismsin the sector, including forecast-based financing, the IFRC Disa
+Emergency Fund (ORE), the UN's Central Emergency Response Fund (CERF), FAO's Ea
+Early Action (EWEA), and the World Food Programme (WEP)'s Emergency Preparednes
+‘As of September 2020, there were at least
+49 initiatives in the humanitarian sector us
+‘methods within their anticipatory action frameworks to inform humanitarian response
+Centre's CataloguofPredictive Models to learn more about who isdoing what where 
+Although organizations have invested significantly in advancing their understandi
+predictive methods, the implementation of predictive modelling
+thus far has not been
+‘sufficiently rigorousin many cases. Thisposes
+a risk forthe application of predictive a
+sector. Models which are not designed, evaluated, updated or understood properly pr
+
+--------------------------------------------------
+Case Studies
+‘The Centre dacumented the process ofa numberof pilot projects as part of the resea
+paper. The examples are presented through
+a common structure that examines four 
+‘model process: initiation, development, validation, and application. This progression
+structure the key informant interviews asa way of better understanding and documen
+practice,
+hile not partof this report, the Centre has also documented how models are mainta
+projections are kept relevant and up-to-date. We have looked at how model inputs ar
+‘whois responsible for that, how the accuracy ofthe model s assessed over time as ne
+‘are produced,
+and who isin charge of monitoring model outputs and sending the trig
+We have also decumented theroles and responsibilities that different stakeholders h
+process of development and use of predictive analytes,
+INITIATION
+DEVELOPMENT
+VALIDATION
+APPLIC
+Figure 1: Steps in modeldevelopment
+ond use
+FAO early warning early action for drought and food security in Colo
+Sudan
+In both ofthe case studies presented below, FAO combined forecasting tools either d
+thicd parties or their own teams mixed with baseline and community assessments to 
+anticipatory action frameworks.
+Colombia
+La Guajira is the driest province ofColombia and many communities have struggled w
+chronic food insecurityand malnutrition, which has been compounded by the migrat
+Venezuela
+‘To understand the impact of migration on Colombia's rural communities, AO conduc
+mission in June 2018 with WEP and the United Nations Children’s Fund (UNICEF) int 
+‘ofLa Guajira, Arauca and Norte de Santander. La Guajira was
+
+--------------------------------------------------
+from interviews
+with localpeople in LaGuajira. This covered issues with inputs to agri
+production, increasing local population and access to water. The information from th
+pointed to. high likelihood of food security deterioration, according to FRO staff
+Step
+2: Development
+While FAO did't usea model for migration or to measure agricultural production, the
+trigger mechanism based on the onset
+of drought. Following review ofseveral models
+agencies, forecasting
+was used based on drought modelling fram the International Re
+for Climate and Society. The trigger assigned to the drought modelwas
+set ata prob
+than 50% of having below normal rainfall between July to October. Thistime-p
+i
+‘crucial for crop planting in La Guajira
+Step
+3: Validation
+While FAO uses triggers to activate early action, they are always combined with some
+judgement and analysis to validate
+the trigger system. Consequently, although the dr
+probability
+activated the trigger, it was combined with the assessment conducted in 
+presented for adecision by the local country office.
+‘Given FAO did not have
+a fullcapacity country office in Colombia compared to ther 
+processes used in this case were nat representative ofall FAO EWEA systems. In other
+‘afullsystemis in place with regular monthly monitoring, the definition of thresholds 
+the combination of different indicators is more structured, FAO combines vulnerabilit
+measurements, forecasts and indicators ofthe agricultural season to periodically ass
+progressing
+and what changes may need tobe incorporated within early warning earl
+frameworks.
+When monitoring slow onset events such as drought, some early signs e
+using remote sensing
+or other techniques. This can assist some livelihood groups,
+Step
+4:Application
+\While inputs for the model's evelopment
+were agreed upon by a committee of
+inte
+‘experts,
+the country office is responsible for and always operates the trigger, accordin
+‘Country offices are responsible for producing
+the evidence fr the release ofthe funds
+Fund for Emergency
+and Rehabilitation (SFERA) frameworks. Accordingto FAO staf, 
+released once the trigger is reached.
+FAO has outlined standard operating procedures which dictate the processes and dec
+country offices and other relevant stakeholders need to take because of thisindex sco
+are also implemented on the level ofprobabilit
+‘00-40%
+
+--------------------------------------------------
+sudan
+‘The project in Sudan was designed to monitor the risk of drought and dry spells in Kas
+FAO identified worrying signs
+of drought in 2017 based on two specific indicators:unu
+movement and extended dry spells
+Step 1:
+Initiation
+FAO's primary objective
+was to anticipate drought and the impacts on the most vulne
+populations inthe selected communities. The approach and analytical framework to
+allthe
+meteorological and climatological indicators available for the local context wh
+used for drought modelling and combined themwith
+a range ofseclo-econamie indic
+prices and terms of trade (livestock, maize, et).
+Step
+2: Development
+FAO mapped existing indicators and sources of information and compiled three datas
+included a climate outlook and climate conditions. Assessments were conducted on 
+availabilty of indicators based on the local agricultural season. Following this, the ini
+measurable indicators was narrowed downto alist ofjust 15. Thisprocess was condu
+consultation with local partners including participants from the head ofthe national 
+system and the head ofa pastoralist groupin avillage
+of concern t was important th
+representatives of national, regional and local levels, as well as beneficiaries were inc
+process
+Step3: Validation
+Following the consultation process, the country office conducted consultations with 
+technical experts to review the index construction and weights and to conduct a deep
+some ofthe thresholds. The tools were then tested with simulations going back one t
+‘see how accurate the results would be. According to FAO staf:
+"when testing the comp
+(0-100, we wanted to know what a normal record delivered, a score of 50, 60, 702 And 
+information, the triggers were e-calibrated”.
+Step
+4:Application
+‘The tool was designed tobe simple and have zero cost for local stakeholders. twas b
+Excel and each month new data would be collected and analyzed and then the result
+discussed with the partners. The thresholds were triggered towards the end ofthe har
+highlightinga localized drought. Like theexample
+in Colombia, the results were comb
+field-leve
+
+--------------------------------------------------
+OCHA Bangladesh early action river flood mechanism
+In early 2020, the UN Emergency Relief Coordinator, Mark Lowcock, set aside $140 mil
+funding foranticipatory
+action pilot mechanisms focusing on drought in Somalia, Eth
+‘and Chad; cholera outbreaks in sub-Saharan fia; and floods in angladesh Accord
+interviewed, the goal was to use forecasting measurements with high confidence leve
+tied to pre-arranged financing mechanisms inorder
+to mitigate the effets ofashock.
+Under the leadership of the UN Resident Coordinator, the objective ofthe pilot in Ban
+implement
+amore effective response in anticipation ofsevere monsoon floading ofth
+Speeificaly, the pilot focused on the ive highly-vulnerable districts of Bogura, Gaiban
+Jamalpur,
+and Sirajgon
+Step
+1: Initiation
+In the case of Bangladesh, OCHA assessed a range ofhazards forwhether and how mo
+applied to drive an anticipatory response. These included drought, disease outbreak, 
+‘earthquakes,
+and volcanic eruptions. Itwas decided that focusing on monsoon floods
+appropriate, given that flood warning systems had already been developed forthe en
+allowed forsufficient lea time between the initial trigger (based on a L0-day forecast
+‘activation, which aligned with OCHA's pilot framework for anticipatory action,
+Step
+2: Development
+‘OCHA decided to make use ofmodels that were already developed, and tailor them t
+frameworks. Atechnical team assessed a range of models that were developed with h
+confidence and were verifiable. This included the Centre for Humanitarian Data's pred
+team which provided technical support to analyze and validate the thresholds
+and tr
+release
+of funds from the CERF. According to an informant: “A key element of the mod
+‘was
+to build as much as possible on models already reviewed and designed to ensure
+was sound”:
+‘As there are several flood forecasting systems in use for Bangladesh already, there we
+possibilities
+to choose from. For example, the local government has several forecastin
+however, they are all based ona 5-day forecast. The European Commission's Global F
+System (GIoFAS) flood assessment system includesa 10-day probabilistic forecast an
+‘was chosen. The model produces daly probabilistic forecasts 10,
+5 and 30 days nto 
+forecasts also include the size of the lood, fer example aone in five-year flood, onein
+
+--------------------------------------------------
+‘Once selected, the models needed tobe adjusted to fit the environment
+and context, 
+‘was difficult
+to acquire and consequently, technicaleam had to come toa solution
+‘optimize the information they had.
+‘The Centre's predictive analytics team also helped with identifying
+and implementing
+that would fitthe local context. This included optimizing the thresholdsincollaborati
+technical
+team of local experts, Bangladesh Red Crescent Society (BORCS) and OCHA 
+‘The basis ofa two-trigger system was thata pre-activation is 40% likely to be followed
+‘activation. Consequently the activation system was developed withthe following two
+‘©
+First,a 10-day probabilistic warning model based on GloFAS,a global hydrolo
+‘and monitoring system that couples weather forecasts witha hydrological mo
+calibrated forthe Jamuna tiverin Bangladesh,
+‘©
+Second, a5-day deterministic action model, based on the Bangladesh Flood 
+Warning Center.
+In Bangladesh, the BDRCS employs a scientific eam to monitor early warning system
+‘country. Itwas noted by OCHA staffthat when the scientists lagged the trigger’s acti
+response wasimmediate with funds being released within hours. Itwas purposefully 
+review or committee
+or decision was needed followingthe triggers activation, to ensu
+response needed for such an event.
+strategy was developed around the two different triggers. Fest, the initial 10-day ti
+system would release
+allfunds ($5 million) for an intial early action response, followi
+response was planned and ready for immediate deployment based on a secondary 5-
+‘mechanism. During this phase, $5 million wasreleased from CERF funding prioritized 
+systems.
+The funding systems were divided among the relevant agencies as follows: $
+\WEP, including asub-grant to BORCS; $500,000 to FAO;and $588,084 forthe United Na
+Population Fund (UNFPA). It was agreed that there would be nodiscussion within the
+‘on what funds were spent and ano regrets approach would be implemented.
+
+--------------------------------------------------
+(e.g tools, seeds) Also, UNFPA distributed reproductive health, menstrual hygiene an
+‘some 14,822 vulnerable women and gts.
+‘The Bangladesh pilot offers valuable opportunities to learn and to advocate fr an ex
+reach ofthe anticipatory action so that larger populations at imminent risk can be ass
+‘commissioned
+an independent evaluation oftheindividual components ofthe pilot. 
+‘expected to be released around March 2021.
+
+--------------------------------------------------
+Implementing Predictive Analytics in Support of Anticipat
+‘Thssecton presents key ings an recommendatons*on the plementation of 
+anaylesin support of antepatoy action Itpesents mote detalledcbservatons acr
+stages of model development. includes ase ofquestionor considerations for orga
+Consider
+at these different stagesin order to overcome someof te challenges ient
+research Tete considerations
+arealso summarized na detisiontree format in Figu
+=
+===
+Sa| @ fo
+°
+=
+Stra | @ [mam
+vevnorunet
+Eire |
+=
+=
+=<
+arrucimon
+=_
+Moncarebrartes |
+
+--------------------------------------------------
+Step 1: Model Initiation
+[Atthis stage, organizations should consider:
+‘©
+Whatis the problem we are trying to solve?
+‘©
+Why can’t we solve it with current methods of analysis?
+‘© Doespredictive
+modelling ilthis gap?
+‘©
+Isthereavailable
+data to use fora model?
+‘According to one key informant, “You can't wait for the good models to be in place be
+‘movingin that direction [predictive modelling], it has to be done in parallel [with met
+developments)". Another key informant
+stated, "There are still challenges in terms of
+things up early enough, however, this i currently improving”
+When there sa disease outbreak, forexample, models must be developed rapidly to 
+spread of disease o a vieus. The risk of wating
+far outweighs the time needed to deve
+‘accuracy and consequently strict review processes ae often put to the siden favor o
+Forecasting. Waiting too long also has the obvious negative effect of unnecessarily ext
+human suffering early action is meant to prevent. However, often in these eases, aca
+‘or research bodies are brought
+into develop forecasts for humanitarian implementers
+research s already bounded in peer reviewed frameworks
+or developed by experts wi
+Froma basic economic point ofview, itsoften costlier
+to walttoo long than to act to
+there have been some examples of negative economic effects tied to incorrect forecas
+‘seasonal forecasts in 1998 led farmers
+to reduce thelr crapping area in southern Arica
+interpreted the forecast asa probability of drought rather than an increased chance o
+rainfall However, EWEAprograms
+in Sudan implemented by FAO produced a cost be
+‘meaning that forevery
+USD 1 invested by FAO, households gained USD6.7.” The unit 
+‘can be cut by 30% if procured early, according toa study on aid delivery to Somalia, K
+Ethiopia.” Also, ‘actingin vain’ has beenjustified by ano regrets implementation str
+that spendingon people and places that are poor and climate-vulnerable anyway can
+
+--------------------------------------------------
+resilionce to future shocks." However, there are significant financial risks associated 
+models that can't be ignored,
+‘As predictive analytics gains further attention there san urge for organizations to imp
+without understanding
+when this is appropriate, Often, organizations star withthe m
+{going to buld a famine model orwe've going to build adrought
+model without unde
+‘whether thisis the best way to measure and respond to that particular criss or shock,
+‘models are even feasible given the data landscape. Based on the research, integratin
+approaches is best after an analysis ofwhat themajor
+gaps
+aren traditional research
+ccurent
+use offorecasting
+A times limitation or inaccuracies may be from capacity issues, a lack of localized d
+progeam management. Engaging with local representatives
+and assessing
+the lacal co
+‘can assist in knowing these limitations or strengths can greatly enhance model deve
+ta direct efforts in the most efficient way.
+Data gaps limit how models can be developed, Most organizations using predictive an
+‘on their own data collection or the use ofopen source data form local governments a
+‘organizations.
+While this is beneficial for some cases, such as WFP's food security da
+there are significant gaps especially
+at the local level. Predictive models are dependen
+‘ofthe data sets on which the madels operate and consequently sound datais essentia
+forecasting methods.” Understanding the data landscape and the limitations with av
+iskey to deciding whether and, fso, how to utilize predictive models. As noted, data 
+‘greatly limits
+a model's accuracy
+and ability to effectively develop early warning mode
+informant noted, “people are developing modelswithout
+asking questions of what da
+‘Amodelis only as good as the information that it feeds of”
+here data gaps exist, it ay be tempting
+for organizations to fill these gaps with pro
+‘orquestionable esearch methods, The concern of using bad data’ was highlighted b
+interviewed who stated thatthe use of models with bad data or inaccurate informati
+useless”. There needs to bea more concerted effort
+to ensure sound practice in sourc
+in modeling.
+Organizations need to understand the data landscape and key actors who may beabl
+‘gaps. While remote sensing is used in cases to mitigate this issue, there are limited us
+collection methods like satellite imagery and ather proxy data methods. For example,
+
+--------------------------------------------------
+‘economic systems." Further,uetoa lack of fishery survey data, predictive madels h
+forecast yield estimates in tropical river and lake fisheries using simple multiple linear
+‘estimates. However, these models were imprecise and had large error terms.” Conseq
+they were used asa next best estimate their reliability is questionable.
+Processes need to be putin place and followed to ensure accurate measurements are
+direct humanitarian response. To assiston this, organizations like FAO have used mix
+approaches by combining local data collection in target communitiesin conjunction 
+methods to see how the two interact, and to provide better guidance.
+‘When designing predictive models, t'simportant to understand that ther purpose is
+bullet that can take over the sector, rather, as
+away of complimenting approaches cu
+‘One key informant stated, “humanitarian decisions should nat be madealone on pred
+‘They can support existing approaches". Organizations lke IFRC and FAO use predictiv
+Forecasts in conjunction with other more standard evaluation methods like baseline a
+‘community engagement programs.
+Step 2: Model Development
+In this stage, organizations should consider:
+‘¢
+How can a model compliment existing approaches?
+‘© Dowe have the capacity required to develop and review models?
+‘©
+What needstobe outsourced/partnered to develop or review models?
+‘© How can we involve local stakeholdersin model development?
+‘© How to develop an initial review committee?
+Predictive models re often implemented to fila gap, such asa lackof underst
+measure a shock which leaves humanitarans unprepared or late to assist populations
+Identifying
+the sourceofthese gaps can helporganization
+understandif predictive m
+‘appropriate too to fil them. One informant nated “there isa lat ofeffort and time ex
+{developing
+amodel without even consulting humanitarian technical expertson the g
+being
+
+--------------------------------------------------
+‘ase, organizations need to consider whether they have the capacities required acros
+the technical and quantitative dimension, organizations do net need to internalize al
+themselves. n fact, attempting to do so can deliver poor results or organizations tha
+{qualification to develop and review predictive and forecasting models. fan organizat
+technical capacity to develop its own models, building partnerships with external tec
+‘much better solution than attempting the estimations without proper oversight or re
+‘On the programmatic and contextual dimension, organizations need to learn from th
+‘experience in the particular country of interest. Made developers may misjudge or fai
+variables or local dynamics, just as humanitarians on the ground may misjudge the i
+diffeent forecasting measures, or not have the specific knowledge required to design
+measures
+fora particular context.
+‘The Centre for Humanitarian Data's Pear Reviaw
+Fzamework
+aims to increa
+such ada
+‘and to ensure that model structures ace fllowed. Such frameworks
+can bringin outsi
+‘expert review early on inthe design phase and help directamodel's development an
+Partnering with ocal teams, governments and organizations is key to effective model
+All those interviewed acknowledged the importance of understanding lacal dynamics.
+stated that there isa need for amore coherent approach in working with local govern
+communities. Working directly with local teams was also highlighted by epidemiologi
+benefit for overall quality and accuracy
+Step 3:
+Model Validation
+[Atthis stage, organizations
+should consider:
+‘©
+What processes will be used to incorporate feedback from peer review?
+‘© How will review processes beestablished throughout
+themodel if cycle?
+Model validation should highlight the strengths and weaknesses ofthe model as well 
+use. Theres currently no uniform evaluation process with predictive analytics.While 
+and organizations have stringent methodologies, others are yet to implement stringe
+‘and evaluation methods.
+
+--------------------------------------------------
+More consistent approaches to evaluating models before implementation are key toi
+‘overall accuracy, quality and relevance of predictive analytic
+in the sector. One infor
+‘organizations
+are stil far away from this, but this should be a requirement fr future p
+‘emphasizes the need for due diligence.
+-Apositive example of this is FAO's method of validation and review. First, there isan i
+Consultation with key stakeholders during the inception phase, where measurements
+‘and agreed upon by local stakeholders
+and partner organizations. Following the dev
+index which is used asa trigger mechanism,
+a secondary review
+is also conducted by 
+internal technical experts. This includes testing the model with historical data calib
+reviewing methodologies before itis implemented within the program.
+Model validation is not
+a one off process.After
+amodel has been validated for its inte
+may need to be validated againa the context evalves andj the implementation pla
+‘andits outputs changes. Data needs
+to be updated regularly and new information ma
+‘models to be recalibrated. One informant noted,
+"In my two years working in anticipa
+processes, very rarely have there been any kind ftechnical experts orrsk modelers 
+involved (inthe project life cycle). This leads to questions
+and rsks over howacc
+it's review process stops at implementation. Having expert review and response integ
+throughout
+the cycle can have an enormous effecton increasing
+the efficiency of a mo
+accuracy ofits outputs.
+‘Asnoted earlier,
+we can't wat for modelsto be perfect before we implement. Howeve
+being used, they stil ned regular work. Updating triggers with new data and testing 
+does
+not stop once they have been used. This means new methodologies need to be 
+new data inserted to test models accuracy and to keep them current.
+Step4: Model Application
+[Atthis stage, organizations should consider:
+‘© How to increase a holistic approach to trigger development, including local 
+‘¢
+How to enable rapid financial response following trigger activation?
+to ensure local and partner financial support?
+
+--------------------------------------------------
+Local ownership
+has becomea key component for many early warning systems. Cons
+local agencies o local governments buy into the idea and commit financing will equi
+{decisions to be made jointly with expert committees. As
+a result, the development of
+be ajoint effortby technical partners, local stakeholders and implementing organizati
+For example, FAO country offices are responsible and always operate their trigger mec
+‘according
+tostaff interviewed, These local offices are esponsible for bringing the evi
+release ofthe funds, However, these are based on consultations
+and localagreeme
+local partners and committees to discuss trigger warningmechanisms
+and to ensure 
+process is developed atthe beginning.
+‘When designing riggers, it’ also important to understand how they relate to the fina
+‘mechanisms ofpartner agencies. Someinformants noted that developing triggers sho
+‘conducted through the ‘impacts before instruments'idea, This focuses on what impac
+achieved within thelr organization and within their capacity. Understanding operatio
+keyin outlining lead times needed and being able to accurately respond toa tigger. 
+‘example, can deliver cash grants atthe household level in Bangladesh within
+4 days o
+‘Once triggers have been activated, the time ittakes for finances tobe released can re
+time before assistance reaches the area ofconcern. There needs to be more ofa focus
+response actions over “what can be moved, when and how”. When likelihoods increa
+responses
+may be needed, Some agencies have response and finance deliverables in 
+thislag and ensure rapid response reaches people
+in need as quickly as possible, As o
+stated, “Theres no point having anticipatory models that are 100%accur
+Iffinanc
+‘canbe delayed for months". This also needs tobe planned with partner organizations
+‘on much different timescales. Fallure
+to accurately develop these financing agreemen
+partner organizations wil significantly limit the use for early warning systems.
+
+--------------------------------------------------
+Recommendations and Conclusion
+Based on the research and analysis presented above, the Centre proposes the followi
+recommendations for improving the implementation of predictive analytics in suppor
+action.
+1.
+Invest in filling data gaps and ensure that quality datas used for modelin
+iskey to rigorous model development. Predictive models built on incomplete
+data areof litle use. While proxy information such as remote sensing can be 
+circumstances, there is aneed to invest in primary data gathering to further e
+‘model's accuracy. In the Bangladesh case study for example, government me
+was used, however, the government’ statistical site was prone to crashing
+2.
+Involve technical partners, local stakeholders and implementing organiza
+development
+of triggers and related disaster risk financing frameworks. 
+‘accuracy of madels and foster buyin for models by local governments and ot
+stakeholders. As local ownership
+isa key component to many early warning s
+local participation within the design phase is essential,
+3.
+Build and retain internal technical capacity for model development
+and u
+technical capacity should complement working with technical partners and i
+accurately develop models, ut also to ensure oversight throughout the prog
+4.
+Use predictive models in conjunction with traditional methods of analysis
+‘evaluation. While predictive models can highlightthe onset ofa shock, they 
+“alongside
+other methods such as needs assessments and community percept
+Models supported by other forms of analysis
+willlea toa better overall result
+‘accurate response. For example, organizations such as FAO use local rapid as
+Confirm their activation systems
+and minimize the rsk of ‘activating inva.
+5.
+Ensure that trigger mechanisms
+are linked to financial plans. Thedevelop
+standard operating procedures regarding
+the financial response to a trigger w
+delays oncea triggers activated. Theresponse
+toatrigger activation needs t
+‘agreed upon before orin conjunction with an early warning system. As many 
+now taking ano cegrets' approach, ths wll imit delays in programmatic resp
+
+--------------------------------------------------
+‘The Centre willuse the findings and recommendations ofthis research to support the
+numberof organizations implementing predictive analytics for anticipatory action. W
+report will help to generate a constructive discussion with partners around the use of
+“analytics in humanitarian response.
+Building on the experience from the Bangladesh pilot, OCHA will be scaling up the nu
+anticipatory action frameworksin 2021 in collaboration with the CERF.
+‘The Centre will continue to document ‘who is doing what, where and when’ with pred
+the
+Catalogue of Predictive Madels and will support humanitarian to make the best u
+modelsthrough
+our Peer Review Framework.
+
+--------------------------------------------------
+References
+~Annibale Vecere, Ricardo Monteiro, Sonia Giovianzz, Raquel Henrique Melo Santos, P
+or post alisaster
+needs assessment, International
+Journal of dsaster riskreduction, Nov
+Cabot Venton, C, Economics
+of Resilience, The Economics of Early Response and Resilie
+‘and Methodology, 2013
+Dilley,M., Reducing vulnerability to climate variability in Southern Africa: The growing
+information, Climatic Change,
+45,63-73, 2000,
+ECHO, Feasibility
+study on forecast
+based financing /trigger
+based action in Malawi, EC
+project: Enhancing resilience in Malawi
+FAO, Colombia: Impact ofEarly Warning Early Action, Rome, 2019,
+FAO, Building stronger partnerships for resilience, Rome, 2019,
+FAO, Predictive yield models for tropical river and lake fisheries, 2008
+German Red Cross, Forecast-Based financing; An innovative approach, October 2017
+German Red Cross, Forecast-based financing Mozombique
+German Red Cross, Forecast-based financing A policy overview, October 2017
+Institute ofDevelopment Studies, Predictive Analytics in Humanitarian Action: A Prelim
+‘and Analysis, May 2020
+Havard Higre et al, Preciting Aemed Conflict 2010-2050, Novernber 2011
+Hecnandez,K. and Roberts,
+. (2020). Predictive Analytcsin Humanitarian Action: a p
+‘mapping and analysis
+K4D Emerging Issues Report33 Brighton, UK: Instituteof Devel
+Hillier and Dempsey, 2012. A Dangerous Delay: The costoflate response to early warn
+droughtin
+
+--------------------------------------------------
+NRC, IDM, Assessing drought displacement rsk for Kenyo, Ethiopian and Somali Pastor
+paper, April 2014
+001, Sealing up earlyaction, Workingpaper
+547, April 2019,
+(001, Anticipatory humanitarian action: Whatrole
+forthe CERF?, April 2019,
+‘OCHA Centre for Humanitarian Data, Peer ReviewFrameworks
+fr Predictive Analytics
+Response, March 2020
+UN CERF, CERF and Anticipatory
+Action, June 2019,
+WP, AIMS pilot project. Monitoring theRehabilitation
+of Degraded Landscapes from F
+_Assels Programmes with Satellite imagery, September 2017
+
+--------------------------------------------------

@@ -1,0 +1,178 @@
+Stock Report for 2017-02
+Category
+Product
+Units Sold
+Units in Stock
+Unit Price
+Beverages
+Chang
+55
+17
+19
+Beverages
+Chartreuse verte
+26
+69
+18
+Beverages
+Guaraná Fantástica
+20
+20
+4.5
+Beverages
+Ipoh Coffee
+20
+17
+46
+Beverages
+Lakkalikööri
+18
+57
+18
+Beverages
+Outback Lager
+25
+15
+15
+Beverages
+Rhönbräu Klosterbier
+28
+125
+7.75
+Beverages
+Sasquatch Ale
+20
+111
+14
+Beverages
+Steeleye Stout
+8
+20
+18
+Condiments
+Gula Malacca
+100
+27
+19.45
+Condiments
+Louisiana Fiery Hot..
+63
+76
+21.05
+Condiments
+Louisiana Hot Spiced..
+60
+4
+17
+Condiments
+Original Frankfurter..
+55
+32
+13
+Condiments
+Sirop d'érable
+115
+113
+28.5
+Confections
+Chocolade
+15
+15
+12.75
+Confections
+Gumbär Gummibärchen
+51
+15
+31.23
+Confections
+Maxilaku
+21
+10
+20
+Confections
+Pavlova
+85
+29
+17.45
+Confections
+Schoggi Schokolade
+50
+49
+43.9
+Confections
+Scottish Longbreads
+21
+6
+12.5
+Confections
+Sir Rodney's Scones
+80
+3
+10
+Confections
+Tarte au sucre
+35
+17
+49.3
+Confections
+Teatime Chocolate..
+67
+25
+9.2
+Dairy Products
+Flotemysost
+82
+26
+21.5
+Dairy Products
+Geitost
+20
+112
+2.5
+Dairy Products
+Gorgonzola Telino
+3
+0
+12.5
+Dairy Products
+Mozzarella di Giovanni
+50
+14
+34.8
+Dairy Products
+Queso Cabrales
+42
+22
+21
+Dairy Products
+Queso Manchego La..
+15
+86
+38
+Dairy Products
+Raclette Courdavault
+36
+79
+55
+Grains/Cereals
+Filo Mix
+35
+38
+7
+Grains/Cereals
+Gnocchi di nonna Alice
+83
+21
+38
+Grains/Cereals
+Gustaf's Knäckebröd
+12
+104
+21
+Grains/Cereals
+Ravioli Angelo
+15
+36
+19.5
+
+--------------------------------------------------

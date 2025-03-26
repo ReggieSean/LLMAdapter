@@ -1,0 +1,90 @@
+@OCH
+FICHE CONSEIL SUR LA SECURITE DES DONN
+LE CADRE DE LA GESTION DES DONNEES
+OPERATIONNELLES.
+CENTRE DE DONNEES HUMANITAIRES DOCHA
+Cartons ocssuréotraducton de cette che conse,gre ou souten deCLEAGlobal
+etdu 
+‘Europe des Aforesrongeres
+INTRODUCTION
+Lasteuté des données stun dlémentlé dea responsabilité en maitre
+de données: a
+Aihiqueteftcace des données en niecune ponte optatonnel Ele implique un ens
+phyiquestechnologiqus et procédurles qu protaent a confidential inept ela 
+Elannées eempechent eur pert leurdstton leuraltatn, er austin ou leur 
+tu etenonnetes,Magales ou non autosbes
+dequelque manoreque
+ce sok
+Cetteche conse propose unesre actions ecommandées pourla sécurité es donnée
+¢rston ces données optstionneles Ces actions dolvent ere misesen cuntconfo
+[feationnel aux potiquese anc cadresjudiquset églementaves sppcables,
+ADOPTEZDE BONES PRATIQUES DE GESTION DES MOTS DE PASSE
++
+Sécurse2 os apparels
+et oscomptes aide demots de passe forts comprenant e
+Imahscules et nscale, des synboleset au mine 1 earatres pa mot de paste
++ Actverauthentication
+mutates pourtouslescomptes
++
+Ne rdtlser paslembime
+mot depasse pour plusieurs comptes
++
+Ne stoclez pas vos mots de paste pysiquement
+(pa exemple sur des post ts) ou nu
+Rchle su vere apparel etn artager pas vote mat de passe avec cautes person
++ Nactivz pasta fonction Se souvenir de moi dans es aplication et es navigate
++
+Changezimméatementls mas de passe de vos comptesen ligne en cs de pert 
+apparel
+UTILISEZ UN LOGICIEL ANTIVIRUS/ANTI-MALWARE
++ Assure vous que vosapparels sont équpés un lpianivrusant-mal
+ad
++ STvousaver des questions surles ous addquats ou surlamanire de es configures,
+intomatique devote burs
+
+--------------------------------------------------
+EVITEZ LES ESCROQUERIES PAR HAMECONNAGE ET FAITES ATTENTI
+VOUS CLIQUEZ
++ Lorsque vous reeves des curries ou des messages suspects,vbie toujours adres
+devexpéditeur ete ciquezsurles ens outs picesjontes que svous avez conian
++ Nerépondex pos aux cours suspect tees transmettez pas vs colagues.
++ Signalez toute activité suspect vote dquie assistance informatique.
+UTILISEZ LES APPAREILS MOBILES DE MANIERE RESPONSABLE
++
+Dans a mesuredu possible, user des apparels spéciiques pour le traval, Conser
+apparels pofesionnels dans un endot sor et ter de les timbalerinutilement
++ Uilisez des outils demessagerievlidés
+parvotre organisation et qu ofrent un cryp
++
+ésactvezou rduisezau minimum a connectivé Bluetooth,
++ Uslisez un réseau privé viel (VPN) valid par vote organisation lorsque vous trav
+Déconnectezvous toujours deotros compte() svousuliserun ordinateur ou u
++
+bésactve ls fonctions de déverroullagebiométrqueen particulier lorsque vous t
+PROTEGEZ LES DONNEES SENSIBLES ET MINIMISEZ LES DONNEES
++
+Tenez un registre des traitements de données qui indique le niveau de sensibilité de
+dlonnéesgépar votre bureau. Réviserrégulrernent les niveaux de sensbltéen fo
+conte.
++
+Ne collectquela quant minimale de données nécestares pour tsindre lobjet
+activité partcalére de gestion de données.
++
+Meconserverles données sensibles quel temps nécesaie ala réalisatio
+de obje
+{ont tratesetcnformémentaux dvectves,i et églementationsapplicables.
++ Transérezet stocker lesdonnées side outilsetde canaux valdés par votre organ
+Unserveur ou un ordinateur ie ou portable de organisation
+sou sut des serveurse
+tistanceparlebiais applications tles que nerve, SharePoint et Teas)
++
+Protige par mot de passe es fichiers (Word, Excel, POF) contenant des données sens
+‘motsde passe des documents par descanauxlstints (par exemple, envayez par SM
+Uindocumentenvoyépar cour)
++ Limiter etcontdlezscgneusementlenom
+de personnes ayant accésouxdonnée
++ béfinissez un calender de conservation ete destruction pour touts les donndes g
+‘outils adéquats pour la destruction des données.
++ cryptervos cours
+
+--------------------------------------------------
