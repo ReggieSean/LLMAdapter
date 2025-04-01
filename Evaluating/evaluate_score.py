@@ -1,3 +1,5 @@
+# A file to evaluate a model's final summary, pass in the folder path that stores all final summaries and a folder path that stores GPT's version on those summaries.
+
 from nltk.translate.bleu_score import sentence_bleu, SmoothingFunction
 from rouge_score import rouge_scorer
 from pathlib import Path
